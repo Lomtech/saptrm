@@ -1,0 +1,14 @@
+{
+  "loio": "4e2332732b16461ca5e8a828877a89b2",
+  "title": "Trade Repository Reporting via External Provider",
+  "file_path": "4e2332732b16461ca5e8a828877a89b2.html",
+  "page_id": 2555101851,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Integration Scenarios",
+    "Trade Repository Reporting via External Provider"
+  ],
+  "depth": 2,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Trade Repository Reporting via External Provider</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"This integration scenario enables you to send an XML file containing the data of the financial transactions to your external provider VirtusaPolaris. The external provider will then transform the data to your responsible trade repository.\"><meta name=\"description\" content=\"This integration scenario enables you to send an XML file containing the data of the financial transactions to your external provider VirtusaPolaris. The external provider will then transform the data to your responsible trade repository.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"copy4e2332732b16461ca5e8a828877a89b2\"><h1 class=\"title topictitle1\">Trade Repository Reporting via External Provider</h1><div class=\"body conbody\"><p class=\"shortdesc\">This integration scenario enables you to send an XML file containing the data of the financial transactions to your external provider\nVirtusaPolaris. The external provider will then transform the data to your responsible trade repository.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">The scope of the supported financial instruments needs to be aligned with the service provider (VirtusaPolaris) and then considered in\nyour selection criteria (e.g. product categories, transaction categories or product types).</p></aside>\n<p class=\"p\">For more information, see also <a class=\"xref\" href=\"be0686573d12ab76e10000000a441470.html\">Send Data of Financial Transactions to External Provider</a></p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

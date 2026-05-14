@@ -1,0 +1,18 @@
+{
+  "loio": "21f9a29b1ab34a8492711203f83c3bdb",
+  "title": "Redemption Schedule Set",
+  "file_path": "21f9a29b1ab34a8492711203f83c3bdb.html",
+  "page_id": 2555101768,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "Conditions",
+    "Conditions for ABS/MBS With Single Interest Conditions",
+    "Redemption Schedule Set"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Redemption Schedule Set</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"copy21f9a29b1ab34a8492711203f83c3bdb\"><h1 class=\"title topictitle1\">Redemption Schedule Set </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n<p class=\"p\">A redemption schedule set (RS set) contains a group of redemption schedules for a particular\nclass. In conjunction with the ID number, the redemption schedule set identifies a\nspecific set of redemption schedules.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">Only relevant for ABS/MBS with single interest conditions.</p></aside>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Structure\"><h2 class=\"section_title\">Structure</h2>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Repayment schedule sets are uniquely identified by their key and the ID number of the class. </p></li><li class=\"li\"><p class=\"p\">They consist of header data and the assigned <a class=\"xref\" href=\"3e17da531198434de10000000a174cb4.html\">redemption schedules</a>. </p><p class=\"p\">Key header data of a redemption schedule set: </p><ul class=\"ul\"><li class=\"li\"><p class=\"p\">Date of first redemption </p></li><li class=\"li\"><p class=\"p\">Date of last redemption </p></li>\n<li class=\"li\"><p class=\"p\">Redemption frequency </p></li></ul></li></ul>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2>\n<p class=\"p\">You assign the redemption schedule sets to the individual bonds in the class data on the\n<span class=\"ph uicontrol\">Conditions</span> tab. You enter the header data when you create\nthe first redemption schedule for a particular class. </p>\n<p class=\"p\">You can assign various redemption schedule sets to a class. If you assign only one RS\nset to a class, this automatically becomes the active RS set. If more than one\nredemption schedule set exists, you can choose which of them is to be the active\nset. </p>\n<p class=\"p\">The cash flow for the class shows the planned records for the redemption flows. These are\ntaken from the data for the active <a class=\"xref\" href=\"3e17da531198434de10000000a174cb4.html\">redemption schedule</a>\nin the active redemption schedule set. </p>\n<p class=\"p\">Once you have created the header data for a redemption schedule set, you can enter one or\nmore redemption schedules. </p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

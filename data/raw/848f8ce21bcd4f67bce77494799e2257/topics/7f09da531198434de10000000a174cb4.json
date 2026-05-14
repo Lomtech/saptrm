@@ -1,0 +1,18 @@
+{
+  "loio": "7f09da531198434de10000000a174cb4",
+  "title": "Attributable Amount of a Collateral Group",
+  "file_path": "7f09da531198434de10000000a174cb4.html",
+  "page_id": 2555101092,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Collateral",
+    "Collateral Agreement",
+    "Attributable Amount of a Collateral Group"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Attributable Amount of a Collateral Group</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio7f09da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Attributable Amount of a Collateral Group</h1><div class=\"body\">\n<p class=\"p\"> For single transactions of a netting group that belong to a collateral agreement, the system determines an attributable amount per collateral\nagreement. The way in which the attributable amount is determined depends on whether risk determination within the netting group takes place in\na risk-adjusted or volume-oriented way. </p>\n<p class=\"p\">The system determines and shows the attributable amounts individually per collateral group. To obtain the attributable amount for a collateral\nagreement, in the first step the system calculates the net present value of a collateral group from all the included transactions by totaling\nall net present values. </p>\n<p class=\"p\">Net present value (NPV) =∑(PV <sub class=\"ph sub\">i</sub> ) </p>\n<p class=\"p\">A distinction must be made between the following cases for the determination of the attributable amount of the collateral group. When\nconsidering these cases, the threshold amount and the accumulated settlement payments are included: </p>\n<img class=\"inline\" id=\"loio7f09da531198434de10000000a174cb4__image_vht_j3g_5jb\" src=\"loioe583493e0f9b40039a43b2809b479683_LowRes.png\">\n<p class=\"p\">Depending on the netting group settings, the attributable amount of the collateral group can be additionally weighted with an average default\nprobability. </p>\n<div class=\"table-wrapper tablenoborder\"><table summary=\"\" class=\"table\" frame=\"border\" border=\"1\" rules=\"all\"><colgroup><col width=\"100%\"></colgroup><tbody class=\"tbody\">\n<tr class=\"row\">\n<td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Default probability = <img class=\"inline\" src=\"loio3f20df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p></td>\n</tr>\n</tbody></table></div>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> </p><p class=\"p\">The add-on of the single transactions is not offset, but displayed in reporting. </p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

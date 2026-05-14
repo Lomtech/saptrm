@@ -1,0 +1,16 @@
+{
+  "loio": "3df2959bfb89446c836c61b6d0c4b7ee",
+  "title": "Period Definition",
+  "file_path": "3df2959bfb89446c836c61b6d0c4b7ee.html",
+  "page_id": 2555103749,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management of Balance Sheet FX Risk",
+    "Generate Balance Sheet Exposure Hedge Requests",
+    "Period Definition"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Period Definition</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Define overall reporting period and split the overall period into intervals.\"><meta name=\"description\" content=\"Define overall reporting period and split the overall period into intervals.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio3df2959bfb89446c836c61b6d0c4b7ee\"><h1 class=\"title topictitle1\">Period Definition</h1><div class=\"body conbody\"><p class=\"shortdesc\">Define overall reporting period and split the overall period into intervals.</p>\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n\n<ul class=\"ul\" id=\"loio3df2959bfb89446c836c61b6d0c4b7ee__ul_nd3_hxg_5kb\">\n<li class=\"li\"><p class=\"p\">If you select this indicator, you define the overall reporting period by specifying dates in the <span class=\"ph uicontrol\">Start\nDate</span> and <span class=\"ph uicontrol\">End Date</span> fields. How the overall period is split into (sub)periods is defined\nby making entries in the <span class=\"ph uicontrol\">Increment</span> und <span class=\"ph uicontrol\">Unit</span> fields.</p><p class=\"p\">All exposure and hedges with due dates/value dates falling within the reporting period are selected and saved as snapshot items\nassigned to the specific period to which their due dates/value dates belong.</p></li>\n<li class=\"li\"><p class=\"p\">If you do not select this indicator, all selected exposures and hedges are selected and saved as snapshot items, independently\nof their due date/value date.</p></li>\n</ul>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

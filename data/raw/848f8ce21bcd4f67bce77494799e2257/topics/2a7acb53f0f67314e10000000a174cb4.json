@@ -1,0 +1,19 @@
+{
+  "loio": "2a7acb53f0f67314e10000000a174cb4",
+  "title": "Transfer of Flows for Value Adjustment",
+  "file_path": "2a7acb53f0f67314e10000000a174cb4.html",
+  "page_id": 2555100921,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Regulatory Reporting",
+    "Germany",
+    "Integration",
+    "Transfer of Flows for Value Adjustment"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Transfer of Flows for Value Adjustment</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2a7acb53f0f67314e10000000a174cb4\"><h1 class=\"title topictitle1\">Transfer of Flows for Value Adjustment </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> You can connect the component for individual value adjustment (RBD) for loans management to statutory reporting to enable you to transfer value adjustment flows.</p>\n<p class=\"p\"> Currently, only integration for list output (transfer at runtime via function module) is supported. The feeder system flows are hereby read from the feeder system databases directly when a list is created and converted to the list output format.</p>\n<p class=\"p\"> Transfer and conversion takes place at runtime by means of function module ISSR_GET_RESERVE_BAD_DEPTS.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2>\n<p class=\"p\">You can find the Customizing settings for connecting the RBD component as a feeder system of statutory reporting in the Implementation Guide for Statutory Reporting under <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Source Systems</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Connection to Additional Feeder Systems (RBD)</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>. An online update is not supported.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2>\n<p class=\"p\"> You have made or checked the necessary settings in statutory reporting and for the RBD component. For more information, see the Implementation Guide.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<p class=\"p\"> For more information about the transfer process, see the function module documentation.</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,14 @@
+{
+  "loio": "a3a8618b2de9499d854a07b662c4d997",
+  "title": "Currency Converter",
+  "file_path": "a3a8618b2de9499d854a07b662c4d997.html",
+  "page_id": 2555105070,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Market Data Management",
+    "Currency Converter"
+  ],
+  "depth": 2,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Currency Converter</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"With this app, you convert a specific amount from one currency to another on a specific date and according to a specific rate type.\"><meta name=\"description\" content=\"With this app, you convert a specific amount from one currency to another on a specific date and according to a specific rate type.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioa3a8618b2de9499d854a07b662c4d997\"><h1 class=\"title topictitle1\">Currency Converter</h1><div class=\"body conbody\"><p class=\"shortdesc\">With this app, you convert a specific amount from one currency to another on a specific\ndate and according to a specific rate type.</p>\n<div class=\"section\" id=\"loioa3a8618b2de9499d854a07b662c4d997__section_lsg_rht_zz\"><section class=\"section\" type=\"Key Features\"><h2 class=\"section_title\">Key Features</h2>\n\n<ul class=\"ul\" id=\"loioa3a8618b2de9499d854a07b662c4d997__ul_nr1_sht_zz\">\n<li class=\"li\"><p class=\"p\">Convert an amount from one currency to another according to a date and\nexchange rate type</p></li>\n<li class=\"li\"><p class=\"p\">Save a variant for your preferred currency settings</p></li>\n</ul>\n</section></div>\n<div class=\"section\" id=\"loioa3a8618b2de9499d854a07b662c4d997__section_d5j_zht_zz\"><section class=\"section\" type=\"Supported Device Types\"><h2 class=\"section_title\">Supported Device Types</h2>\n\n<ul class=\"ul\" id=\"loioa3a8618b2de9499d854a07b662c4d997__ul_ivg_13t_zz\">\n<li class=\"li\"><p class=\"p\">Desktop</p></li>\n</ul>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

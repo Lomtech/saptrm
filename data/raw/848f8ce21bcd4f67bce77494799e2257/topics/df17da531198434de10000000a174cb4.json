@@ -1,0 +1,18 @@
+{
+  "loio": "df17da531198434de10000000a174cb4",
+  "title": "Bonus",
+  "file_path": "df17da531198434de10000000a174cb4.html",
+  "page_id": 2555101412,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "Conditions",
+    "Conditions for Stock/Shareholding",
+    "Bonus"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Bonus</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiodf17da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Bonus</h1><div class=\"body\">\n<p class=\"p\"> Enter the following data:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Due date\n</p></li><li class=\"li\"><p class=\"p\">Estimated amount of the distributions\n</p></li><li class=\"li\"><p class=\"p\">Currency\n</p></li></ul>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">We do <span class=\"ph emphasis emphasis\">not</span> recommend that you enter a monthly frequency.\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

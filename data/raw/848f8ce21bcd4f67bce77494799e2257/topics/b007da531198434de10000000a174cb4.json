@@ -1,0 +1,17 @@
+{
+  "loio": "b007da531198434de10000000a174cb4",
+  "title": "Offer Overview",
+  "file_path": "b007da531198434de10000000a174cb4.html",
+  "page_id": 2555101157,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Transaction",
+    "Offer Overview"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Offer Overview</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiob007da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Offer Overview </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Features</span>\n</p>\n<p class=\"p\"> This report shows you an overview of the offers made and the resulting contracts.You can configure your own overview (for example, sort according to business partner, currency, product type) This provides you with an overview of the quality of the offers and the competitiveness of the prices from individual business partners.\n</p>\n<p class=\"p\"> For more information, see <a class=\"xref\" href=\"aa07da531198434de10000000a174cb4.html\">Offers</a> for forex and fixed-term deposits.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

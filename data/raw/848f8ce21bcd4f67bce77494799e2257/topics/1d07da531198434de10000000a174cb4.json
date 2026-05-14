@@ -1,0 +1,16 @@
+{
+  "loio": "1d07da531198434de10000000a174cb4",
+  "title": "Fixed-Term Deposits",
+  "file_path": "1d07da531198434de10000000a174cb4.html",
+  "page_id": 2555101124,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Money Market Transactions",
+    "Fixed-Term Deposits"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fixed-Term Deposits</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1d07da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Fixed-Term Deposits </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n\n<p class=\"p\">A fixed term deposit is a money market transaction with fixed interest condition and final\nrepayment.</p>\n<p class=\"p\"> The trading of fixed-term deposits (including overnight money and eurocurrency) includes\ntransactions with fixed interest rates and an end of term <span class=\"ph emphasis emphasis\">arranged at the\nstart</span>. This includes the transaction types fixed-term deposit investment and\nfixed-term deposit borrowing. If the authorized business partners and corresponding payment\ndetails are already defined in the standing instructions, the required entries are\nrestricted to the required entries in the structural characteristics. In addition to\nfunctions for entering and changing fixed-term deposits, the system also supports functions\nfor rollovers and reversals. </p>\n<p class=\"p\"> You only have to define the standard interest calculation method and the calendar you want\nto use once, and these will then be used as default values for the transaction. </p>\n</section></div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"0d10da531198434de10000000a174cb4.html\">Creating Fixed-Term Deposit Transactions</a></div><div><a class=\"link\" href=\"2107da531198434de10000000a174cb4.html\">Processing Fixed-Term Deposits</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

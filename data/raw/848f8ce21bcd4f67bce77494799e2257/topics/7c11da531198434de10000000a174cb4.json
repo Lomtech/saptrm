@@ -1,0 +1,16 @@
+{
+  "loio": "7c11da531198434de10000000a174cb4",
+  "title": "Currency Risk Factors in the Risk Hierarchy",
+  "file_path": "7c11da531198434de10000000a174cb4.html",
+  "page_id": 2555103321,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Risk Hierarchy",
+    "Currency Risk Factors in the Risk Hierarchy"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Currency Risk Factors in the Risk Hierarchy</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio7c11da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Currency Risk Factors in the Risk Hierarchy</h1><div class=\"body\">\n<p class=\"p\"> As indirectly-quoted exchange rates are permitted as of Basis release 4.6, the corresponding adaptations for the management of these rates in value-at-risk have been carried out.\n</p>\n<p class=\"p\">The currency valuation of items is a linear function. Thus at the start of delta-gamma formulation you expect a gamma position of 0. Internally, indirectly quoted rates are always converted to price-quoted rates using the quotation ration of 1:1. This maintains the linearity of the valuation function. When defining risk factors, ensure that you use the generic generation of currency risk factors.\n</p>\n<p class=\"p\">Only store the <span class=\"ph emphasis emphasis\">from-currency</span> as the risk factor. The system automatically replaces the to-currency with the evaluation currency. In this way you ensure that relative currency shifts resulting from the internal conversion to price-quoted representation are always multiplied for the creation of currency simulation scenarios. In this way, linearity of the valuation function is retained.\n</p>\n<p class=\"p\">If you do not use this generic for creating currency risk factors, gamma items can arise that do not equal zero since you have to divide by shifts.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

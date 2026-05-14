@@ -1,0 +1,17 @@
+{
+  "loio": "440ada531198434de10000000a174cb4",
+  "title": "Collateral Agreement",
+  "file_path": "440ada531198434de10000000a174cb4.html",
+  "page_id": 2555103400,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Collateral",
+    "Collateral Agreement"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Collateral Agreement</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio440ada531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Collateral Agreement</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Definition</span>\n</p>\n<p class=\"p\"> A collateral agreement is a contract regarding the provision of collateral for trading transactions between two business partners. The agreement involves the transfer of collaterals (usually securities, cash collaterals) as soon as the market value of the trading transactions requiring collateral exceeds a <span class=\"ph emphasis emphasis\">threshold amount</span> (ThA). The threshold amount the contract partners grant each other can vary.\n</p>\n<p class=\"p\">Both exposures from open trading transactions and values from collaterals already provided fluctuate, depending on the market. For this reason there must be a comparison of the exposures and the collateral per counterparty or issuer at agreed time intervals (daily, monthly, for example). To restrict transaction costs, additional payment obligations arising from the threshold amount being exceeded do not have to be met immediately on the valuation key date, but rather in phases, each time what is known as the <span class=\"ph emphasis emphasis\">minimum transfer amount</span> ( <span class=\"ph emphasis emphasis\">MTA</span> ) is exceeded.\n</p>\n<aside class=\"note caution\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Caution</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">The attribution of collateral agreements <span class=\"ph emphasis emphasis\">only</span> takes place in <a class=\"xref\" href=\"0dbd9753858ced23e10000000a174cb4.html\">end of day processing</a> . The <a class=\"xref\" href=\"bb09da531198434de10000000a174cb4.html\">single transaction check</a> does not support collateral agreements.\n</p></aside>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

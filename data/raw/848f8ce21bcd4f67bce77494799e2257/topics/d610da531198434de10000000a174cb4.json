@@ -1,0 +1,17 @@
+{
+  "loio": "d610da531198434de10000000a174cb4",
+  "title": "Forex Options",
+  "file_path": "d610da531198434de10000000a174cb4.html",
+  "page_id": 2555102336,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Editing Generic Transactions",
+    "Examples of Generic Transactions",
+    "Forex Options"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Forex Options</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiod610da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Forex Options</h1><div class=\"body\">\n<p class=\"p\"> Forex options are defined on a two-level basis, as with options on underlyings. This means there is one elementary option transaction, and a subordinate elementary forex transaction. You first have to create the option transaction with transaction form 061 and the underlying with transaction 041.\n</p>\n<p class=\"p\">Determine in advance what the forex transaction will look like (buy and sell flows). Specify in which of these two currencies the strike price currency will be. In the following documentation this will be referred to as the strike currency, and the other currency as the reference currency.\n</p>\n<aside class=\"note sap-example example\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Example</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">If the strike of a USD/EUR option were x EUR, then the strike currency would be EUR, and USD would be the reference currency.\n</p><p class=\"p\">Define two cash flows for the forex transaction, one each for the incoming and outgoing sides.\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

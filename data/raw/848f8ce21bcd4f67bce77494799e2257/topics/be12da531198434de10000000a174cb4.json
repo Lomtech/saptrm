@@ -1,0 +1,17 @@
+{
+  "loio": "be12da531198434de10000000a174cb4",
+  "title": "Multi-Client Capability of Analysis Structures + Characteristics",
+  "file_path": "be12da531198434de10000000a174cb4.html",
+  "page_id": 2555101322,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Analysis Structure",
+    "Generated Analysis Structure",
+    "Multi-Client Capability of Analysis Structures + Characteristics"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Multi-Client Capability of Analysis Structures + Characteristics</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiobe12da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Multi-Client Capability of Analysis Structures + Characteristics</h1><div class=\"body\">\n<p class=\"p\">The applications <span class=\"ph uicontrol\">TRM Market Risk Analyzer</span> and <span class=\"ph uicontrol\">TRM Portfolio\nAnalyzer</span> use <span class=\"ph uicontrol\">analysis structures</span>, to which\n<span class=\"ph uicontrol\">analysis characteristics</span> are assigned. These are cross-client\nobjects. From a technical viewpoint, these objects are data elements, domains, tables,\nstructures, views or entries in cross-client tables (field catalog).</p>\n<p class=\"p\">The system can handle multiple requests from different clients at the same time for the\nfollowing reasons:</p>\n<ul class=\"ul\">\n<li class=\"li\"><p class=\"p\">One system can contain multiple analysis structures. Characteristics can be assigned to\nthese structures in any combination (without overlaps).</p></li>\n<li class=\"li\"><p class=\"p\">Analysis structures can be activated specific to a particular client. The application\nfunctions use only the analysis structure that is active in the respective client. This\nmeans that you can use different analysis structures in different clients. The use of\ncharacteristics is also client-dependent, as they are assigned to the analysis\nstructure.</p></li>\n<li class=\"li\"><p class=\"p\">The system assigns identifiers for both characteristics and analysis structures. By using\nsuitable naming conventions, conflicts between the different clients can therefore be\navoided.</p></li>\n<li class=\"li\"><p class=\"p\">When you maintain characteristics and analysis structures, the system displays the\ncross-client effects of the maintenance in a dialog box and checks authorization. Once you\nhave created a characteristic, you can change only its name. This prevents any critical\ncross-client changes being made here.</p></li>\n</ul>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

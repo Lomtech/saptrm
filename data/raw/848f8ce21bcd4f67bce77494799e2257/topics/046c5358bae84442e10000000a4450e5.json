@@ -1,0 +1,17 @@
+{
+  "loio": "046c5358bae84442e10000000a4450e5",
+  "title": "Hedging Area: Currencies",
+  "file_path": "046c5358bae84442e10000000a4450e5.html",
+  "page_id": 2555103817,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management and Accounting of Net Open Exposures (FX Risk)",
+    "Settings for Hedge Management",
+    "Define Hedging Areas",
+    "Hedging Area: Currencies"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Hedging Area: Currencies</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio046c5358bae84442e10000000a4450e5\"><h1 class=\"title topictitle1\">Hedging Area: Currencies</h1><div class=\"body conbody\"> <p class=\"p\">You must add the foreign currencies that are relevant for hedging in your company.</p> <p class=\"p\">If you want to enter target quotas, you have to enter currency groups in the right-hand column. You define the groups by entering a name. If you enter the same name for different currencies, they are within the same currency group. You can enter the currency groups manually or you can use the prefill function <img class=\"inline\" src=\"loio7124363c2fd348acb782892aa8bdc682_LowRes.png\" alt=\"Prefill Currency Groups\" title=\"Prefill Currency Groups\">. When you use the function, the system enters for each currency the currency name in the <span class=\"ph uicontrol\">Currency Group</span> column. In this way, you have then defined a currency group for each currency. Now you can change the entries.</p> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

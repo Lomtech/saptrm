@@ -1,0 +1,18 @@
+{
+  "loio": "6b13da531198434de10000000a174cb4",
+  "title": "Tree Procedure",
+  "file_path": "6b13da531198434de10000000a174cb4.html",
+  "page_id": 2555102113,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Value at Risk",
+    "Structured Monte Carlo",
+    "Generation of Random Numbers",
+    "Tree Procedure"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Tree Procedure</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio6b13da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Tree Procedure</h1><div class=\"body\">\n<p class=\"p\"> This transformation method, also known as <span class=\"ph uicontrol\">Direct transformation</span> , creates a standard, normally-distributed random\nnumber <img class=\"inline\" src=\"loio30e4df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> from <img class=\"inline\" src=\"loioa7f2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> standard random numbers <img class=\"inline\" src=\"loioa9f2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> using the following formula: </p>\n<p class=\"p\"><img class=\"inline\" src=\"loioabf2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> . </p>\n<p class=\"p\">The distribution of <img class=\"inline\" src=\"loio30e4df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> for <img class=\"inline\" src=\"loioadf2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> converges after the central axiom rate against the standard normal distribution. </p>\n<p class=\"p\">Experience shows that a satisfactory result can in fact be achieved with <img class=\"inline\" src=\"loioaff2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> . The formula for calculating <img class=\"inline\" src=\"loio30e4df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> can be simplified to: </p>\n<p class=\"p\"><img class=\"inline\" src=\"loiob1f2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> . </p>\n<p class=\"p\">Hence to approximate M-independent standard normally distributed random numbers <img class=\"inline\" src=\"loiob3f2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> with this procedure, you need <img class=\"inline\" src=\"loiob5f2df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> standard random numbers. </p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

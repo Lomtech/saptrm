@@ -1,0 +1,16 @@
+{
+  "loio": "0d1ada531198434de10000000a174cb4",
+  "title": "Class: Reference",
+  "file_path": "0d1ada531198434de10000000a174cb4.html",
+  "page_id": 2555101786,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "Class: Reference"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Class: Reference</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio0d1ada531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Class: Reference</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span>\n</p>\n<p class=\"p\"> Choose <img class=\"inline\" src=\"loio0db5df53e957444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n<span class=\"ph uicontrol\">References</span> in the class data with which to display the classes\nfrom which a relationship was created for the relevant security. </p>\n<p class=\"p\">The table displays the ID number and the short name of the underlying security and the reference category that was used. </p>\n<p class=\"p\">You can display the following reference categories:</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Equity warrant </p></li><li class=\"li\"><p class=\"p\">Bond warrant\n</p></li><li class=\"li\"><p class=\"p\">Subscription right\n</p></li><li class=\"li\"><p class=\"p\">Convertible bond\n</p></li><li class=\"li\"><p class=\"p\">Warrant bond\n</p></li><li class=\"li\"><p class=\"p\">Stock swap\n</p></li></ul>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

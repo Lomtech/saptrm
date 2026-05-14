@@ -1,0 +1,19 @@
+{
+  "loio": "621bda531198434de10000000a174cb4",
+  "title": "Equity Warrants (OTC)",
+  "file_path": "621bda531198434de10000000a174cb4.html",
+  "page_id": 2555103744,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "Derivatives",
+    "Option Price Calculator",
+    "Equity Warrants (OTC)"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Equity Warrants (OTC)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio621bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Equity Warrants (OTC)</h1><div class=\"body\">\n<p class=\"p\"> Equity warrants (OTC) can only be valued if they are entered as options (OTC). They are then valued similarly to options.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

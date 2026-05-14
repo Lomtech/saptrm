@@ -1,0 +1,15 @@
+{
+  "loio": "2b9ea8a334fa4c67bc81dfab3f1a9d24",
+  "title": "Historic FX Spot Rate",
+  "file_path": "2b9ea8a334fa4c67bc81dfab3f1a9d24.html",
+  "page_id": 2555101132,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Market Data Overview",
+    "Historic FX Spot Rate"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Historic FX Spot Rate</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"The card displays the historic FX spot rate of a currency pair before the key date.\"><meta name=\"description\" content=\"The card displays the historic FX spot rate of a currency pair before the key date.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio2b9ea8a334fa4c67bc81dfab3f1a9d24\"><h1 class=\"title topictitle1\">Historic FX Spot Rate</h1><div class=\"body conbody\"><p class=\"shortdesc\">The card displays the historic FX spot rate of a currency pair before the key\ndate.</p>\n<div class=\"p\">With this card, you can see historic FX spot rates of a currency pair before the key date. You\ncan display the historic exchange rate by period using the following drill-down\noptions:<ul class=\"ul\" id=\"loio2b9ea8a334fa4c67bc81dfab3f1a9d24__ul_ack_ycg_chb\">\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">5 Days</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Month</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">3 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">6 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Year</span></p></li>\n</ul></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

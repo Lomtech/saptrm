@@ -1,0 +1,18 @@
+{
+  "loio": "3011da531198434de10000000a174cb4",
+  "title": "User-Defined Procedures",
+  "file_path": "3011da531198434de10000000a174cb4.html",
+  "page_id": 2555102761,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Value at Risk",
+    "Structured Monte Carlo",
+    "Generation of Random Numbers",
+    "User-Defined Procedures"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>User-Defined Procedures</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3011da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">User-Defined Procedures</h1><div class=\"body\">\n<p class=\"p\"> You can use simulation categories 50-53 to integrate user-defined functions into the structured Monte Carlo simulation via an RFC interface. The simulation categories are assigned to the following functions:\n</p>\n<div class=\"table-wrapper tablenoborder\"><table summary=\"\" class=\"table\" frame=\"border\" border=\"1\" rules=\"all\"><colgroup><col width=\"50%\"><col width=\"50%\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Simulation Category</span>\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Features</span>\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> 50: Structurized Monte Carlo with user-defined algorithm for generating normally-distributed random numbers\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Generates standard, normally-distributed random numbers\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> 51: Structurized Monte Carlo, completely user-defined\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Generates correlated time series of the risk factors\n</p><p class=\"p\">Transfers the covariance matrix\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> 52: Monte Carlo bootstrapping, user-defined\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Generates correlated time series of the risk factors\n</p><p class=\"p\">Transfers the historic time series of the risk factors\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> 53: Structurized bootstrapping, user-defined\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Generates correlated time series of the risk factors\n</p><p class=\"p\">Transfers the covariance matrix and the historic time series of the risk factors\n</p></td></tr></tbody></table></div>\n<p class=\"p\"> There are two example functions for the interface. You can access these via the function modules MONTE_CARLO_USEREXIT_STEP_1 and MONTE_CARLO_USEREXIT_STEP_2:\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

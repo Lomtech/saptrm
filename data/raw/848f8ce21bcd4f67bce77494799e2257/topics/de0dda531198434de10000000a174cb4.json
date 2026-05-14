@@ -1,0 +1,17 @@
+{
+  "loio": "de0dda531198434de10000000a174cb4",
+  "title": "E-Hedge Accounting: Change Documents",
+  "file_path": "de0dda531198434de10000000a174cb4.html",
+  "page_id": 2555096849,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Information Systems",
+    "E-Hedge Accounting: Change Documents"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>E-Hedge Accounting: Change Documents</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiode0dda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">E-Hedge Accounting: Change Documents </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Features</span>\n</p>\n<p class=\"p\"> Change documents are written to document changes on the database. They are available for the following:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Hedged items\n</p></li><li class=\"li\"><p class=\"p\"> Hedging relationships\n</p></li><li class=\"li\"><p class=\"p\"> Hedge plan\n</p></li><li class=\"li\"><p class=\"p\"> FX exposure transactions\n</p></li><li class=\"li\"><p class=\"p\"> Interest rate exposure transactions\n</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Activities</span>\n</p>\n<p class=\"p\"> Every new entry and data change in <span class=\"ph uicontrol\">Hedge Accounting for Exposures</span> is logged. You can display the changes using the <span class=\"ph uicontrol\">Change Documents for E-Hedge Accounting</span> function. The selection can be restricted to specific hedge plans, hedging items, versions of hedging relationships, and exposures.\n</p>\n<p class=\"p\"><img class=\"inline\" src=\"loio454470533fe4761ee10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> No change documents are written for the exposures.\n</p>\n<p class=\"p\"> The time period and the name of the last person who changed the selection can also be specified.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

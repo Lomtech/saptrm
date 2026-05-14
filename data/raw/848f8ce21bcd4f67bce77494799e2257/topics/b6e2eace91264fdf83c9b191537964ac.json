@@ -1,0 +1,17 @@
+{
+  "loio": "b6e2eace91264fdf83c9b191537964ac",
+  "title": "Transport Rules",
+  "file_path": "b6e2eace91264fdf83c9b191537964ac.html",
+  "page_id": 2555101420,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Integration Scenarios",
+    "Integration with Cash and Liquidity Management",
+    "Substitution Rules for Planning Levels - Treasury Flows",
+    "Manage Substitution/Validation Rules",
+    "Transport Rules"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Transport Rules</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiob6e2eace91264fdf83c9b191537964ac\"><h1 class=\"title topictitle1\">Transport Rules</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">Substitution and validation rules are configured in a customizing client. These\ncustomizing changes are recorded and transported to the production client via\ncustomizing requests. In the production client, users only have read access to the\nconfigured rules.</p>\n<div class=\"p\">Note that any changes made to rules can only be transported in this way after\n<span class=\"ph emphasis emphasis\">activation</span> of the rules. In addition,\n<span class=\"ph emphasis emphasis\">deletion</span> of rules can also be transported.<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">To enable the transport as described above, <span class=\"ph uicontrol\">Automatic recording of\nchanges</span> must be selected as the option for <span class=\"ph uicontrol\">Changes\nand Transports for Client-Specific Objects</span> in transaction\n<span class=\"ph sap-technical-name sap-technical-name\">SM30</span> (table/view\n<span class=\"ph sap-technical-name sap-technical-name\">T000)</span> for your customizing\nclient.</p></aside></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,13 @@
+{
+  "loio": "4c075fdaeaaa488fae5e59d4690b250b",
+  "title": "Data Management in Treasury and Risk Management",
+  "file_path": "4c075fdaeaaa488fae5e59d4690b250b.html",
+  "page_id": 2555103554,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Data Management in Treasury and Risk Management"
+  ],
+  "depth": 1,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Data Management in Treasury and Risk Management</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Options to manage your data in SAP S/4Hana Treasury and Risk Management\"><meta name=\"description\" content=\"Options to manage your data in SAP S/4Hana Treasury and Risk Management\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio4c075fdaeaaa488fae5e59d4690b250b\"><h1 class=\"title topictitle1\">Data Management in Treasury and Risk Management </h1><div class=\"body conbody\"><p class=\"shortdesc\">Options to manage your data in SAP S/4Hana Treasury and Risk Management</p>\n<div class=\"section\" id=\"loio4c075fdaeaaa488fae5e59d4690b250b__section_ip2_m34_zjb\"><section class=\"section\" type=\"Key Features\"><h2 class=\"section_title\">Key Features</h2>\n\n<ul class=\"ul\" id=\"loio4c075fdaeaaa488fae5e59d4690b250b__ul_hgg_434_zjb\">\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"bbbea68f24bc483cb6401edae11710f3.html\">Deletion of Personal Data in Treasury and Risk Management</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"f8ba83ff72c04364b2162459761ee521.html\">Archiving Data in Treasury and Risk Management</a></p></li>\n</ul>\n</section></div>\n<div class=\"section\" id=\"loio4c075fdaeaaa488fae5e59d4690b250b__section_yyw_lkx_1cb\">\n<p class=\"p\">In this section, you can find the functions available for managing\nyour data.</p>\n</div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"a7a3f5c19ec64595a14f8a379820e63f.html\" title=\"\">Data Management in SAP S/4HANA</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

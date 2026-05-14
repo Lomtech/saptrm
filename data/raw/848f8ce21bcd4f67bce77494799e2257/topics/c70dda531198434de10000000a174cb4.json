@@ -1,0 +1,17 @@
+{
+  "loio": "c70dda531198434de10000000a174cb4",
+  "title": "Prematurely Reclassified OCI",
+  "file_path": "c70dda531198434de10000000a174cb4.html",
+  "page_id": 2555101362,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Information Systems",
+    "Prematurely Reclassified OCI"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Prematurely Reclassified OCI</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioc70dda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Prematurely Reclassified OCI </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\">This report shows all OCI balances that have been reclassified prematurely, that is, before the underlying exposure affected earnings, or was scheduled to affect earnings. It thus provides the exception reporting required.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2>\n<p class=\"p\">Choose <span class=\"ph uicontrol\">Hedge Accounting for Exposures</span><span class=\"ph uicontrol\">Information System</span><span class=\"ph uicontrol\">Prematurely Reclassified OCI</span> .\n</p>\n<p class=\"p\">The <span class=\"ph uicontrol\">Exception Report: OCI Reclassification Prior to Due Date</span> entry screen appears.\n</p>\n<p class=\"p\">Enter your selection criteria in the following entry fields:\n</p>\n<p class=\"p\">\n</p>\n<p class=\"p\">Company code\n</p>\n<p class=\"p\">Reclassification date\n</p>\n<p class=\"p\">Hedge plan ID\n</p>\n<p class=\"p\">Hedge item ID\n</p>\n<p class=\"p\">Transaction\n</p>\n<p class=\"p\">Product type\n</p>\n<p class=\"p\">Hedge category\n</p>\n<p class=\"p\">Transaction category\n</p>\n<p class=\"p\">Transaction activity\n</p>\n<p class=\"p\">Choose <span class=\"ph uicontrol\">Program</span><span class=\"ph uicontrol\">Execute</span> .\n</p>\n<p class=\"p\">\n</p>\n<p class=\"p\">\n</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

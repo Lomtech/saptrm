@@ -1,0 +1,17 @@
+{
+  "loio": "effb51f800ec444eb612e5ceb85ee23d",
+  "title": "Net Present Value Calculations for Operating Exposures",
+  "file_path": "effb51f800ec444eb612e5ceb85ee23d.html",
+  "page_id": 2555104943,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "Net Present Value Calculations for Operating Exposures"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Net Present Value Calculations for Operating Exposures</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioeffb51f800ec444eb612e5ceb85ee23d\"><h1 class=\"title topictitle1\">Net Present Value Calculations for Operating Exposures</h1><div class=\"body conbody\"> <div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2><p class=\"p\">You can perform net present value calculations for raw exposures and exposure positions.</p> <p class=\"p\">You can run value-at-risk analyses for operating exposures. By way of enhancement to the net present value analysis, the value-at-risk analysis takes into account the uncertainty of future market developments and also enables risks to be assessed consistently.</p> </section></div> <div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2><p class=\"p\"><span class=\"ph emphasis emphasis\"></span> <a class=\"xref\" href=\"4df9da9cc434096ee10000000a42189e.html\">Integration of Exposure Positions in Market Risk Analysis</a></p> </section></div> <div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2><p class=\"p\"><span class=\"ph emphasis emphasis\">Foreign Exchange Exposures</span></p> <p class=\"p\">The net present value of a foreign exchange exposure is calculated as follows:</p> <p class=\"p\">NPV = foreign currency amount * DF</p> <p class=\"p\">where</p> <p class=\"p\">DF = discount factor resulting from the yield curve of the foreign currency. Discounting occurs from the due date to the horizon.</p> <p class=\"p\">Within a foreign exchange exposure position, the individual partial amounts may be due on different dates (within the planning period). In such cases, the total NPV of the exposure position is calculated by adding together the individual NPVs on the different due dates.</p> </section></div> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

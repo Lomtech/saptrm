@@ -1,0 +1,17 @@
+{
+  "loio": "5209da531198434de10000000a174cb4",
+  "title": "Exposure versus the Attributable Amount",
+  "file_path": "5209da531198434de10000000a174cb4.html",
+  "page_id": 2555101513,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Attributable Amount Determination",
+    "Exposure versus the Attributable Amount"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Exposure versus the Attributable Amount</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5209da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Exposure versus the Attributable Amount </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Exposure</span> basically refers to the amount subject to default risk. No further analysis takes place. Hence the exposure corresponds to the credit equivalent amount. The system can determine the <span class=\"ph emphasis emphasis\">attributable amount</span> on the basis of the exposure. The attributable amount shows how high the risk is that arises from the transaction. If default was a certainty, then the exact amount of the exposure could be taken as the attributable amount (volume-oriented attributable amount). In reality, default is subject to certain laws of probability. These uncertainties are therefore reflected in the calculation of attributable amount by taking into account default quotas and repayment quotas, for example. This results in risk-oriented attributable amounts.\n</p>\n<p class=\"p\"> Depending upon the nature of the transaction itself, the system differentiates between the terms primary and secondary exposure, and primary and secondary attributable amounts. The <span class=\"ph emphasis emphasis\">primary transaction</span> is the original transaction with the business partner. <span class=\"ph emphasis emphasis\">Secondary transactions</span> are made only in the context of a particular primary transaction. Examples include collateral and facilities.\n</p>\n<p class=\"p\"> Depending on whether the risk-reducing effects of collateral are considered, a distinction can be made between <span class=\"ph emphasis emphasis\">net</span> and <span class=\"ph emphasis emphasis\">gross</span> for all concepts. Gross shows the maximum possible amount per partial transaction. For example, the net attributable amount of a transaction results from the gross attributable amount of the transaction minus the attributable amounts for the collateral that can be allocated to the transaction.\n</p>\n<p class=\"p\"> The system calculates attributable amounts for each individual transaction, irrespective of whether it is a primary or secondary transaction. <span class=\"ph emphasis emphasis\">Utilizations,</span> or drawn amounts, are referred to at the level of the limits, which are defined by characteristics.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,16 @@
+{
+  "loio": "7413da531198434de10000000a174cb4",
+  "title": "Delta Positions",
+  "file_path": "7413da531198434de10000000a174cb4.html",
+  "page_id": 2555101544,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Value at Risk",
+    "Delta Positions"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Delta Positions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio7413da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Delta Positions</h1><div class=\"body\">\n<p class=\"p\"><img class=\"inline\" src=\"loio3107df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> is the first partial derivative of the NPV function after the i-nth risk factor at the point <img class=\"inline\" src=\"loio3307df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> . <img class=\"inline\" src=\"loio3507df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> is the current market value of the i-nth risk factor. In the shown procedure, <img class=\"inline\" src=\"loio3707df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> is approximated using the right-sided difference quotient (\"Delta position\"):\n</p>\n<p class=\"p\"><img class=\"inline\" src=\"loio3907df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p>\n<p class=\"p\">(Alternatively, the first partial derivative can be expressed as a central difference quotient: <img class=\"inline\" src=\"loio3b07df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"> )\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

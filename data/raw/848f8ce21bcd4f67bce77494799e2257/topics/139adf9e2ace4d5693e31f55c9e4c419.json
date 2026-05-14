@@ -1,0 +1,15 @@
+{
+  "loio": "139adf9e2ace4d5693e31f55c9e4c419",
+  "title": "Current Interest Rate",
+  "file_path": "139adf9e2ace4d5693e31f55c9e4c419.html",
+  "page_id": 2555103312,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Interest Rate Overview",
+    "Current Interest Rate"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Current Interest Rate</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio139adf9e2ace4d5693e31f55c9e4c419\"><h1 class=\"title topictitle1\">Current Interest Rate</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">With this card, you can see the value of reference interest rate which is effective on\nthe specified key date. You can also see the value of the deviation rate, which is the\ndeviation of a effective reference interest rate from a previously effective reference\ninterest rate.</p>\n<p class=\"p\">You can extend the table to see more rows by dragging the table.</p>\n<p class=\"p\">For more information, see <a class=\"xref\" href=\"9a6016237596418bba8312f9e9d8ce5a.html\">Interest Rate Overview</a>.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

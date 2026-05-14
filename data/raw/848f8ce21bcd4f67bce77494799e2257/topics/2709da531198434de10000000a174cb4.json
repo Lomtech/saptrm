@@ -1,0 +1,18 @@
+{
+  "loio": "2709da531198434de10000000a174cb4",
+  "title": "Risk Commitment Period",
+  "file_path": "2709da531198434de10000000a174cb4.html",
+  "page_id": 2555102375,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Attributable Amount Determination",
+    "Probability of Default",
+    "Risk Commitment Period"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Risk Commitment Period</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2709da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Risk Commitment Period </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n<p class=\"p\"> The risk commitment period describes the period during which termination of the commitment is not possible, or possible only with extreme difficulty. You can generate risk cost-term grids by defining default risk probabilities that are based on the risk commitment period. This reflects the fact that in reality the default risk increases with the length of the term of the transaction.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"><span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">In Customizing: </span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Basic Settings</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Definitions</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Define Default Risk Rule</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span> you define how the system is to calculate the risk commitment period. You can use dates from the transaction or fixed values in the calculation basis. The following values can be used to calculate the risk commitment period:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> End of the term of the transaction\n</p><aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> For FRAs, the day of settlement is chosen as the end of the term.\n</p></aside></li><li class=\"li\"><p class=\"p\"> Interest commitment\n</p></li><li class=\"li\"><p class=\"p\"> Capital commitment\n</p></li><li class=\"li\"><p class=\"p\"> Fixed values (the value of the risk commitment period is entered in months)\n</p></li><li class=\"li\"><p class=\"p\"> Ignore.\n</p></li></ul>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

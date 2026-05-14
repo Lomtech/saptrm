@@ -1,0 +1,15 @@
+{
+  "loio": "b006da531198434de10000000a174cb4",
+  "title": "Schematic Initialization Process Flow",
+  "file_path": "b006da531198434de10000000a174cb4.html",
+  "page_id": 2555103808,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Special Topics in Treasury and Risk Management",
+    "Initialization Guide - New Valuation Areas",
+    "Schematic Initialization Process Flow"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Schematic Initialization Process Flow</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiob006da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Schematic Initialization Process Flow </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Process flow</span>\n</p>\n<p class=\"p\"> The main purpose of the technical TRL initialization process is to merge data extracted from the operative valuation area with data from external systems.\n</p>\n<div class=\"p\"><div class=\"fig fignone\" id=\"id-25952-loiob006da531198434de10000000a174cb4--fig-54-0-0\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loioaa97df53b1c8444de10000000a174cb4_LowRes.png\"></div></div></div>\n</div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

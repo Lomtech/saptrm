@@ -1,0 +1,16 @@
+{
+  "loio": "185fc62a37d74d34a6f32a356088c522",
+  "title": "Key Date Definition",
+  "file_path": "185fc62a37d74d34a6f32a356088c522.html",
+  "page_id": 2555101960,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management of Balance Sheet FX Risk",
+    "Generate Balance Sheet Exposure Hedge Requests",
+    "Key Date Definition"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Key Date Definition</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Derive the key date dynamically from the system date.\"><meta name=\"description\" content=\"Derive the key date dynamically from the system date.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio185fc62a37d74d34a6f32a356088c522\"><h1 class=\"title topictitle1\">Key Date Definition</h1><div class=\"body conbody\"><p class=\"shortdesc\"> Derive the key date dynamically from the system date.</p>\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n\n<div class=\"p\" id=\"loio185fc62a37d74d34a6f32a356088c522__SMOJ_TSBFXR_KDD\">You can use the key date definition to derive the key date of a job dynamically from the system date. You can\nchoose between the following values:<ul class=\"ul\" id=\"loio185fc62a37d74d34a6f32a356088c522__ul_e3r_lrg_5kb\">\n<li class=\"li\"><p class=\"p\">System Date</p><p class=\"p\">The key date for the job is the current system date.</p></li>\n<li class=\"li\"><p class=\"p\">Current Month End</p><p class=\"p\">The key date for the job is the last day of the current month.</p></li>\n<li class=\"li\"><p class=\"p\">Current Quarter End</p><p class=\"p\">The key date for the job is the last day of the current quarter.</p></li>\n<li class=\"li\"><p class=\"p\">Fixed Date</p><p class=\"p\">If you choose this value, you must enter the key date manually.</p><aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">This setting is relevant if a job is only run once.</p></aside></li>\n</ul></div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

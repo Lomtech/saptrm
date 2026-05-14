@@ -1,0 +1,16 @@
+{
+  "loio": "1411da531198434de10000000a174cb4",
+  "title": "Examples of Generic Transactions",
+  "file_path": "1411da531198434de10000000a174cb4.html",
+  "page_id": 2555102254,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Editing Generic Transactions",
+    "Examples of Generic Transactions"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Examples of Generic Transactions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1411da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Examples of Generic Transactions </h1><div class=\"body\">\n<p class=\"p\"> The following documentation contains examples of generic transactions:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"bd10da531198434de10000000a174cb4.html\">Cash Flow Transactions</a> (for example loan with fixed or variable interest calculation or swaps)\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"0b11da531198434de10000000a174cb4.html\">Loan with Rights of Notice</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"7d0fda531198434de10000000a174cb4.html\">Convertible Bonds</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"9a10da531198434de10000000a174cb4.html\">Reverse Convertible Bonds</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"eb10da531198434de10000000a174cb4.html\">Hit-At-The-End-Options</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"6e0fda531198434de10000000a174cb4.html\">One-Touch Binary Options</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"f710da531198434de10000000a174cb4.html\">Bermuda Options</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"d010da531198434de10000000a174cb4.html\">Basket Options</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"d910da531198434de10000000a174cb4.html\">Caps, Floors, Collars</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"d610da531198434de10000000a174cb4.html\">Forex Options</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"f410da531198434de10000000a174cb4.html\">FIONA Swaps</a>\n</p></li></ul>\n<p class=\"p\"> You can also create <a class=\"xref\" href=\"23fec5536a51204be10000000a174cb4.html\">fictitious transactions</a> , which cannot be generated in the ALM simulation. This enables you to test hedging strategies.\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

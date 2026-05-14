@@ -1,0 +1,15 @@
+{
+  "loio": "16979359884f460886aed503e3637b9c",
+  "title": "Historic Security Price",
+  "file_path": "16979359884f460886aed503e3637b9c.html",
+  "page_id": 2555104741,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Market Data Overview",
+    "Historic Security Price"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Historic Security Price</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"This card displays the historic security prices by period.\"><meta name=\"description\" content=\"This card displays the historic security prices by period.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio16979359884f460886aed503e3637b9c\"><h1 class=\"title topictitle1\">Historic Security Price</h1><div class=\"body conbody\"><p class=\"shortdesc\">This card displays the historic security prices by period.</p>\n<div class=\"p\">With this card, you can see the security prices in the corresponding exchange before the key\ndate. You can display the security price by period using the following drill-down\noptions:<ul class=\"ul\" id=\"loio16979359884f460886aed503e3637b9c__ul_ack_ycg_chb\">\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">5 Days</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Month</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">3 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">6 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Year</span></p></li>\n</ul></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

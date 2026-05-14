@@ -1,0 +1,18 @@
+{
+  "loio": "33258f538eef3e27e10000000a44538d",
+  "title": "Importing Reports at Period End",
+  "file_path": "33258f538eef3e27e10000000a44538d.html",
+  "page_id": 2555101500,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Regulatory Reporting",
+    "Trade Repository Reporting (TRR)",
+    "Importing Reports at Period End"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Importing Reports at Period End</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio33258f538eef3e27e10000000a44538d\"><h1 class=\"title topictitle1\">Importing Reports at Period End </h1><div class=\"body conbody\"> <p class=\"p\">You use this function at the end of the period to import reports that you have received from your trade repository. As with the function for importing incoming trade repository messages, the system calls the implementation <span class=\"ph sap-technical-name sap-technical-name\">BADI_TLR_TARO_INBOUND</span><span class=\"ph uicontrol\">Import Data of Incoming Messages for a TARO</span>. The format-specific details need to be programmed in method <span class=\"ph sap-technical-name sap-technical-name\">GET_REPORTS</span> of the interface <span class=\"ph sap-technical-name sap-technical-name\">IF_TLR_TARO_BADI_INBOUND</span>.\n</p> <p class=\"p\">The implementation delivered can import the report <span class=\"ph sap-technical-name sap-technical-name\">D433</span><span class=\"ph uicontrol\">Mismatched Fields</span> and <span class=\"ph sap-technical-name sap-technical-name\">D436</span><span class=\"ph uicontrol\">Inter-TR Reconciliation Mismatched Fields</span> from REGIS-TR.\n</p> <p class=\"p\">In the <span class=\"ph uicontrol\">Monitor for Trade Repository Objects</span> (transaction <span class=\"ph sap-technical-name sap-technical-name\">FTR_TARO_MONITOR</span>), you can use the function <span class=\"ph uicontrol\">Mismatched Fields</span> to display the affected fields.\n</p> <p class=\"p\">Once the TARO has acquired the status \"Reconciled\", information relating to the mismatched fields is deleted.\n</p> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

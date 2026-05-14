@@ -1,0 +1,19 @@
+{
+  "loio": "307acb53f0f67314e10000000a174cb4",
+  "title": "Archiving of Flow Data",
+  "file_path": "307acb53f0f67314e10000000a174cb4.html",
+  "page_id": 2555096888,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Regulatory Reporting",
+    "Germany",
+    "Flows in Statutory Reporting (SR Ledger)",
+    "Archiving of Flow Data"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Archiving of Flow Data</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio307acb53f0f67314e10000000a174cb4\"><h1 class=\"title topictitle1\">Archiving of Flow Data </h1><div class=\"body\">\n<p class=\"p\"> In <span class=\"ph uicontrol\">Statutory Reporting for Insurance Companies</span>, the following archiving objects are available for archiving flow data:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"457acb53f0f67314e10000000a174cb4.html\">IS_SR_ITEM (Statutory Reporting: Line Items)</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"4b7acb53f0f67314e10000000a174cb4.html\">IS_SR_SUM (Statutory Reporting:Totals Records)</a>\n</p></li></ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

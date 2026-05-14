@@ -1,0 +1,15 @@
+{
+  "loio": "f58a39c844144bddbd5af40b24a2a2d7",
+  "title": "Define Display Order",
+  "file_path": "f58a39c844144bddbd5af40b24a2a2d7.html",
+  "page_id": 2555101572,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Foreign Exchange Overview",
+    "Define Display Order"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Define Display Order</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"With this app, you define the display order for the currency pairs used in the Foreign Exchange Overview app.\"><meta name=\"description\" content=\"With this app, you define the display order for the currency pairs used in the Foreign Exchange Overview app.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiof58a39c844144bddbd5af40b24a2a2d7\"><h1 class=\"title topictitle1\">Define Display Order</h1><div class=\"body conbody\"><p class=\"shortdesc\">With this app, you define the display order for the currency pairs used in the\n<span class=\"ph uicontrol\">Foreign Exchange Overview</span> app.</p>\n<div class=\"section\" id=\"loiof58a39c844144bddbd5af40b24a2a2d7__section_jgt_x2t_zz\"><section class=\"section\" type=\"Key Features\"><h2 class=\"section_title\">Key Features</h2>\n\n<ul class=\"ul\" id=\"loiof58a39c844144bddbd5af40b24a2a2d7__ul_jpp_dft_zz\">\n<li class=\"li\"><p class=\"p\">Define the order in which the curreny pairs comprising a leading and a following currency\nare displayed in the <a class=\"xref\" href=\"3306919f61824e0b8cced7a3b4e77d60.html\">Foreign Exchange Overview</a>\napp.</p></li>\n<li class=\"li\"><p class=\"p\">Create and manage variants for your preferred settings. </p></li>\n</ul>\n</section></div>\n<div class=\"section\" id=\"loiof58a39c844144bddbd5af40b24a2a2d7__section_mp4_y2t_zz\"><section class=\"section\" type=\"Supported Device Types\"><h2 class=\"section_title\">Supported Device Types</h2>\n\n<ul class=\"ul\" id=\"loiof58a39c844144bddbd5af40b24a2a2d7__ul_sdn_z2t_zz\">\n<li class=\"li\"><p class=\"p\">Desktop</p></li>\n</ul>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

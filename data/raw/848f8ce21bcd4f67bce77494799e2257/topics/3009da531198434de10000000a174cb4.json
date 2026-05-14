@@ -1,0 +1,18 @@
+{
+  "loio": "3009da531198434de10000000a174cb4",
+  "title": "How Data is Selected in End-of-Day Processing",
+  "file_path": "3009da531198434de10000000a174cb4.html",
+  "page_id": 2555104952,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Updating Limit Utilizations",
+    "End-of-Day Processing",
+    "How Data is Selected in End-of-Day Processing"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>How Data is Selected in End-of-Day Processing</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3009da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">How Data is Selected in End-of-Day Processing </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Purpose\"><h2 class=\"section_title\">Purpose</h2>\n<p class=\"p\">In end-of-day processing, the system selects data by taking the start date and end date of the transaction from the financial object, and\nreading the <span class=\"ph uicontrol\">counterparty risk active</span> indicator. For collateral, it checks the active indicator in the master\nrecord. </p>\n<p class=\"p\"> Maintaining the transaction start/end dates in the financial object is optional. However, if you do maintain these dates you can do the following:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Run historical evaluations\n</p></li><li class=\"li\"><p class=\"p\"> Influence the extent of the basic data set, and hence the performance of the system.\n</p></li></ul>\n<p class=\"p\"> The indicators in the collateral are interpreted as follows:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">The <span class=\"ph uicontrol\">counterparty risk active</span> indicator in the financial object controls the actual secondary risk display. </p></li><li class=\"li\"><p class=\"p\">The active indicator in the master record of the collateral forms its primary risk-reducing effect, and its potential secondary risk display. </p></li></ul>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Process\"><h2 class=\"section_title\">Process</h2>\n<p class=\"p\">The process in which financial objects are selected for the generation of utilizations has wo steps (sequence in end-of-day processing): </p>\n<div class=\"table-wrapper tablenoborder\"><table summary=\"\" class=\"table\" frame=\"border\" border=\"1\" rules=\"all\"><colgroup><col width=\"50%\"><col width=\"50%\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Step 1:\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Selection of the basic data set of financial objects\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Step 2:\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\"> Reselection of transactions when the system reads the data for collateral </p></td></tr></tbody></table></div>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

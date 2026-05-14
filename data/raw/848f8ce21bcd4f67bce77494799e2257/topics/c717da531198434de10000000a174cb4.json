@@ -1,0 +1,18 @@
+{
+  "loio": "c717da531198434de10000000a174cb4",
+  "title": "Nominal Interest for Percentage-Quoted Bonds",
+  "file_path": "c717da531198434de10000000a174cb4.html",
+  "page_id": 2555102086,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "Conditions",
+    "Conditions for Bonds",
+    "Nominal Interest for Percentage-Quoted Bonds"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Nominal Interest for Percentage-Quoted Bonds</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioc717da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Nominal Interest for Percentage-Quoted Bonds</h1><div class=\"body\">\n<p class=\"p\"> Required entries:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Effective from</span> date\n</p></li><li class=\"li\"><p class=\"p\">Interest rate ( <span class=\"ph uicontrol\">percentage</span> )\n</p></li><li class=\"li\"><p class=\"p\">Frequency in months ( <span class=\"ph uicontrol\">Frq</span> ) in which the interest is paid\n</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Calculation date</span> (=last day of the current interest period)\n</p></li><li class=\"li\"><p class=\"p\">First <span class=\"ph uicontrol\">due date</span> (=day of the first interest payment)\n</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Currency</span> (of the interest payment)\n</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Additional entry fields:</span>\n</p>\n<p class=\"p\">Select fields <span class=\"ph uicontrol\">MC</span> and <span class=\"ph uicontrol\">ED</span> to specify whether you want the calculation date or the due date to fall on the last day of the month. If you select these fields, the respective day is always the last day of the month, even if you enter another date somewhere else.\n</p>\n<p class=\"p\">Field <span class=\"ph uicontrol\">CR</span> enables you to choose whether to shift the calculation date or the due date to a working day if the date entered is not a working day. If you opt to shift the due date, you must select an appropriate calendar from the <span class=\"ph uicontrol\">Dates</span> screen <span class=\"ph uicontrol\">.</span>\n</p>\n<aside class=\"note caution\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Caution</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">Since the calculation date is used as a basis for calculating financial mathematical transactions, you are advised not to choose a shift rule.\n</p><p class=\"p\"><img class=\"inline\" src=\"loio454470533fe4761ee10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p><p class=\"p\">You can display the due date, the payment date, the calculation period and the days that result from the interest payments by choosing the <span class=\"ph uicontrol\">Dates</span> button on the <span class=\"ph uicontrol\">Amounts</span> screen <span class=\"ph uicontrol\">.</span>\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

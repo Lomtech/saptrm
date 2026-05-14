@@ -1,0 +1,15 @@
+{
+  "loio": "8c403979af844276b66d68e72acada18",
+  "title": "FX Spot Rate",
+  "file_path": "8c403979af844276b66d68e72acada18.html",
+  "page_id": 2555103770,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Market Data Overview",
+    "FX Spot Rate"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>FX Spot Rate</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"The card displays FX spot rates for currency pairs on a specific key date and its percentage difference to the day before.\"><meta name=\"description\" content=\"The card displays FX spot rates for currency pairs on a specific key date and its percentage difference to the day before.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio8c403979af844276b66d68e72acada18\"><h1 class=\"title topictitle1\">FX Spot Rate</h1><div class=\"body conbody\"><p class=\"shortdesc\">The card displays FX spot rates for currency pairs on a specific key date and its\npercentage difference to the day before.</p>\n<p class=\"p\">On this card, you can see the KPI of FX spot rates for different currency pairs on a specific key date. By default, the top 6 currency pairs of\nthe FX spot rates are displayed. You can display more values by\ndragging\nthe card.</p>\n<p class=\"p\">You can also limit the number of FX spot rates by filtering for your favorite currency\npairs.</p>\n<p class=\"p\">You can also see the percentage difference of the exchange rate key figure to the rate on the\nday before the key date. By default, the data displayed is for <span class=\"ph uicontrol\">% Difference\nfrom Yesterday</span> only. You can also display the data for\n<span class=\"ph uicontrol\">Difference from Yesterday</span> by\ndragging\nthe card.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

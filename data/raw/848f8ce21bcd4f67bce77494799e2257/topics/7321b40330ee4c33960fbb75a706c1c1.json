@@ -1,0 +1,15 @@
+{
+  "loio": "7321b40330ee4c33960fbb75a706c1c1",
+  "title": "Historic Reference Interest Rate",
+  "file_path": "7321b40330ee4c33960fbb75a706c1c1.html",
+  "page_id": 2555104808,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Market Data Overview",
+    "Historic Reference Interest Rate"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Historic Reference Interest Rate</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"This card displays historic reference interest rates before the specified key date.\"><meta name=\"description\" content=\"This card displays historic reference interest rates before the specified key date.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio7321b40330ee4c33960fbb75a706c1c1\"><h1 class=\"title topictitle1\">Historic Reference Interest Rate</h1><div class=\"body conbody\"><p class=\"shortdesc\">This card displays historic reference interest rates before the specified key\ndate.</p>\n<div class=\"p\">With this card, you can see reference interest rates before the key date. You can display the\nhistoric reference interest rates by period using the following drill-down options:<ul class=\"ul\" id=\"loio7321b40330ee4c33960fbb75a706c1c1__ul_ack_ycg_chb\">\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">5 Days</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Month</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">3 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">6 Months</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1 Year</span></p></li>\n</ul></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

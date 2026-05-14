@@ -1,0 +1,17 @@
+{
+  "loio": "c10bda531198434de10000000a174cb4",
+  "title": "Net Investment Hedge (NIH) in a Foreign Operation",
+  "file_path": "c10bda531198434de10000000a174cb4.html",
+  "page_id": 2555101583,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Cash Flow Hedge (CFH)",
+    "Net Investment Hedge (NIH) in a Foreign Operation"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Net Investment Hedge (NIH) in a Foreign Operation</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioc10bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Net Investment Hedge (NIH) in a Foreign Operation </h1><div class=\"body\">\n<p class=\"p\"> The <span class=\"ph uicontrol\">Hedge of a Net Investment in a Foreign Subsidiary</span> (or <span class=\"ph uicontrol\">Foreign Operation</span> ) involves hedgingforeign currency risk (see IAS/ IFRS 39).\n</p>\n<p class=\"p\"> In the case of an effective <span class=\"ph uicontrol\">net investment hedge,</span> the changes in value of the hedging instrument that result from foreign currency fluctuations are posted to equity capital without affecting profit and loss (as opposed to being recognized in profit and loss). The changes in value are transferred from equity capital to profit and loss once the net investment is returned.\n</p>\n<p class=\"p\"> The following product types are delivered as standard to map hedging relationships in hedging transactions:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Money market transactions: Fixed-term deposit, Commercial Paper, Interest rate instrument\n</p></li><li class=\"li\"><p class=\"p\"> Forward exchange transaction\n</p></li><li class=\"li\"><p class=\"p\"> Option on forward exchange transaction\n</p></li><li class=\"li\"><p class=\"p\"> Cross currency interest rate swap\n</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"c40bda531198434de10000000a174cb4.html\">NIH: Fixed Term Deposits, Commercial Paper, or Interest Rate Instruments Used in a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"be0bda531198434de10000000a174cb4.html\">NIH: Forward Exchange Transaction Used in a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"cd0bda531198434de10000000a174cb4.html\">NIH: Option on a Forward Exchange Transaction Used in a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"ca0bda531198434de10000000a174cb4.html\">NIH: Cross Currency Interest Rate Swap Used in a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"c70bda531198434de10000000a174cb4.html\">Hypothetical and Perfect Derivative</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

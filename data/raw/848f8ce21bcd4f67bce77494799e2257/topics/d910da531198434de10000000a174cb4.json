@@ -1,0 +1,17 @@
+{
+  "loio": "d910da531198434de10000000a174cb4",
+  "title": "Caps, Floors, Collars",
+  "file_path": "d910da531198434de10000000a174cb4.html",
+  "page_id": 2555101668,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Editing Generic Transactions",
+    "Examples of Generic Transactions",
+    "Caps, Floors, Collars"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Caps, Floors, Collars</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiod910da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Caps, Floors, Collars</h1><div class=\"body\">\n<p class=\"p\"> Caps, floors, and collars are constructed as options on three levels.\n</p>\n<p class=\"p\">In level 1 you define an elementary transaction with TFORM 050 (cap/floor/collar). At the level below that, the actual caplets and/or floorlets are set up. These are OTC options on interest rate references according to the classical definition of an option on an underlying transaction. On this level you need to create the relevant number of OTC options (TFORM 061).\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">You can only distinguish between caplets and floorlets based on the <span class=\"ph uicontrol\">put/call indicator.</span>\n</p></aside>\n<p class=\"p\">On level 3, an elementary transaction is defined as an underlying for each corresponding option on level 2 (TFORM 049 caplet/floor as underlying).\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

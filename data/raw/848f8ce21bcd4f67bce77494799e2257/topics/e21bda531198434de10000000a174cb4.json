@@ -1,0 +1,18 @@
+{
+  "loio": "e21bda531198434de10000000a174cb4",
+  "title": "Option Price Calculator",
+  "file_path": "e21bda531198434de10000000a174cb4.html",
+  "page_id": 2555100889,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "Derivatives",
+    "Option Price Calculator"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Option Price Calculator</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioe21bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Option Price Calculator </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> You use the option price calculator to calculate the NPV of options on transactions (bonds, swaps, FRAs, stocks), and to calculate the option delta.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<p class=\"p\"> The following types of options can be valued:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Standard European options\n</p></li><li class=\"li\"><p class=\"p\"> Barrier options (up&amp;out, up&amp;in, down&amp;out, down&amp;in)\n</p></li><li class=\"li\"><p class=\"p\"> Hit-at-end-binary (digital) options\n</p></li><li class=\"li\"><p class=\"p\"> One-touch-binary (digital) options\n</p></li><li class=\"li\"><p class=\"p\"> Standard American options\n</p><p class=\"p\"> The Hull-White model can be used to price American options on swaps and bonds. American options, whose underlying is not an interest rate instrument, are priced using a method that is based on the Cox-Ross-Rubinstein model.\n</p></li><li class=\"li\"><p class=\"p\"> Bermuda options on interest rate instruments\n</p></li></ul>\n<p class=\"p\"> The system categorizes options firstly by their exercise type (European, American), and then by the type of the option itself.\n</p>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

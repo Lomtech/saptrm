@@ -1,0 +1,17 @@
+{
+  "loio": "f410da531198434de10000000a174cb4",
+  "title": "FIONA Swap",
+  "file_path": "f410da531198434de10000000a174cb4.html",
+  "page_id": 2555105364,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Editing Generic Transactions",
+    "Examples of Generic Transactions",
+    "FIONA Swap"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>FIONA Swap</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiof410da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\"> FIONA Swap </h1><div class=\"body\">\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> You must define a cash flow type that is assigned to the cash flow indicator <span class=\"ph uicontrol\">retained cash</span><span class=\"ph uicontrol\">flow</span> .\n</p></aside>\n<p class=\"p\"> In the generic transaction hierarchy, you define only one elementary transaction with TFORM 51 (swap). You enter the data for the <span class=\"ph uicontrol\">Swap</span> elementary transaction in two detail screens:\n</p>\n<div class=\"table-wrapper tablenoborder\"><table summary=\"\" class=\"table\" frame=\"border\" border=\"1\" rules=\"all\"><colgroup><col width=\"50%\"><col width=\"50%\"></colgroup><thead class=\"thead\" style=\"text-align:left;\"><tr class=\"row\"><th class=\"entry\" style=\"vertical-align:top;\" id=\"d130091e82\"><p class=\"p\"> Tab Page\n</p></th><th class=\"entry\" style=\"vertical-align:top;\" id=\"d130091e86\"><p class=\"p\"> Fields Requiring Entries\n</p></th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\" headers=\"d130091e82 \"><p class=\"p\"> Header Information\n</p></td><td class=\"entry\" style=\"vertical-align:top;\" headers=\"d130091e86 \"><p class=\"p\"> Term start and end\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\" headers=\"d130091e82 \"><p class=\"p\"> Cash Flow\n</p></td><td class=\"entry\" style=\"vertical-align:top;\" headers=\"d130091e86 \"><p class=\"p\"><span class=\"ph emphasis emphasis\">Fixed</span> cash flow: the cash flow type must correspond to an interest cash flow, cash flow amount, side and direction under cash flow addition, calculation interval and interest calculation method.\n</p><p class=\"p\"><span class=\"ph emphasis emphasis\">Variable</span> cash flow: the cash flow type defined above, nominal amount, reference interest rate and +/- sign, side and direction under cash flow addition, calculation interval (corresponds to interest fixing period) and interest calculation method.\n</p></td></tr></tbody></table></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

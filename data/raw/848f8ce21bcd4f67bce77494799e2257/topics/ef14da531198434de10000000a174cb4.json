@@ -1,0 +1,16 @@
+{
+  "loio": "ef14da531198434de10000000a174cb4",
+  "title": "Position in Futures Account",
+  "file_path": "ef14da531198434de10000000a174cb4.html",
+  "page_id": 2555104892,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Futures Account",
+    "Position in Futures Account"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Position in Futures Account</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioef14da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Position in Futures Account</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> You run this report program to obtain an overview of all the positions in your futures account.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2>\n<p class=\"p\"> Enter your selection criteria in the <span class=\"ph uicontrol\">General selections</span> area. The system displays an overview of your positions ( <span class=\"ph uicontrol\">class positions in futures account</span> ) <span class=\"ph uicontrol\">.</span> The <span class=\"ph uicontrol\">long</span> and <span class=\"ph uicontrol\">short</span> positions are displayed separately in the list (number of units, book value of forward transaction and position currency) because of their different legal positions.\n</p>\n<p class=\"p\">By double-clicking the relevant line or by clicking the <span class=\"ph uicontrol\">Display single positions</span> pushbutton, the screen for displaying the single positions appears (= <a class=\"xref\" href=\"e614da531198434de10000000a174cb4.html\">Futures Account Cash Position</a> ).\n</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

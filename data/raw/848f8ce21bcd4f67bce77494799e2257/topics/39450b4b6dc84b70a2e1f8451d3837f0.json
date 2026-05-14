@@ -1,0 +1,15 @@
+{
+  "loio": "39450b4b6dc84b70a2e1f8451d3837f0",
+  "title": "Settings for Hedge Management",
+  "file_path": "39450b4b6dc84b70a2e1f8451d3837f0.html",
+  "page_id": 2555101589,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management and Accounting of Net Open Exposures (FX Risk)",
+    "Settings for Hedge Management"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Settings for Hedge Management</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"For setting up the Hedge Management process you need to make some settings in Customizing and you need to define your hedging areas.\"><meta name=\"description\" content=\"For setting up the Hedge Management process you need to make some settings in Customizing and you need to define your hedging areas.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio39450b4b6dc84b70a2e1f8451d3837f0\"><h1 class=\"title topictitle1\">Settings for Hedge Management</h1><div class=\"body conbody\"><p class=\"shortdesc\">For setting up the Hedge Management process you need to make some settings in Customizing and you need to define your hedging areas. </p>\n<ul class=\"ul\" id=\"loio39450b4b6dc84b70a2e1f8451d3837f0__ul_bmh_5zr_ndb\">\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"fd8aad56a0a98f53e10000000a441470.html\">Customizing for Hedge Management</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"3e6b5358bae84442e10000000a4450e5.html\">Defining Time Patterns for Target Quotas</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"0f9ba95626c76b15e10000000a441470.html\">Define Hedging Areas</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"b5f1df7b49774f3d9f9eb5b0c7d9c966.html\" title=\"Define and edit the layouts controlling the data shown in the Hedge Management Cockpit.\">Manage Layouts</a></p></li>\n</ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

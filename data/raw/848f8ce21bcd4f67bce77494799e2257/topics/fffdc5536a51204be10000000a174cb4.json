@@ -1,0 +1,17 @@
+{
+  "loio": "fffdc5536a51204be10000000a174cb4",
+  "title": "ALM Simulation",
+  "file_path": "fffdc5536a51204be10000000a174cb4.html",
+  "page_id": 2555102147,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Market Risk Analyzer",
+    "Asset/Liability Management",
+    "Simulation and Planning",
+    "ALM Simulation"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>ALM Simulation</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiofffdc5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">ALM Simulation </h1><div class=\"body\">\n<p class=\"p\"> ALM simulation contains the following functions:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Simulation of new transactions and their depiction in the evaluations\n</p></li><li class=\"li\"><p class=\"p\"> Application of explicit due date scenarios (can be used to depict prepayments, for example)\n</p></li><li class=\"li\"><p class=\"p\"> Application of scenarios and scenario progressions (in the analysis itself, you can switch between the various scenarios)\n</p></li><li class=\"li\"><p class=\"p\"> Calculation of the net interest income\n</p></li><li class=\"li\"><p class=\"p\"> Calculation of exchange rate gains/losses\n</p></li><li class=\"li\"><p class=\"p\"> Saving of simulated transactions\n</p></li><li class=\"li\"><p class=\"p\"> Deletion of the results of the simulation\n</p></li><li class=\"li\"><p class=\"p\"> Depiction of results in graphical form\n</p></li></ul>\n<p class=\"p\"> You can use the following functions to simulate new business:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Standard simulation</span>\n</p><p class=\"p\"> Standard simulation enables you to close existing gaps quickly and easily. In the key date evaluation, you can also balance you balance sheet completely.\n</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Individual simulation</span>\n</p><p class=\"p\"> You can use individual simulation for planning growth.\n</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Creation of fictitious transactions</span>\n</p><p class=\"p\"> This function enables you to check the effect of a hedge on your risk, for example.\n</p></li></ul>\n<p class=\"p\"> If these simulation options do not meet your needs, you can also create fictitious <span class=\"ph\">generic transactions</span> and include them in ALM simulation.\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

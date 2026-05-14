@@ -1,0 +1,16 @@
+{
+  "loio": "cbfac5536a51204be10000000a174cb4",
+  "title": "Information about Data Selection",
+  "file_path": "cbfac5536a51204be10000000a174cb4.html",
+  "page_id": 2555104868,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Standard Queries for the Transaction Manager",
+    "Information about Data Selection"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Information about Data Selection</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiocbfac5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Information about Data Selection </h1><div class=\"body\">\n<p class=\"p\"> If Queries are defined on the basis of InfoSets, which in turn are based on logical databases, the corresponding logical database data procurement program automatically provides a selection screen.\n</p>\n<p class=\"p\"> The following data selection options are available:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Product Groups\n</p><p class=\"p\"> The selection of product groups only includes positions of the respective relevant contract types.\n</p><ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Securities (= contract type 2)\n</p></li><li class=\"li\"><p class=\"p\"> Loans (= contract type 1)\n</p></li><li class=\"li\"><p class=\"p\"> OTC transactions (= contract types 4, 5, and 6)\n</p><p class=\"p\"> Exceptions:\n</p><p class=\"p\"> Product categories 700 - 750\n</p></li><li class=\"li\"><p class=\"p\"> Listed derivatives (= contract type 6)\n</p><p class=\"p\"> Only product categories 700 - 750\n</p></li></ul></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"ddfac5536a51204be10000000a174cb4.html\">Selections</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"adfac5536a51204be10000000a174cb4.html\">Control Parameters</a>\n</p></li></ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

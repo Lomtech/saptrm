@@ -1,0 +1,14 @@
+{
+  "loio": "32912e51e1076f62e10000000a44538d",
+  "title": "Exposure Positions",
+  "file_path": "32912e51e1076f62e10000000a44538d.html",
+  "page_id": 2555101590,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Exposure Management 2.0",
+    "Exposure Positions"
+  ],
+  "depth": 2,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Exposure Positions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio32912e51e1076f62e10000000a44538d\"><h1 class=\"title topictitle1\">Exposure Positions</h1><div class=\"body\"> <div class=\"section\"> <p class=\"p\">You can use the following transactions to transfer exposure positions from <span class=\"ph uicontrol\">Exposure Management</span> to <span class=\"ph uicontrol\">Hedge Accounting for Exposures</span> (E-HA):\n</p> <ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"a90392afdf134514a8b59fcef68b675d.html\">Overview of Exposure Positions</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"d44117516e9cfa50e10000000a441470.html\">Mass Transfer of Exposure Positions to E-HA</a>\n</p></li></ul> </div> <div class=\"section\"><section class=\"section\" type=\"More Information\"><h2 class=\"section_title\">More Information</h2><p class=\"p\"><a class=\"xref\" href=\"a0af10519e1b256ee10000000a445394.html\">Transferring Exposures to Hedge Accounting for Exposures (E-HA)</a>\n</p> <p class=\"p\"><a class=\"xref\" href=\"fdabdba0b2e740119d70e135e662710e.html\">Exposure Lifecycle</a>\n</p> </section></div> </div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

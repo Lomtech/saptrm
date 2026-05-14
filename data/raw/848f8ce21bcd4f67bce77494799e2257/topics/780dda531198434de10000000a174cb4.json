@@ -1,0 +1,16 @@
+{
+  "loio": "780dda531198434de10000000a174cb4",
+  "title": "Expiration of Risks",
+  "file_path": "780dda531198434de10000000a174cb4.html",
+  "page_id": 2555101167,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Expiration of Risks"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Expiration of Risks</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio780dda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Expiration of Risks</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Process Flow</span>\n</p>\n<p class=\"p\"> For more information, see:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"a10dda531198434de10000000a174cb4.html\">Exposure Expiration</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"ad0eda531198434de10000000a174cb4.html\">Reverse Exposure Expiration</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"1b0dda531198434de10000000a174cb4.html\">Hedge Plan Expiration</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"a10eda531198434de10000000a174cb4.html\">Hedging Relationship Dedesignation</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"e50dda531198434de10000000a174cb4.html\">Reverse Hedging Relationship Dedesignation</a>\n</p></li></ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

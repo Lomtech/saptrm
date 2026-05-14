@@ -1,0 +1,15 @@
+{
+  "loio": "ea47ff4be1c04733a3f1c8774e0eac23",
+  "title": "Modified Duration (Deprecated)",
+  "file_path": "ea47ff4be1c04733a3f1c8774e0eac23.html",
+  "page_id": 2555104073,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Treasury Analytics",
+    "Interest Rate Overview",
+    "Modified Duration (Deprecated)"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Modified Duration (Deprecated)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioea47ff4be1c04733a3f1c8774e0eac23\"><h1 class=\"title topictitle1\">Modified Duration (Deprecated)</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">With this card, you can see the modified duration by portfolio hierarchy. According to\nconfiguration settings of key figures and evaluation procedures you made, you get\ncalculation results from the result database.</p>\n<div class=\"section\" id=\"loioea47ff4be1c04733a3f1c8774e0eac23__section_o4q_2j5_h2b\"><section class=\"section\" type=\"More Information\"><h2 class=\"section_title\">More Information</h2>\n\n<div class=\"p\">\n<ul class=\"ul\" id=\"loioea47ff4be1c04733a3f1c8774e0eac23__ul_upj_fj5_h2b\">\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"8505c753b1081d4be10000000a174cb4.html\" title=\"The Market Risk Analyzer offers corporations and insurance companies a range of functions for managing risks on a global basis. Of all the different external risks to which companies operating internationally are exposed, it is changes in market prices that are the most critical factors for company success. They can have a profound effect on the amount, present value, or timing of payment flows. Operative business and treasury transactions alike are affected by market risks. To measure and manage risks fully, it’s essential to bring together all risk-related company activities.\">Market Risk Analyzer</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"fe01c55368511d4be10000000a174cb4.html\">Portfolio Hierarchies</a></p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"9a6016237596418bba8312f9e9d8ce5a.html\">Interest Rate Overview</a></p></li>\n</ul>\n</div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

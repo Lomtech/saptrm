@@ -1,0 +1,16 @@
+{
+  "loio": "23f1f48232ec425980645e45de916c12",
+  "title": "Hierarchies of Key Figure Categories - Accounting Analyzer",
+  "file_path": "23f1f48232ec425980645e45de916c12.html",
+  "page_id": 2555104149,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Accounting Analyzer",
+    "Analyzer Information System",
+    "Hierarchies of Key Figure Categories - Accounting Analyzer"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Hierarchies of Key Figure Categories - Accounting Analyzer</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio23f1f48232ec425980645e45de916c12\"><h1 class=\"title topictitle1\">Hierarchies of Key Figure Categories - Accounting Analyzer</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">The system can calculate values only for key figures in the predefined hierarchies for key figures (attributes must be defined for\neach key figure). The individual key figures are interdependent both from a business and calculation point of\nview. The interdependencies for the components are shown in the diagrams below:</p>\n<div class=\"fig fignone\" id=\"loio23f1f48232ec425980645e45de916c12__fig_iv3_sbs_whb\"><div class=\"figbody\">\n<div class=\"block wide\"><img class=\"break\" id=\"loio23f1f48232ec425980645e45de916c12__image_jv3_sbs_whb\" src=\"loio4c5be671fc064b55e10000000a42189e_LowRes.png\"></div>\n</div></div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"5ffa4b530f57ff4fe10000000a44176d.html\">Results Database</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

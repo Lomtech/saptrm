@@ -1,0 +1,15 @@
+{
+  "loio": "0ebe917f7ae34617923485ec69e3d3a0",
+  "title": "Manage Snapshots",
+  "file_path": "0ebe917f7ae34617923485ec69e3d3a0.html",
+  "page_id": 2555101178,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management and Accounting of Net Open Exposures (FX Risk)",
+    "Manage Snapshots"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Manage Snapshots</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"With this app, you get an overview of the snapshots of a hedging area.\"><meta name=\"description\" content=\"With this app, you get an overview of the snapshots of a hedging area.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio0ebe917f7ae34617923485ec69e3d3a0\"><h1 class=\"title topictitle1\">Manage Snapshots</h1><div class=\"body conbody\"><p class=\"shortdesc\">With this app, you get an overview of the snapshots of a hedging area.</p>\n<p class=\"p\">The <span class=\"ph uicontrol\">Manage Snapshots</span> app gives you an overview of all snapshots of\na hedging area. You can delete a snapshot when the following conditions are\nfulfilled:</p>\n<ul class=\"ul\" id=\"loio0ebe917f7ae34617923485ec69e3d3a0__ul_gwg_1bb_h1b\">\n<li class=\"li\"><p class=\"p\">The snapshot is the latest snapshot of the hedging area.</p></li>\n<li class=\"li\"><p class=\"p\">There is no hedge request for this latest snapshot with any status other than\n<span class=\"ph uicontrol\">Canceled</span>.</p></li>\n<li class=\"li\"><p class=\"p\">If the snapshot is relevant for hedge accounting, no new designations have been\nmade to this hedging area since the snapshot was taken.</p></li>\n</ul>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

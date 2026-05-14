@@ -1,0 +1,18 @@
+{
+  "loio": "3b0ada531198434de10000000a174cb4",
+  "title": "External Transactions",
+  "file_path": "3b0ada531198434de10000000a174cb4.html",
+  "page_id": 2555104665,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Updating Limit Utilizations",
+    "Single Transaction Check",
+    "External Transactions"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>External Transactions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3b0ada531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">External Transactions </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n<p class=\"p\">External transactions represent financial transactions that are not (yet) available in <span class=\"ph uicontrol\">Treasury and Risk Management</span>.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Structure\"><h2 class=\"section_title\">Structure</h2>\n<p class=\"p\">All basic key figures and limit characteristics must be provided for these transactions. These can be imported from your own front-end system\nby means of the RFC interface, or you can use the function for starting the single transaction check manually in the application. In\n<span class=\"ph uicontrol\">Treasury and Risk Management (TRM)</span>, you can use the integrated limit check. </p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2>\n<p class=\"p\">In the <span class=\"ph uicontrol\">Default Risk and Limit System</span>, you can calculate attributable amounts for these transactions and update the limit\nutilizations using the limit characteristics. </p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

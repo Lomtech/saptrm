@@ -1,0 +1,1407 @@
+[22:54:33] Resolving deliverable…                                    crawl.py:36
+[22:54:34]   deliverable_id=40374870  buildNo=1779  version=2025.001 crawl.py:38
+           lang=en-US                                                           
+           Fetching full ToC…                                        crawl.py:41
+             ToC topics: 1596                                        crawl.py:44
+[22:56:24] FAIL 2407da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f9ed8d0 state=finished raised HTTPStatusError>]               
+           FAIL 03625256c3469e21e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x10f6dc1d0 state=finished raised HTTPStatusError>]               
+           FAIL ff07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f6dde50 state=finished raised HTTPStatusError>]               
+           FAIL cb0f05495ea24d49a3db49b886a01583: RetryError[<Future crawl.py:73
+           at 0x10f6ddf50 state=finished raised HTTPStatusError>]               
+           FAIL 0f08da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f589f50 state=finished raised HTTPStatusError>]               
+           FAIL f99b54a4ccd44f39965f341ae958de97: RetryError[<Future crawl.py:73
+           at 0x10f9b1bd0 state=finished raised HTTPStatusError>]               
+           FAIL 0208da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f6dfb50 state=finished raised HTTPStatusError>]               
+           FAIL 34d7d968dae743108b545f6363737466: RetryError[<Future crawl.py:73
+           at 0x10f6de6d0 state=finished raised HTTPStatusError>]               
+           FAIL 2d453f1c12434b7d99578c829f261fac: RetryError[<Future crawl.py:73
+           at 0x10f58a550 state=finished raised HTTPStatusError>]               
+           FAIL 10964a5ff64746f0a7653afa42d6b6fc: RetryError[<Future crawl.py:73
+           at 0x10f5887d0 state=finished raised HTTPStatusError>]               
+           FAIL 12283b567733a021e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x10ff32450 state=finished raised HTTPStatusError>]               
+           FAIL 77b7f017a32e444da3fa81956cd093a7: RetryError[<Future crawl.py:73
+           at 0x10f58a950 state=finished raised HTTPStatusError>]               
+           FAIL bcba4a5695e2404de10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10f58ad50 state=finished raised HTTPStatusError>]               
+           FAIL b5ac14577396017ee10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10fe377d0 state=finished raised HTTPStatusError>]               
+           FAIL 9319c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f58b950 state=finished raised HTTPStatusError>]               
+           FAIL b0c34a5695e2404de10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10f5895d0 state=finished raised HTTPStatusError>]               
+           FAIL 5d240dadc7d64684b5cf38ceff900dc2: RetryError[<Future crawl.py:73
+           at 0x10fe37750 state=finished raised HTTPStatusError>]               
+           FAIL 9707da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f6dfad0 state=finished raised HTTPStatusError>]               
+           FAIL 4607da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f6dfcd0 state=finished raised HTTPStatusError>]               
+           FAIL f107da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f589ad0 state=finished raised HTTPStatusError>]               
+           FAIL 1e19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f58b8d0 state=finished raised HTTPStatusError>]               
+           FAIL 03625256c3469e21e10000000a44538d-628:                crawl.py:73
+           RetryError[<Future at 0x10f6df9d0 state=finished raised              
+           HTTPStatusError>]                                                    
+           FAIL c015da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fe368d0 state=finished raised HTTPStatusError>]               
+           FAIL 1c15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff33f50 state=finished raised HTTPStatusError>]               
+           FAIL e1c4eeff59414870b29ef5e209577def: RetryError[<Future crawl.py:73
+           at 0x10f588650 state=finished raised HTTPStatusError>]               
+           FAIL 2658c7533a661d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f6df2d0 state=finished raised HTTPStatusError>]               
+           FAIL 1f15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff318d0 state=finished raised HTTPStatusError>]               
+           FAIL 4615da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f9b33d0 state=finished raised HTTPStatusError>]               
+           FAIL c315da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff311d0 state=finished raised HTTPStatusError>]               
+           FAIL b215da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff314d0 state=finished raised HTTPStatusError>]               
+           FAIL db15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff310d0 state=finished raised HTTPStatusError>]               
+           FAIL 3115da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f58b6d0 state=finished raised HTTPStatusError>]               
+           FAIL f515da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff30f50 state=finished raised HTTPStatusError>]               
+           FAIL 1f75f42cf5244080bb1dbef2ee014837: RetryError[<Future crawl.py:73
+           at 0x10f6de9d0 state=finished raised HTTPStatusError>]               
+           FAIL 4e15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff33050 state=finished raised HTTPStatusError>]               
+           FAIL 4fab26af6d2447a68cf6f5ad460acdc5: RetryError[<Future crawl.py:73
+           at 0x10ff69fd0 state=finished raised HTTPStatusError>]               
+           FAIL ddcbd696188947038f46dc8c927e101a: RetryError[<Future crawl.py:73
+           at 0x10ff30950 state=finished raised HTTPStatusError>]               
+           FAIL 8514da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fe37550 state=finished raised HTTPStatusError>]               
+           FAIL 3a15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f5884d0 state=finished raised HTTPStatusError>]               
+           FAIL 8814da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6bcd0 state=finished raised HTTPStatusError>]               
+           FAIL 3d15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6b1d0 state=finished raised HTTPStatusError>]               
+           FAIL 44307cf7e650448eaedfdf4c4f45e5e0: RetryError[<Future crawl.py:73
+           at 0x10ff324d0 state=finished raised HTTPStatusError>]               
+           FAIL 66452bfd453b4d129dd4f3d1b53c028f: RetryError[<Future crawl.py:73
+           at 0x10f40f350 state=finished raised HTTPStatusError>]               
+           FAIL 4015da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f5888d0 state=finished raised HTTPStatusError>]               
+           FAIL 3d16da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff68850 state=finished raised HTTPStatusError>]               
+           FAIL 3304110f32ee4b15a708ef7fa66aa4f5: RetryError[<Future crawl.py:73
+           at 0x10ff338d0 state=finished raised HTTPStatusError>]               
+           FAIL f514da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5e8d0 state=finished raised HTTPStatusError>]               
+           FAIL bc16da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6bed0 state=finished raised HTTPStatusError>]               
+           FAIL 0115da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff321d0 state=finished raised HTTPStatusError>]               
+           FAIL 4fae531918073359e10000000a421937: RetryError[<Future crawl.py:73
+           at 0x10ff68c50 state=finished raised HTTPStatusError>]               
+           FAIL d3a7d65378024308e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5f550 state=finished raised HTTPStatusError>]               
+           FAIL ac15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fef4c50 state=finished raised HTTPStatusError>]               
+[22:56:25] FAIL 8415da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6af50 state=finished raised HTTPStatusError>]               
+           FAIL 8e0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff31350 state=finished raised HTTPStatusError>]               
+           FAIL 820cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6b7d0 state=finished raised HTTPStatusError>]               
+           FAIL 850cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff6b850 state=finished raised HTTPStatusError>]               
+           FAIL 73ff06b7dcd44a6f9b7184d88a7d368c: RetryError[<Future crawl.py:73
+           at 0x10ff5dbd0 state=finished raised HTTPStatusError>]               
+           FAIL 4c0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5c450 state=finished raised HTTPStatusError>]               
+           FAIL 880cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5d750 state=finished raised HTTPStatusError>]               
+           FAIL 8b0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5f650 state=finished raised HTTPStatusError>]               
+           FAIL 139422c926da415c9bd6d441cec6ca7e: RetryError[<Future crawl.py:73
+           at 0x10ff33bd0 state=finished raised HTTPStatusError>]               
+           FAIL 1a504b033aa04336bae4f85d51c0660c: RetryError[<Future crawl.py:73
+           at 0x10ff5cc50 state=finished raised HTTPStatusError>]               
+           FAIL 9a4db21ae8534e618b2968059675c62b: RetryError[<Future crawl.py:73
+           at 0x10fafb750 state=finished raised HTTPStatusError>]               
+           FAIL af3a2c55065d4645a0414456d02af7c3: RetryError[<Future crawl.py:73
+           at 0x10fafafd0 state=finished raised HTTPStatusError>]               
+           FAIL afef147fca8442268ec594e966e47cbb: RetryError[<Future crawl.py:73
+           at 0x10ff5c0d0 state=finished raised HTTPStatusError>]               
+           FAIL 4991557524454b6ba6538867d3c38e57: RetryError[<Future crawl.py:73
+           at 0x10ff5d650 state=finished raised HTTPStatusError>]               
+           FAIL 2c38d5ed2360450b9c7e147b18805b5b: RetryError[<Future crawl.py:73
+           at 0x10f58a3d0 state=finished raised HTTPStatusError>]               
+           FAIL 92241777371a453a8f38ff2243f0b753: RetryError[<Future crawl.py:73
+           at 0x10ff5e4d0 state=finished raised HTTPStatusError>]               
+           FAIL a215da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff327d0 state=finished raised HTTPStatusError>]               
+           FAIL 9c15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10faf8bd0 state=finished raised HTTPStatusError>]               
+           FAIL 3adbd7531a4d414de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5db50 state=finished raised HTTPStatusError>]               
+           FAIL 9f15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fafb9d0 state=finished raised HTTPStatusError>]               
+           FAIL fe14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5ec50 state=finished raised HTTPStatusError>]               
+           FAIL c118da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fafa8d0 state=finished raised HTTPStatusError>]               
+           FAIL 9a87dbaa7f1141e4a13e540a4e38e7af: RetryError[<Future crawl.py:73
+           at 0x10f97cbd0 state=finished raised HTTPStatusError>]               
+           FAIL cb0f3a4beed5487bbe128e8765a9d7d7: RetryError[<Future crawl.py:73
+           at 0x10ff682d0 state=finished raised HTTPStatusError>]               
+           FAIL 8718da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97e350 state=finished raised HTTPStatusError>]               
+           FAIL bfca1c5ce7734513b2f2b38cf88ea0d4: RetryError[<Future crawl.py:73
+           at 0x10faf8950 state=finished raised HTTPStatusError>]               
+           FAIL f38c8b1eff144b0ca53979ea2457ad70: RetryError[<Future crawl.py:73
+           at 0x10ffff750 state=finished raised HTTPStatusError>]               
+           FAIL b27362f9b1164f3f8328d031de5216c2: RetryError[<Future crawl.py:73
+           at 0x10f97c3d0 state=finished raised HTTPStatusError>]               
+           FAIL 0eacc7531dc61d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5d6d0 state=finished raised HTTPStatusError>]               
+           FAIL c13117c856e24a089551132919eec845: RetryError[<Future crawl.py:73
+           at 0x10ffff0d0 state=finished raised HTTPStatusError>]               
+           FAIL 991ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10faf8150 state=finished raised HTTPStatusError>]               
+           FAIL 1fe1f78fca344439a1cc7c58a637e31f: RetryError[<Future crawl.py:73
+           at 0x10fafba50 state=finished raised HTTPStatusError>]               
+           FAIL 8418da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffff850 state=finished raised HTTPStatusError>]               
+           FAIL 950f6551c939d51be10000000a445394: RetryError[<Future crawl.py:73
+           at 0x10ffff5d0 state=finished raised HTTPStatusError>]               
+           FAIL c117da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffffbd0 state=finished raised HTTPStatusError>]               
+           FAIL f2b16df8be2447098c0ca4a82a5e780b: RetryError[<Future crawl.py:73
+           at 0x10ff5e550 state=finished raised HTTPStatusError>]               
+           FAIL cee74b521dd16b67e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ffff8d0 state=finished raised HTTPStatusError>]               
+           FAIL 0c18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fffce50 state=finished raised HTTPStatusError>]               
+           FAIL aa1ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fafaf50 state=finished raised HTTPStatusError>]               
+           FAIL f417da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fffd950 state=finished raised HTTPStatusError>]               
+           FAIL 3e17da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fffc150 state=finished raised HTTPStatusError>]               
+           FAIL 0b17da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97f550 state=finished raised HTTPStatusError>]               
+           FAIL bb18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8250d0 state=finished raised HTTPStatusError>]               
+           FAIL d416da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffff650 state=finished raised HTTPStatusError>]               
+           FAIL d818da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffff250 state=finished raised HTTPStatusError>]               
+           FAIL cf18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffffd50 state=finished raised HTTPStatusError>]               
+           FAIL 786f9d9c4ba74559adf42e62d1584166: RetryError[<Future crawl.py:73
+           at 0x10f825fd0 state=finished raised HTTPStatusError>]               
+           FAIL 440cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fffd2d0 state=finished raised HTTPStatusError>]               
+           FAIL f018da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8276d0 state=finished raised HTTPStatusError>]               
+           FAIL 503803565ae8692de10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10f824750 state=finished raised HTTPStatusError>]               
+           FAIL 1315da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8247d0 state=finished raised HTTPStatusError>]               
+           FAIL 92240256a0876d55e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10f341a50 state=finished raised HTTPStatusError>]               
+           FAIL e07cc955c3be037ce10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10f825450 state=finished raised HTTPStatusError>]               
+           FAIL 57dcca5501cf1d22e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10fffd650 state=finished raised HTTPStatusError>]               
+           FAIL 53880d5791c45d38e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10f824dd0 state=finished raised HTTPStatusError>]               
+           FAIL ac5d3758e2eba107e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10f340c50 state=finished raised HTTPStatusError>]               
+           FAIL 50d8ff5503de8809e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10f825ad0 state=finished raised HTTPStatusError>]               
+           FAIL d5ff975756606b10e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10f920050 state=finished raised HTTPStatusError>]               
+           FAIL b18bfa56ac7d6d38e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10f824a50 state=finished raised HTTPStatusError>]               
+           FAIL f77398570b7f6b10e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ff01150 state=finished raised HTTPStatusError>]               
+           FAIL 758afa56ac7d6d38e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10f8243d0 state=finished raised HTTPStatusError>]               
+           FAIL 2a1a9f57c6a76b10e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ff00650 state=finished raised HTTPStatusError>]               
+           FAIL c35e3758e2eba107e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10f827b50 state=finished raised HTTPStatusError>]               
+           FAIL 895f3758e2eba107e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ff027d0 state=finished raised HTTPStatusError>]               
+           FAIL 575e9857804d6c10e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ff010d0 state=finished raised HTTPStatusError>]               
+           FAIL 6b0aca55c24b6d55e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10ff02d50 state=finished raised HTTPStatusError>]               
+           FAIL 239e9b2940bd4c4aba2cb30bc29637bf: RetryError[<Future crawl.py:73
+           at 0x10ff02bd0 state=finished raised HTTPStatusError>]               
+           FAIL c4d9a8491fcd4a66873f1cd452d67663: RetryError[<Future crawl.py:73
+           at 0x10ff02350 state=finished raised HTTPStatusError>]               
+           FAIL 4ad228eb053c4684a7bf4d08a0de491e: RetryError[<Future crawl.py:73
+           at 0x10ff01c50 state=finished raised HTTPStatusError>]               
+           FAIL 9c6195017cf44376aa63415714b93fcd: RetryError[<Future crawl.py:73
+           at 0x10ff00750 state=finished raised HTTPStatusError>]               
+[22:56:26] FAIL 1714464224a44d1a89a4e41dda438177: RetryError[<Future crawl.py:73
+           at 0x10ff03b50 state=finished raised HTTPStatusError>]               
+           FAIL 50b604e037424c5fbf6e6e6a902e4012: RetryError[<Future crawl.py:73
+           at 0x10f8ef5d0 state=finished raised HTTPStatusError>]               
+           FAIL 0f19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff029d0 state=finished raised HTTPStatusError>]               
+           FAIL 82017a294df345b499524973276bdbe8: RetryError[<Future crawl.py:73
+           at 0x10f8ee150 state=finished raised HTTPStatusError>]               
+           FAIL ab08da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff03850 state=finished raised HTTPStatusError>]               
+           FAIL a5bbdacb983d4718b66d69311063ece5: RetryError[<Future crawl.py:73
+           at 0x10f8ee0d0 state=finished raised HTTPStatusError>]               
+           FAIL 97908c53cc93ed23e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8eee50 state=finished raised HTTPStatusError>]               
+           FAIL 4e07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8eeed0 state=finished raised HTTPStatusError>]               
+           FAIL 101702563f7a3874e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10ff02450 state=finished raised HTTPStatusError>]               
+           FAIL fb14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8ed950 state=finished raised HTTPStatusError>]               
+           FAIL 3b07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8ef150 state=finished raised HTTPStatusError>]               
+           FAIL 4fd8ed9d98d3121ae10000000a42189d: RetryError[<Future crawl.py:73
+           at 0x10ff3f5d0 state=finished raised HTTPStatusError>]               
+           FAIL 3507da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8eebd0 state=finished raised HTTPStatusError>]               
+           FAIL 8143a6c104f446289ed5000d4b881b40: RetryError[<Future crawl.py:73
+           at 0x10ff03750 state=finished raised HTTPStatusError>]               
+           FAIL 2707da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8ee950 state=finished raised HTTPStatusError>]               
+           FAIL 5a07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3dd50 state=finished raised HTTPStatusError>]               
+           FAIL 3807da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3f9d0 state=finished raised HTTPStatusError>]               
+           FAIL 770fda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3f2d0 state=finished raised HTTPStatusError>]               
+           FAIL 5d07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3dc50 state=finished raised HTTPStatusError>]               
+           FAIL c307da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8ece50 state=finished raised HTTPStatusError>]               
+           FAIL 740fda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3c5d0 state=finished raised HTTPStatusError>]               
+           FAIL 9f07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff390d0 state=finished raised HTTPStatusError>]               
+           FAIL e2ca6a06238f42c7811d29a54b877860: RetryError[<Future crawl.py:73
+           at 0x10ff3e750 state=finished raised HTTPStatusError>]               
+           FAIL d507da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3d650 state=finished raised HTTPStatusError>]               
+           FAIL 20b3caf16a5649d1816af67b630303f8: RetryError[<Future crawl.py:73
+           at 0x10f94f850 state=finished raised HTTPStatusError>]               
+           FAIL 682d3fcfc9ad4b4289bdba925f156bd0: RetryError[<Future crawl.py:73
+           at 0x10f94f450 state=finished raised HTTPStatusError>]               
+           FAIL 8115da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97dcd0 state=finished raised HTTPStatusError>]               
+           FAIL 7b377fb935f340edb15923f6c88a0ea8-761:                crawl.py:73
+           RetryError[<Future at 0x10f94fe50 state=finished raised              
+           HTTPStatusError>]                                                    
+           FAIL 3c09b166f4b847c09db5f96390641244: RetryError[<Future crawl.py:73
+           at 0x10f94e9d0 state=finished raised HTTPStatusError>]               
+           FAIL 9315da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94f1d0 state=finished raised HTTPStatusError>]               
+           FAIL dbbb7fbf315f494a8d02de86a84bf392: RetryError[<Future crawl.py:73
+           at 0x10f8ee550 state=finished raised HTTPStatusError>]               
+           FAIL 7707da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97d250 state=finished raised HTTPStatusError>]               
+           FAIL 9015da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97da50 state=finished raised HTTPStatusError>]               
+           FAIL 4607da531198434de10000000a174cb4-765:                crawl.py:73
+           RetryError[<Future at 0x10ff3e2d0 state=finished raised              
+           HTTPStatusError>]                                                    
+           FAIL 3f14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f920f50 state=finished raised HTTPStatusError>]               
+           FAIL 7407da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f8ee850 state=finished raised HTTPStatusError>]               
+           FAIL 1519c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97d8d0 state=finished raised HTTPStatusError>]               
+           FAIL 3ddbd7531a4d414de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fffc050 state=finished raised HTTPStatusError>]               
+           FAIL 0614da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110120ed0 state=finished raised HTTPStatusError>]               
+           FAIL e907da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110120350 state=finished raised HTTPStatusError>]               
+           FAIL 2419c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110122fd0 state=finished raised HTTPStatusError>]               
+           FAIL de14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110123650 state=finished raised HTTPStatusError>]               
+           FAIL 0314da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff5f250 state=finished raised HTTPStatusError>]               
+           FAIL d207da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110122c50 state=finished raised HTTPStatusError>]               
+           FAIL 496eb6ad79224d93ba11c113b1055b20: RetryError[<Future crawl.py:73
+           at 0x10fe36950 state=finished raised HTTPStatusError>]               
+           FAIL 5407da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110120ad0 state=finished raised HTTPStatusError>]               
+           FAIL fad64b56d682f81ae10000000a441470: RetryError[<Future crawl.py:73
+           at 0x110120850 state=finished raised HTTPStatusError>]               
+           FAIL 5f4d20ba2ec34fdfb534456e5327bcaa: RetryError[<Future crawl.py:73
+           at 0x1101234d0 state=finished raised HTTPStatusError>]               
+           FAIL 9a08da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fef7450 state=finished raised HTTPStatusError>]               
+           FAIL b316da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110122cd0 state=finished raised HTTPStatusError>]               
+           FAIL 6607da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110122f50 state=finished raised HTTPStatusError>]               
+           FAIL 719eaf2da89e4927a9037a288363b1fb: RetryError[<Future crawl.py:73
+           at 0x10ff326d0 state=finished raised HTTPStatusError>]               
+           FAIL 37cdacba5ad0487d8cf9076ca944a5a9: RetryError[<Future crawl.py:73
+           at 0x10fef76d0 state=finished raised HTTPStatusError>]               
+           FAIL f705aede5690473381dfe759aaeed46b: RetryError[<Future crawl.py:73
+           at 0x1101224d0 state=finished raised HTTPStatusError>]               
+           FAIL a0ddd1e69d9b48a5808d680a3b6b5f12: RetryError[<Future crawl.py:73
+           at 0x10fef5f50 state=finished raised HTTPStatusError>]               
+           FAIL a39e19db7f124478879ed35491bdd410: RetryError[<Future crawl.py:73
+           at 0x10fef47d0 state=finished raised HTTPStatusError>]               
+           FAIL 62ecfa4387b64429981efc8d3b644cad: RetryError[<Future crawl.py:73
+           at 0x10f153c50 state=finished raised HTTPStatusError>]               
+           FAIL e11602151b654dbb87dfd45970962b6d: RetryError[<Future crawl.py:73
+           at 0x10ff68dd0 state=finished raised HTTPStatusError>]               
+           FAIL 716d928dbfc848448dd4607c83a1ec68: RetryError[<Future crawl.py:73
+           at 0x10fef6cd0 state=finished raised HTTPStatusError>]               
+           FAIL 1fe649493c434e868ceb89848690fa40: RetryError[<Future crawl.py:73
+           at 0x10fef4950 state=finished raised HTTPStatusError>]               
+           FAIL 7215e4c4a0e04fbb9059406af59e6655: RetryError[<Future crawl.py:73
+           at 0x10fef7950 state=finished raised HTTPStatusError>]               
+           FAIL 19202081775e4ef694e5188b13f224fe: RetryError[<Future crawl.py:73
+           at 0x110121650 state=finished raised HTTPStatusError>]               
+           FAIL d1b8752c20f147e5bc52fa08eb001d8e: RetryError[<Future crawl.py:73
+           at 0x10fef65d0 state=finished raised HTTPStatusError>]               
+           FAIL 098b57001c904c2889a68ae385966f26: RetryError[<Future crawl.py:73
+           at 0x1101227d0 state=finished raised HTTPStatusError>]               
+           FAIL cb54df909e6343fdb322ac67e3d5fad2: RetryError[<Future crawl.py:73
+           at 0x110121f50 state=finished raised HTTPStatusError>]               
+           FAIL 6d18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f40e750 state=finished raised HTTPStatusError>]               
+           FAIL d218da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f827ed0 state=finished raised HTTPStatusError>]               
+           FAIL 514df34aba2a4f0b8535d9f1c50d5d79: RetryError[<Future crawl.py:73
+           at 0x10f40f9d0 state=finished raised HTTPStatusError>]               
+           FAIL e817da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f922cd0 state=finished raised HTTPStatusError>]               
+[22:56:27] FAIL a218da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10fef7350 state=finished raised HTTPStatusError>]               
+           FAIL da16da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f40fa50 state=finished raised HTTPStatusError>]               
+           FAIL d25f716d51a9492a94cd484ff69ca021: RetryError[<Future crawl.py:73
+           at 0x1101218d0 state=finished raised HTTPStatusError>]               
+           FAIL e8e0253b97364e51b77dfb33e14f40e6: RetryError[<Future crawl.py:73
+           at 0x10f40e850 state=finished raised HTTPStatusError>]               
+           FAIL 3817da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f921d50 state=finished raised HTTPStatusError>]               
+           FAIL e407da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1101205d0 state=finished raised HTTPStatusError>]               
+           FAIL 9fb9bfa901234ac9a70c12ff2b6d8b21: RetryError[<Future crawl.py:73
+           at 0x110123450 state=finished raised HTTPStatusError>]               
+           FAIL 9284a5d98c724d30b939b6e64ae20e6a: RetryError[<Future crawl.py:73
+           at 0x10fef54d0 state=finished raised HTTPStatusError>]               
+           FAIL 67becb55914a7b43e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x10fef4350 state=finished raised HTTPStatusError>]               
+           FAIL 2089fa56ac7d6d38e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x10f923950 state=finished raised HTTPStatusError>]               
+           FAIL f814da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f923f50 state=finished raised HTTPStatusError>]               
+           FAIL 0739fbebaa054fb38db3155df114ad46: RetryError[<Future crawl.py:73
+           at 0x10f920850 state=finished raised HTTPStatusError>]               
+           FAIL 76c6ad36ae2044658d953d1b1a0d3d18: RetryError[<Future crawl.py:73
+           at 0x10fe37350 state=finished raised HTTPStatusError>]               
+           FAIL cc15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f921fd0 state=finished raised HTTPStatusError>]               
+           FAIL 7b9aecdd2bcf4c3f8f9be9db2cd1e197: RetryError[<Future crawl.py:73
+           at 0x10f923150 state=finished raised HTTPStatusError>]               
+           FAIL 2719c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94e8d0 state=finished raised HTTPStatusError>]               
+           FAIL 4b07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f922950 state=finished raised HTTPStatusError>]               
+           FAIL 3727bbd1f3684f2f82ee426fc777ddb8: RetryError[<Future crawl.py:73
+           at 0x10fef4f50 state=finished raised HTTPStatusError>]               
+           FAIL 3919c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f9239d0 state=finished raised HTTPStatusError>]               
+           FAIL fd862b6e3d1d4afdb6cf51bca7c0f95b: RetryError[<Future crawl.py:73
+           at 0x10f94d850 state=finished raised HTTPStatusError>]               
+           FAIL d9c51b519f79fe74e10000000a423f68: RetryError[<Future crawl.py:73
+           at 0x10f94cbd0 state=finished raised HTTPStatusError>]               
+           FAIL 3619c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94e3d0 state=finished raised HTTPStatusError>]               
+           FAIL 3fc51b519f79fe74e10000000a423f68: RetryError[<Future crawl.py:73
+           at 0x10f94e7d0 state=finished raised HTTPStatusError>]               
+           FAIL 511c5f22c3db2919e10000000a421bc1: RetryError[<Future crawl.py:73
+           at 0x10f9221d0 state=finished raised HTTPStatusError>]               
+           FAIL b515da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97cdd0 state=finished raised HTTPStatusError>]               
+           FAIL ac14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94e5d0 state=finished raised HTTPStatusError>]               
+           FAIL 1814da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94d650 state=finished raised HTTPStatusError>]               
+           FAIL b214da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff389d0 state=finished raised HTTPStatusError>]               
+           FAIL cb14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f94d050 state=finished raised HTTPStatusError>]               
+           FAIL af14da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff3a050 state=finished raised HTTPStatusError>]               
+           FAIL c4f06afdfe844741ab91e5957ee3537e: RetryError[<Future crawl.py:73
+           at 0x10f94d4d0 state=finished raised HTTPStatusError>]               
+           FAIL 7d19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97d350 state=finished raised HTTPStatusError>]               
+           FAIL 4948d4df94f342c89546e89977c221d1: RetryError[<Future crawl.py:73
+           at 0x10ff39050 state=finished raised HTTPStatusError>]               
+           FAIL ef7f3a881b514f24a826becbfa43c3b6: RetryError[<Future crawl.py:73
+           at 0x10f97c9d0 state=finished raised HTTPStatusError>]               
+           FAIL 0105b9b4075244089132bdeea1305e98: RetryError[<Future crawl.py:73
+           at 0x10f94cd50 state=finished raised HTTPStatusError>]               
+           FAIL cf2650dce2c84937a3f1af4e0b096914: RetryError[<Future crawl.py:73
+           at 0x10f922f50 state=finished raised HTTPStatusError>]               
+           FAIL 1508da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f97d7d0 state=finished raised HTTPStatusError>]               
+           FAIL deb4e6456c594e7d887f57eab6a3101f: RetryError[<Future crawl.py:73
+           at 0x10f921650 state=finished raised HTTPStatusError>]               
+           FAIL e9b21ee6497b453e9540059103ee4d94: RetryError[<Future crawl.py:73
+           at 0x10ff3bb50 state=finished raised HTTPStatusError>]               
+           FAIL 001f59060464450eb9b0f02b3b1f5c00: RetryError[<Future crawl.py:73
+           at 0x10f8279d0 state=finished raised HTTPStatusError>]               
+           FAIL 0c0ef52522f04000a5044347081c06a5: RetryError[<Future crawl.py:73
+           at 0x10ffc11d0 state=finished raised HTTPStatusError>]               
+           FAIL 48a77e65b1a24ecf8afa2c6fc5b317f8: RetryError[<Future crawl.py:73
+           at 0x10ff39b50 state=finished raised HTTPStatusError>]               
+           FAIL fffbe23186174d18aee0784e60f24ff0: RetryError[<Future crawl.py:73
+           at 0x10ffc09d0 state=finished raised HTTPStatusError>]               
+           FAIL 4117c92120224f1b92f36b54a49174ca: RetryError[<Future crawl.py:73
+           at 0x10f923ad0 state=finished raised HTTPStatusError>]               
+           FAIL 0bc6a1508d459d04e10000000a441470: RetryError[<Future crawl.py:73
+           at 0x10ffc20d0 state=finished raised HTTPStatusError>]               
+           FAIL adacd9d3cc474502b00841a69112a191: RetryError[<Future crawl.py:73
+           at 0x10ffc1050 state=finished raised HTTPStatusError>]               
+           FAIL 6d0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffc0a50 state=finished raised HTTPStatusError>]               
+           FAIL 056e5c63cbc44ebf846d0600d3818e49: RetryError[<Future crawl.py:73
+           at 0x10f94ead0 state=finished raised HTTPStatusError>]               
+           FAIL 700cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ffc31d0 state=finished raised HTTPStatusError>]               
+           FAIL 9f4df452349b0375e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x10ffc30d0 state=finished raised HTTPStatusError>]               
+           FAIL a6ea32ba287c4a18a6d5090e326283d6: RetryError[<Future crawl.py:73
+           at 0x10ffc2250 state=finished raised HTTPStatusError>]               
+           FAIL 11c2f9a7e5de4db193dd30b27ec7d5c5: RetryError[<Future crawl.py:73
+           at 0x10ffc1850 state=finished raised HTTPStatusError>]               
+           FAIL 4b29fcd9e16b4cb9e10000000a42189b: RetryError[<Future crawl.py:73
+           at 0x10ff39850 state=finished raised HTTPStatusError>]               
+           FAIL 670cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff900d0 state=finished raised HTTPStatusError>]               
+           FAIL f99cfc4cb36a4bc98c4592a0b0f8ac16: RetryError[<Future crawl.py:73
+           at 0x10ff39a50 state=finished raised HTTPStatusError>]               
+           FAIL 83df5dc9b5454b18a1611199cfb93076: RetryError[<Future crawl.py:73
+           at 0x10ff937d0 state=finished raised HTTPStatusError>]               
+           FAIL 2c13cdc26aa84284bee863fb44c30944: RetryError[<Future crawl.py:73
+           at 0x10f923450 state=finished raised HTTPStatusError>]               
+           FAIL 2c54f49eb4a64e57aa53cc3e755039b3: RetryError[<Future crawl.py:73
+           at 0x10ffc3650 state=finished raised HTTPStatusError>]               
+           FAIL 078a32ea754d4215930dd872b31e8897: RetryError[<Future crawl.py:73
+           at 0x10ff93b50 state=finished raised HTTPStatusError>]               
+           FAIL 265c33c6b0c94a1380e373275e91a7ad: RetryError[<Future crawl.py:73
+           at 0x10ff923d0 state=finished raised HTTPStatusError>]               
+           FAIL d3085a46763c45c09664e61d07780d4a: RetryError[<Future crawl.py:73
+           at 0x10ff925d0 state=finished raised HTTPStatusError>]               
+           FAIL 52e8f8dc2de8424a98f66f4c7ec31031: RetryError[<Future crawl.py:73
+           at 0x10ff39750 state=finished raised HTTPStatusError>]               
+           FAIL da8078d1bf7147c28eb60dc41cb9b439: RetryError[<Future crawl.py:73
+           at 0x10ff38350 state=finished raised HTTPStatusError>]               
+           FAIL b2b400b094d84661a399bf9676c4c2c3: RetryError[<Future crawl.py:73
+           at 0x10ff92e50 state=finished raised HTTPStatusError>]               
+           FAIL 0e1ac3a4d15e440b92231eda8bad3c8c: RetryError[<Future crawl.py:73
+           at 0x10ffc1c50 state=finished raised HTTPStatusError>]               
+[22:56:28] FAIL c2b2e08d52504f62a6d8f70288a88a5a: RetryError[<Future crawl.py:73
+           at 0x10ff93250 state=finished raised HTTPStatusError>]               
+           FAIL d0b303710d174899b1db828f8cf37e42: RetryError[<Future crawl.py:73
+           at 0x10ff90350 state=finished raised HTTPStatusError>]               
+           FAIL 4c7408a0dba84aad953b66406afcf218: RetryError[<Future crawl.py:73
+           at 0x10f96bed0 state=finished raised HTTPStatusError>]               
+           FAIL 2716bd518ab94328961101baf841cff7: RetryError[<Future crawl.py:73
+           at 0x10ffc2850 state=finished raised HTTPStatusError>]               
+           FAIL b202b4545e134e02af67f2a04ccdcc6b: RetryError[<Future crawl.py:73
+           at 0x10f969050 state=finished raised HTTPStatusError>]               
+           FAIL 3a7504e7e2ec472385e363f8b84b05b5: RetryError[<Future crawl.py:73
+           at 0x10f9689d0 state=finished raised HTTPStatusError>]               
+           FAIL d15e5f8b9d5c4267badf7d3603cb4621: RetryError[<Future crawl.py:73
+           at 0x10f969dd0 state=finished raised HTTPStatusError>]               
+           FAIL ae90b684ff944fe293204d623258f4fb: RetryError[<Future crawl.py:73
+           at 0x110245b50 state=finished raised HTTPStatusError>]               
+           FAIL a3060c3730634addbfaeb9ab9291eab6: RetryError[<Future crawl.py:73
+           at 0x110245050 state=finished raised HTTPStatusError>]               
+           FAIL 67abda90f1bc4ca799bd477c7675d40f: RetryError[<Future crawl.py:73
+           at 0x10f96a0d0 state=finished raised HTTPStatusError>]               
+           FAIL 7ae206bef71842a499d9c3e0996c91ad: RetryError[<Future crawl.py:73
+           at 0x10f969e50 state=finished raised HTTPStatusError>]               
+           FAIL f3d2138d35f046949d2ae6c5df61b812: RetryError[<Future crawl.py:73
+           at 0x10ff90850 state=finished raised HTTPStatusError>]               
+           FAIL 43dd4707a6d9433d882f22d339e23484: RetryError[<Future crawl.py:73
+           at 0x110247350 state=finished raised HTTPStatusError>]               
+           FAIL 35d79d9aca614db99a5d6edb8b469040: RetryError[<Future crawl.py:73
+           at 0x110245ad0 state=finished raised HTTPStatusError>]               
+           FAIL 88ac9a3ffd2c4dbba01b1d6b7d2d699e: RetryError[<Future crawl.py:73
+           at 0x1102446d0 state=finished raised HTTPStatusError>]               
+           FAIL 32913c36e68149848375ae3d8bb1162f: RetryError[<Future crawl.py:73
+           at 0x110246e50 state=finished raised HTTPStatusError>]               
+           FAIL fea51d964478466cb7584ed99f0b5ab0: RetryError[<Future crawl.py:73
+           at 0x1102475d0 state=finished raised HTTPStatusError>]               
+           FAIL 1619da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10ff91fd0 state=finished raised HTTPStatusError>]               
+           FAIL b20bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110244d50 state=finished raised HTTPStatusError>]               
+           FAIL 188d71ae3d1d475b8a161b9faba3fd90: RetryError[<Future crawl.py:73
+           at 0x1102476d0 state=finished raised HTTPStatusError>]               
+           FAIL 4418da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110247bd0 state=finished raised HTTPStatusError>]               
+           FAIL c61ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f969350 state=finished raised HTTPStatusError>]               
+           FAIL fa41f252ad7e0175e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x110245850 state=finished raised HTTPStatusError>]               
+           FAIL b336cd5341dd7314e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110279550 state=finished raised HTTPStatusError>]               
+           FAIL 9b19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027a850 state=finished raised HTTPStatusError>]               
+           FAIL c519da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102793d0 state=finished raised HTTPStatusError>]               
+           FAIL ad19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110246ed0 state=finished raised HTTPStatusError>]               
+           FAIL cb19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027a550 state=finished raised HTTPStatusError>]               
+           FAIL d119da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x10f968fd0 state=finished raised HTTPStatusError>]               
+           FAIL ce19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027bc50 state=finished raised HTTPStatusError>]               
+           FAIL 4a8fd27cebe03897e10000000a42189c: RetryError[<Future crawl.py:73
+           at 0x110279b50 state=finished raised HTTPStatusError>]               
+           FAIL 3c1b5e0919054d81a5169c7c13fdc6a8: RetryError[<Future crawl.py:73
+           at 0x110244f50 state=finished raised HTTPStatusError>]               
+           FAIL 9e19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027b550 state=finished raised HTTPStatusError>]               
+           FAIL b919da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027ba50 state=finished raised HTTPStatusError>]               
+           FAIL 7719da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110247dd0 state=finished raised HTTPStatusError>]               
+           FAIL bd6222c735fd490aac345359b4ecc935: RetryError[<Future crawl.py:73
+           at 0x110246a50 state=finished raised HTTPStatusError>]               
+           FAIL 9ec44e20c49347bd97924be9b9407583: RetryError[<Future crawl.py:73
+           at 0x11027bcd0 state=finished raised HTTPStatusError>]               
+           FAIL a430c753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027b650 state=finished raised HTTPStatusError>]               
+           FAIL a517da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027afd0 state=finished raised HTTPStatusError>]               
+           FAIL a730c753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bced0 state=finished raised HTTPStatusError>]               
+           FAIL aa30c753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027a050 state=finished raised HTTPStatusError>]               
+           FAIL ea18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bfd50 state=finished raised HTTPStatusError>]               
+           FAIL de18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110246dd0 state=finished raised HTTPStatusError>]               
+           FAIL 7199d65378024308e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bf9d0 state=finished raised HTTPStatusError>]               
+           FAIL 1e18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bf350 state=finished raised HTTPStatusError>]               
+           FAIL 2718da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bfad0 state=finished raised HTTPStatusError>]               
+           FAIL 2a18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11027b8d0 state=finished raised HTTPStatusError>]               
+           FAIL 2418da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bd850 state=finished raised HTTPStatusError>]               
+           FAIL 2e15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bf450 state=finished raised HTTPStatusError>]               
+           FAIL 9818da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bdc50 state=finished raised HTTPStatusError>]               
+           FAIL 1417da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110247ed0 state=finished raised HTTPStatusError>]               
+           FAIL b818da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102472d0 state=finished raised HTTPStatusError>]               
+           FAIL dd16da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bd250 state=finished raised HTTPStatusError>]               
+           FAIL 4b522c0089472827e10000000a42189c: RetryError[<Future crawl.py:73
+           at 0x1102eebd0 state=finished raised HTTPStatusError>]               
+           FAIL 6a19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ef550 state=finished raised HTTPStatusError>]               
+           FAIL f117da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bc8d0 state=finished raised HTTPStatusError>]               
+           FAIL 3318da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102edb50 state=finished raised HTTPStatusError>]               
+           FAIL 2b19da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102bdd50 state=finished raised HTTPStatusError>]               
+           FAIL 4c73382e69a971d0e10000000a15822b: RetryError[<Future crawl.py:73
+           at 0x1102ee5d0 state=finished raised HTTPStatusError>]               
+           FAIL 310cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ee150 state=finished raised HTTPStatusError>]               
+           FAIL aa0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103384d0 state=finished raised HTTPStatusError>]               
+           FAIL 340cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ed9d0 state=finished raised HTTPStatusError>]               
+           FAIL 9e0eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ed7d0 state=finished raised HTTPStatusError>]               
+           FAIL 0c0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102eeb50 state=finished raised HTTPStatusError>]               
+           FAIL a00ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110339250 state=finished raised HTTPStatusError>]               
+           FAIL 1208da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110339f50 state=finished raised HTTPStatusError>]               
+           FAIL a40eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ed5d0 state=finished raised HTTPStatusError>]               
+[22:56:29] FAIL ec28e76eed924159899a6284bab1c6a6: RetryError[<Future crawl.py:73
+           at 0x11033b150 state=finished raised HTTPStatusError>]               
+           FAIL cd0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102ef1d0 state=finished raised HTTPStatusError>]               
+           FAIL b60eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11033bcd0 state=finished raised HTTPStatusError>]               
+           FAIL 180dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1102efb50 state=finished raised HTTPStatusError>]               
+           FAIL a3bc07ceb9e34cb4ae5802c0bf8c97e5: RetryError[<Future crawl.py:73
+           at 0x11033af50 state=finished raised HTTPStatusError>]               
+           FAIL aac2c7531dc61d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103640d0 state=finished raised HTTPStatusError>]               
+           FAIL 4e7a39e3361648cab0d1026b7faaf528: RetryError[<Future crawl.py:73
+           at 0x1102ee2d0 state=finished raised HTTPStatusError>]               
+           FAIL 9d5dc753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11033a8d0 state=finished raised HTTPStatusError>]               
+           FAIL 060dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11033a150 state=finished raised HTTPStatusError>]               
+           FAIL d30cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11033b850 state=finished raised HTTPStatusError>]               
+           FAIL d19ad4811bc94190b6fe7818f46000ab: RetryError[<Future crawl.py:73
+           at 0x110339450 state=finished raised HTTPStatusError>]               
+           FAIL 7cbfd5eee2974964a444d25d029f11e7: RetryError[<Future crawl.py:73
+           at 0x1102ec7d0 state=finished raised HTTPStatusError>]               
+           FAIL 101cb6c8485845dfb5806c7ad8156d07: RetryError[<Future crawl.py:73
+           at 0x11033b350 state=finished raised HTTPStatusError>]               
+           FAIL 6551ef8f9a6f4b0dbfc8b28e036991d3: RetryError[<Future crawl.py:73
+           at 0x1102bf950 state=finished raised HTTPStatusError>]               
+           FAIL 94fbc66c14fc4a7c92da6410bda0e1a4: RetryError[<Future crawl.py:73
+           at 0x110339d50 state=finished raised HTTPStatusError>]               
+           FAIL e7e1633618414fe6a62b0d35a05b34db: RetryError[<Future crawl.py:73
+           at 0x110366350 state=finished raised HTTPStatusError>]               
+           FAIL 9167f8b0e787408887d077619a7392b0: RetryError[<Future crawl.py:73
+           at 0x110365a50 state=finished raised HTTPStatusError>]               
+           FAIL d00cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110367f50 state=finished raised HTTPStatusError>]               
+           FAIL 2b1ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110365f50 state=finished raised HTTPStatusError>]               
+           FAIL 4f0e5b9b49dd01b1e10000000a421bc1: RetryError[<Future crawl.py:73
+           at 0x110367850 state=finished raised HTTPStatusError>]               
+           FAIL 1417d7537c98424de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11033a4d0 state=finished raised HTTPStatusError>]               
+           FAIL eb0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110367350 state=finished raised HTTPStatusError>]               
+           FAIL 150dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103675d0 state=finished raised HTTPStatusError>]               
+           FAIL 3f27275305552c3ee10000000a423f68: RetryError[<Future crawl.py:73
+           at 0x110366ad0 state=finished raised HTTPStatusError>]               
+           FAIL 952532c406c944a495698accb0605eb3: RetryError[<Future crawl.py:73
+           at 0x11033a3d0 state=finished raised HTTPStatusError>]               
+           FAIL 5d15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a63d0 state=finished raised HTTPStatusError>]               
+           FAIL 4519c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a6750 state=finished raised HTTPStatusError>]               
+           FAIL 4cff6d895b605dc6e10000000a42189c: RetryError[<Future crawl.py:73
+           at 0x1102bfcd0 state=finished raised HTTPStatusError>]               
+           FAIL 4219c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a5a50 state=finished raised HTTPStatusError>]               
+           FAIL 3f82cd52bad99d36e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x1103a5550 state=finished raised HTTPStatusError>]               
+           FAIL df7fcd52bad99d36e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x110367ed0 state=finished raised HTTPStatusError>]               
+           FAIL 24fccd523b2ba91ae10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x1103a78d0 state=finished raised HTTPStatusError>]               
+           FAIL 5714da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a7ed0 state=finished raised HTTPStatusError>]               
+           FAIL 2215da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103dcb50 state=finished raised HTTPStatusError>]               
+           FAIL 9915da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a75d0 state=finished raised HTTPStatusError>]               
+           FAIL ba15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110367e50 state=finished raised HTTPStatusError>]               
+           FAIL 8715da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110365050 state=finished raised HTTPStatusError>]               
+           FAIL e914da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a67d0 state=finished raised HTTPStatusError>]               
+           FAIL 9816da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110365850 state=finished raised HTTPStatusError>]               
+           FAIL 7cb80952852a9a60e10000000a44176d: RetryError[<Future crawl.py:73
+           at 0x1103a61d0 state=finished raised HTTPStatusError>]               
+           FAIL 5c04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a51d0 state=finished raised HTTPStatusError>]               
+           FAIL d5ff4252ba5f1b13e10000000a44176d: RetryError[<Future crawl.py:73
+           at 0x1103a72d0 state=finished raised HTTPStatusError>]               
+           FAIL f321d553088f4308e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a6ed0 state=finished raised HTTPStatusError>]               
+           FAIL 16767d531efc7e0de10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x1103df450 state=finished raised HTTPStatusError>]               
+           FAIL f003c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103dfa50 state=finished raised HTTPStatusError>]               
+           FAIL f303c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103df3d0 state=finished raised HTTPStatusError>]               
+           FAIL f603c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103df150 state=finished raised HTTPStatusError>]               
+           FAIL 0204c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103ddf50 state=finished raised HTTPStatusError>]               
+           FAIL f903c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103dd3d0 state=finished raised HTTPStatusError>]               
+           FAIL be03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110246ad0 state=finished raised HTTPStatusError>]               
+           FAIL 0804c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103dee50 state=finished raised HTTPStatusError>]               
+           FAIL fc03c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110499bd0 state=finished raised HTTPStatusError>]               
+           FAIL c103c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103deed0 state=finished raised HTTPStatusError>]               
+           FAIL 379bc2531bb9b44ce10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a6d50 state=finished raised HTTPStatusError>]               
+           FAIL 0b04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a68d0 state=finished raised HTTPStatusError>]               
+           FAIL c403c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049aad0 state=finished raised HTTPStatusError>]               
+           FAIL 0e04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049ae50 state=finished raised HTTPStatusError>]               
+           FAIL c703c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049a750 state=finished raised HTTPStatusError>]               
+           FAIL d003c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049b850 state=finished raised HTTPStatusError>]               
+           FAIL ca03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049add0 state=finished raised HTTPStatusError>]               
+           FAIL d303c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049b7d0 state=finished raised HTTPStatusError>]               
+           FAIL cd03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103de050 state=finished raised HTTPStatusError>]               
+           FAIL d903c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049aed0 state=finished raised HTTPStatusError>]               
+           FAIL d603c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dc950 state=finished raised HTTPStatusError>]               
+           FAIL dc03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103dfed0 state=finished raised HTTPStatusError>]               
+           FAIL df03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049a850 state=finished raised HTTPStatusError>]               
+           FAIL e203c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110498850 state=finished raised HTTPStatusError>]               
+           FAIL e503c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103deb50 state=finished raised HTTPStatusError>]               
+[22:56:30] FAIL e803c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049a050 state=finished raised HTTPStatusError>]               
+           FAIL f103c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a57d0 state=finished raised HTTPStatusError>]               
+           FAIL eb03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104deed0 state=finished raised HTTPStatusError>]               
+           FAIL ee03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049bb50 state=finished raised HTTPStatusError>]               
+           FAIL f403c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104df850 state=finished raised HTTPStatusError>]               
+           FAIL 1104c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049aa50 state=finished raised HTTPStatusError>]               
+           FAIL 1404c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104de3d0 state=finished raised HTTPStatusError>]               
+           FAIL f703c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dfed0 state=finished raised HTTPStatusError>]               
+           FAIL fa03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dd650 state=finished raised HTTPStatusError>]               
+           FAIL 1704c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dcd50 state=finished raised HTTPStatusError>]               
+           FAIL 1a04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104df3d0 state=finished raised HTTPStatusError>]               
+           FAIL 0004c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1103a7cd0 state=finished raised HTTPStatusError>]               
+           FAIL fd03c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dfdd0 state=finished raised HTTPStatusError>]               
+           FAIL 0304c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050e0d0 state=finished raised HTTPStatusError>]               
+           FAIL 2004c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050e250 state=finished raised HTTPStatusError>]               
+           FAIL 1d04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050ebd0 state=finished raised HTTPStatusError>]               
+           FAIL 0604c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110498ed0 state=finished raised HTTPStatusError>]               
+           FAIL 2604c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050e550 state=finished raised HTTPStatusError>]               
+           FAIL 2304c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110498550 state=finished raised HTTPStatusError>]               
+           FAIL 2904c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050fed0 state=finished raised HTTPStatusError>]               
+           FAIL 0904c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050f850 state=finished raised HTTPStatusError>]               
+           FAIL 0c04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050c7d0 state=finished raised HTTPStatusError>]               
+           FAIL 2c04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104de4d0 state=finished raised HTTPStatusError>]               
+           FAIL 0f04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053c8d0 state=finished raised HTTPStatusError>]               
+           FAIL 2f04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050c1d0 state=finished raised HTTPStatusError>]               
+           FAIL 1504c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dec50 state=finished raised HTTPStatusError>]               
+           FAIL 1204c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050e850 state=finished raised HTTPStatusError>]               
+           FAIL 1804c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050edd0 state=finished raised HTTPStatusError>]               
+           FAIL 3204c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050f2d0 state=finished raised HTTPStatusError>]               
+           FAIL 1e04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053cd50 state=finished raised HTTPStatusError>]               
+           FAIL 1b04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050e950 state=finished raised HTTPStatusError>]               
+           FAIL 2104c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053e650 state=finished raised HTTPStatusError>]               
+           FAIL 3504c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053f750 state=finished raised HTTPStatusError>]               
+           FAIL 2404c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053d550 state=finished raised HTTPStatusError>]               
+           FAIL 2704c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050f950 state=finished raised HTTPStatusError>]               
+           FAIL 2d04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053ecd0 state=finished raised HTTPStatusError>]               
+           FAIL 2a04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053db50 state=finished raised HTTPStatusError>]               
+           FAIL 3304c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053dbd0 state=finished raised HTTPStatusError>]               
+           FAIL 3004c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053ce50 state=finished raised HTTPStatusError>]               
+           FAIL 3804c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053f1d0 state=finished raised HTTPStatusError>]               
+           FAIL 3b04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050f4d0 state=finished raised HTTPStatusError>]               
+           FAIL 3e04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11049b5d0 state=finished raised HTTPStatusError>]               
+           FAIL 4404c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110575d50 state=finished raised HTTPStatusError>]               
+           FAIL 4104c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110576750 state=finished raised HTTPStatusError>]               
+           FAIL 3904c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110576bd0 state=finished raised HTTPStatusError>]               
+           FAIL 3604c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053d950 state=finished raised HTTPStatusError>]               
+           FAIL 3c04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053f9d0 state=finished raised HTTPStatusError>]               
+           FAIL 4704c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11050fa50 state=finished raised HTTPStatusError>]               
+           FAIL 3f04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110577b50 state=finished raised HTTPStatusError>]               
+           FAIL 4504c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053ebd0 state=finished raised HTTPStatusError>]               
+           FAIL 4204c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110575bd0 state=finished raised HTTPStatusError>]               
+           FAIL 4a04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1104dde50 state=finished raised HTTPStatusError>]               
+           FAIL 4d04c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105776d0 state=finished raised HTTPStatusError>]               
+           FAIL 4b04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110577ad0 state=finished raised HTTPStatusError>]               
+           FAIL 4804c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110577a50 state=finished raised HTTPStatusError>]               
+           FAIL 5104c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105767d0 state=finished raised HTTPStatusError>]               
+           FAIL 4e04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110575050 state=finished raised HTTPStatusError>]               
+           FAIL 5704c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105aa750 state=finished raised HTTPStatusError>]               
+           FAIL 5404c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053fdd0 state=finished raised HTTPStatusError>]               
+           FAIL 5d04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105a95d0 state=finished raised HTTPStatusError>]               
+           FAIL 5a04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105ab2d0 state=finished raised HTTPStatusError>]               
+           FAIL 6304c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105abc50 state=finished raised HTTPStatusError>]               
+           FAIL 6604c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105ab5d0 state=finished raised HTTPStatusError>]               
+           FAIL 6004c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d4150 state=finished raised HTTPStatusError>]               
+           FAIL 6c04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105ab950 state=finished raised HTTPStatusError>]               
+           FAIL 6904c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105aa6d0 state=finished raised HTTPStatusError>]               
+           FAIL 7504c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105ab450 state=finished raised HTTPStatusError>]               
+           FAIL 7204c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105a9fd0 state=finished raised HTTPStatusError>]               
+[22:56:31] FAIL 7804c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105aa8d0 state=finished raised HTTPStatusError>]               
+           FAIL 6f04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d5cd0 state=finished raised HTTPStatusError>]               
+           FAIL 5004c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105abb50 state=finished raised HTTPStatusError>]               
+           FAIL 7b04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d68d0 state=finished raised HTTPStatusError>]               
+           FAIL 7e04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d6f50 state=finished raised HTTPStatusError>]               
+           FAIL 8104c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d76d0 state=finished raised HTTPStatusError>]               
+           FAIL 8404c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d49d0 state=finished raised HTTPStatusError>]               
+           FAIL 8704c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d7350 state=finished raised HTTPStatusError>]               
+           FAIL 8a04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d72d0 state=finished raised HTTPStatusError>]               
+           FAIL 8d04c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d5650 state=finished raised HTTPStatusError>]               
+           FAIL 9004c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d6450 state=finished raised HTTPStatusError>]               
+           FAIL 9304c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d7dd0 state=finished raised HTTPStatusError>]               
+           FAIL a740c2531bb9b44ce10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105a8cd0 state=finished raised HTTPStatusError>]               
+           FAIL 9604c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d79d0 state=finished raised HTTPStatusError>]               
+           FAIL 5904c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105ab350 state=finished raised HTTPStatusError>]               
+           FAIL 9904c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d7bd0 state=finished raised HTTPStatusError>]               
+           FAIL 5304c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105aabd0 state=finished raised HTTPStatusError>]               
+           FAIL 5419c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d4950 state=finished raised HTTPStatusError>]               
+           FAIL 8911e45200160575e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x1105d6650 state=finished raised HTTPStatusError>]               
+           FAIL 5604c5536a51204be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110612f50 state=finished raised HTTPStatusError>]               
+           FAIL 5719c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110613450 state=finished raised HTTPStatusError>]               
+           FAIL af0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105d6850 state=finished raised HTTPStatusError>]               
+           FAIL 9e0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110613ed0 state=finished raised HTTPStatusError>]               
+           FAIL a40bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110612750 state=finished raised HTTPStatusError>]               
+           FAIL ac0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106350d0 state=finished raised HTTPStatusError>]               
+           FAIL a70bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106113d0 state=finished raised HTTPStatusError>]               
+           FAIL a00cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1105aacd0 state=finished raised HTTPStatusError>]               
+           FAIL b20cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110611d50 state=finished raised HTTPStatusError>]               
+           FAIL a60cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110613850 state=finished raised HTTPStatusError>]               
+           FAIL a30cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110613050 state=finished raised HTTPStatusError>]               
+           FAIL 3a59393494a14c4da2f5247b2f4ee7b2: RetryError[<Future crawl.py:73
+           at 0x1105d4fd0 state=finished raised HTTPStatusError>]               
+           FAIL a90cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110636ad0 state=finished raised HTTPStatusError>]               
+           FAIL fbfab9cbb57941e1bcbfdfb2b458bd58: RetryError[<Future crawl.py:73
+           at 0x1106371d0 state=finished raised HTTPStatusError>]               
+           FAIL c272c753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110635750 state=finished raised HTTPStatusError>]               
+           FAIL 5686bd9bc87c49d98e0fd7dcfc78fff6: RetryError[<Future crawl.py:73
+           at 0x1106370d0 state=finished raised HTTPStatusError>]               
+           FAIL bc17da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110637c50 state=finished raised HTTPStatusError>]               
+           FAIL 67980b1daaf449f0b9403768d2bc61ab: RetryError[<Future crawl.py:73
+           at 0x1106378d0 state=finished raised HTTPStatusError>]               
+           FAIL b917da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110637bd0 state=finished raised HTTPStatusError>]               
+           FAIL fb7eef526b709972e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x1106790d0 state=finished raised HTTPStatusError>]               
+           FAIL aa18da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106366d0 state=finished raised HTTPStatusError>]               
+           FAIL 090dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110635fd0 state=finished raised HTTPStatusError>]               
+           FAIL ef812954d8ccbb29e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x110635b50 state=finished raised HTTPStatusError>]               
+           FAIL 7bef515413e5843ae10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x110637ad0 state=finished raised HTTPStatusError>]               
+           FAIL c8d53554cf391f5de10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x110636cd0 state=finished raised HTTPStatusError>]               
+           FAIL 81ff2954456b1b5de10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x1106353d0 state=finished raised HTTPStatusError>]               
+           FAIL f9a77b54993a8c4ce10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x110637850 state=finished raised HTTPStatusError>]               
+           FAIL 63d432546c741e6ee10000000a441470: RetryError[<Future crawl.py:73
+           at 0x11067a6d0 state=finished raised HTTPStatusError>]               
+           FAIL 030dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067b0d0 state=finished raised HTTPStatusError>]               
+           FAIL b3fbad929f454a658ea38e27f27937f3: RetryError[<Future crawl.py:73
+           at 0x110636850 state=finished raised HTTPStatusError>]               
+           FAIL 6319c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110678650 state=finished raised HTTPStatusError>]               
+           FAIL 5a19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067aa50 state=finished raised HTTPStatusError>]               
+           FAIL 6019c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067be50 state=finished raised HTTPStatusError>]               
+           FAIL 830bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110613350 state=finished raised HTTPStatusError>]               
+           FAIL 950bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110637550 state=finished raised HTTPStatusError>]               
+           FAIL 980bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067b450 state=finished raised HTTPStatusError>]               
+           FAIL 18ecf6b0668449b2a13cddb41370254a: RetryError[<Future crawl.py:73
+           at 0x1106adcd0 state=finished raised HTTPStatusError>]               
+           FAIL f922a52da1cf44249375b79cdca61213: RetryError[<Future crawl.py:73
+           at 0x110613f50 state=finished raised HTTPStatusError>]               
+           FAIL 9b0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067add0 state=finished raised HTTPStatusError>]               
+           FAIL 900e4c10c9cf4454845bca627f476937: RetryError[<Future crawl.py:73
+           at 0x1106ad750 state=finished raised HTTPStatusError>]               
+           FAIL 8c0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106ae5d0 state=finished raised HTTPStatusError>]               
+           FAIL 920bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067b750 state=finished raised HTTPStatusError>]               
+           FAIL 890bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106af2d0 state=finished raised HTTPStatusError>]               
+           FAIL 860bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11053e850 state=finished raised HTTPStatusError>]               
+           FAIL 8f0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106af1d0 state=finished raised HTTPStatusError>]               
+           FAIL 6619c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106ae550 state=finished raised HTTPStatusError>]               
+           FAIL 6919c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106ae450 state=finished raised HTTPStatusError>]               
+           FAIL af0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106aecd0 state=finished raised HTTPStatusError>]               
+           FAIL 2d0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106afd50 state=finished raised HTTPStatusError>]               
+           FAIL 6f19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11067b650 state=finished raised HTTPStatusError>]               
+           FAIL 6c19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106af8d0 state=finished raised HTTPStatusError>]               
+[22:56:32] FAIL 7219c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106aed50 state=finished raised HTTPStatusError>]               
+           FAIL 7519c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106afe50 state=finished raised HTTPStatusError>]               
+           FAIL 7b19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106af4d0 state=finished raised HTTPStatusError>]               
+           FAIL cc0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e26d0 state=finished raised HTTPStatusError>]               
+           FAIL 7550e5b5fa4f4be5897c29df4eadb1bb: RetryError[<Future crawl.py:73
+           at 0x1106e2dd0 state=finished raised HTTPStatusError>]               
+           FAIL 7819c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e0850 state=finished raised HTTPStatusError>]               
+           FAIL ca0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106ad2d0 state=finished raised HTTPStatusError>]               
+           FAIL 9e0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e2a50 state=finished raised HTTPStatusError>]               
+           FAIL e911c753b1081d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e3d50 state=finished raised HTTPStatusError>]               
+           FAIL 7b0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e1bd0 state=finished raised HTTPStatusError>]               
+           FAIL b90eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e1550 state=finished raised HTTPStatusError>]               
+           FAIL 710eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e3dd0 state=finished raised HTTPStatusError>]               
+           FAIL 130cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106afad0 state=finished raised HTTPStatusError>]               
+           FAIL 7e19c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107204d0 state=finished raised HTTPStatusError>]               
+           FAIL bd0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110721f50 state=finished raised HTTPStatusError>]               
+           FAIL 4f672e981a3a43d8e10000000a42189c: RetryError[<Future crawl.py:73
+           at 0x110721b50 state=finished raised HTTPStatusError>]               
+           FAIL 8419c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e2d50 state=finished raised HTTPStatusError>]               
+           FAIL 8119c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110722550 state=finished raised HTTPStatusError>]               
+           FAIL 8d15da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107227d0 state=finished raised HTTPStatusError>]               
+           FAIL 51bc06310fcf40488a3c51203068806d: RetryError[<Future crawl.py:73
+           at 0x1106e23d0 state=finished raised HTTPStatusError>]               
+           FAIL 8719c55368511d4be10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e3c50 state=finished raised HTTPStatusError>]               
+           FAIL 094cee52f0720175e10000000a44538d: RetryError[<Future crawl.py:73
+           at 0x1106e0a50 state=finished raised HTTPStatusError>]               
+           FAIL 9a0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723bd0 state=finished raised HTTPStatusError>]               
+           FAIL d6a7d65378024308e10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723ad0 state=finished raised HTTPStatusError>]               
+           FAIL c40cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723750 state=finished raised HTTPStatusError>]               
+           FAIL b50cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723c50 state=finished raised HTTPStatusError>]               
+           FAIL be0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107237d0 state=finished raised HTTPStatusError>]               
+           FAIL b80cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110755d50 state=finished raised HTTPStatusError>]               
+           FAIL 9d0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110722250 state=finished raised HTTPStatusError>]               
+           FAIL bb0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110756350 state=finished raised HTTPStatusError>]               
+           FAIL c10cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107231d0 state=finished raised HTTPStatusError>]               
+           FAIL c70cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107547d0 state=finished raised HTTPStatusError>]               
+           FAIL 9d0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e38d0 state=finished raised HTTPStatusError>]               
+           FAIL cd0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e1ed0 state=finished raised HTTPStatusError>]               
+           FAIL b90dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723850 state=finished raised HTTPStatusError>]               
+           FAIL c30ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110721150 state=finished raised HTTPStatusError>]               
+           FAIL c10dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110757450 state=finished raised HTTPStatusError>]               
+           FAIL ca0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110723ed0 state=finished raised HTTPStatusError>]               
+           FAIL 930ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110722350 state=finished raised HTTPStatusError>]               
+           FAIL 800eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110757dd0 state=finished raised HTTPStatusError>]               
+           FAIL ab0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107577d0 state=finished raised HTTPStatusError>]               
+           FAIL 6d0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110757b50 state=finished raised HTTPStatusError>]               
+           FAIL b72554ab58464623b6a27a1e3c0a9426: RetryError[<Future crawl.py:73
+           at 0x11078c350 state=finished raised HTTPStatusError>]               
+           FAIL d10bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078e5d0 state=finished raised HTTPStatusError>]               
+           FAIL ea0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1106e32d0 state=finished raised HTTPStatusError>]               
+           FAIL 361892ba06604829a86ef0df73e72d89: RetryError[<Future crawl.py:73
+           at 0x110756c50 state=finished raised HTTPStatusError>]               
+           FAIL fc0ada531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078e2d0 state=finished raised HTTPStatusError>]               
+           FAIL e1d4635a930c4b1aab1826382139199e: RetryError[<Future crawl.py:73
+           at 0x11078c850 state=finished raised HTTPStatusError>]               
+           FAIL 8e0dda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110757e50 state=finished raised HTTPStatusError>]               
+           FAIL 3a8d584576b747a095343163fd82aea2: RetryError[<Future crawl.py:73
+           at 0x110756e50 state=finished raised HTTPStatusError>]               
+           FAIL d40bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078f4d0 state=finished raised HTTPStatusError>]               
+           FAIL 8f0eda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078e1d0 state=finished raised HTTPStatusError>]               
+           FAIL 5718da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078f3d0 state=finished raised HTTPStatusError>]               
+           FAIL fdc18726553148baad0ccaf53b3515b9: RetryError[<Future crawl.py:73
+           at 0x11078e550 state=finished raised HTTPStatusError>]               
+           FAIL fc07da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x11078ecd0 state=finished raised HTTPStatusError>]               
+           FAIL 47b4d2b9baf6477a9a233143f1c588c4: RetryError[<Future crawl.py:73
+           at 0x11078f0d0 state=finished raised HTTPStatusError>]               
+           FAIL 7015da531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1107c22d0 state=finished raised HTTPStatusError>]               
+           FAIL cbc19f1af5ad483bbb2a2da6a35f2987: RetryError[<Future crawl.py:73
+           at 0x11078e3d0 state=finished raised HTTPStatusError>]               
+           FAIL 19aaf30ef2c04f90a55df0f0257fd1eb: RetryError[<Future crawl.py:73
+           at 0x11078d2d0 state=finished raised HTTPStatusError>]               
+           FAIL 637af6fb6a98473789fad033fe5c6e60: RetryError[<Future crawl.py:73
+           at 0x1107c2b50 state=finished raised HTTPStatusError>]               
+           FAIL 4b1022032b444849a6b520b273776c15: RetryError[<Future crawl.py:73
+           at 0x11078ccd0 state=finished raised HTTPStatusError>]               
+           FAIL bca73558e4912260e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x110757ad0 state=finished raised HTTPStatusError>]               
+           FAIL 3e629469a53b49ff854024cf81cfaf48: RetryError[<Future crawl.py:73
+           at 0x1107c13d0 state=finished raised HTTPStatusError>]               
+           FAIL 978490055e87437f8a11bb9651d5cc64: RetryError[<Future crawl.py:73
+           at 0x11078e750 state=finished raised HTTPStatusError>]               
+           FAIL ef50e11850884b5a83ef25b0ee992e83: RetryError[<Future crawl.py:73
+           at 0x1107c2e50 state=finished raised HTTPStatusError>]               
+           FAIL d4842c5863352360e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x11078c2d0 state=finished raised HTTPStatusError>]               
+           FAIL 77bf37014ddb48d69a466cb792b923b2: RetryError[<Future crawl.py:73
+           at 0x1107c2bd0 state=finished raised HTTPStatusError>]               
+           FAIL 8936af9e6f2b4796a221004c4ab70167: RetryError[<Future crawl.py:73
+           at 0x1107c35d0 state=finished raised HTTPStatusError>]               
+           FAIL 4698d82b5a9b44d3aadc0747f2581f5e: RetryError[<Future crawl.py:73
+           at 0x1107c3ad0 state=finished raised HTTPStatusError>]               
+[22:56:33] FAIL bf604b970dba458aa08b2a5beb85de47: RetryError[<Future crawl.py:73
+           at 0x1107c3ed0 state=finished raised HTTPStatusError>]               
+           FAIL 82882c5863352360e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x1107c0a50 state=finished raised HTTPStatusError>]               
+           FAIL f99b462dca214ced94ca2a5814c654e1: RetryError[<Future crawl.py:73
+           at 0x1107c2d50 state=finished raised HTTPStatusError>]               
+           FAIL 0cee7a8a6cb74a35abdd14acdcbd5fe6: RetryError[<Future crawl.py:73
+           at 0x1107fe750 state=finished raised HTTPStatusError>]               
+           FAIL da08eedc44894fb7a7e9d39c32bfbb8c: RetryError[<Future crawl.py:73
+           at 0x1106adfd0 state=finished raised HTTPStatusError>]               
+           FAIL 19f39a17ca924a39aa799fdc7eb48c3e: RetryError[<Future crawl.py:73
+           at 0x1107fe850 state=finished raised HTTPStatusError>]               
+           FAIL 80fbc5bbec354b5f904817e513a8216c: RetryError[<Future crawl.py:73
+           at 0x1107549d0 state=finished raised HTTPStatusError>]               
+           FAIL 23c09f0e7b884698bc4bc9482ef9b0d4: RetryError[<Future crawl.py:73
+           at 0x1107c3bd0 state=finished raised HTTPStatusError>]               
+           FAIL 37018655ab454adb8c4c57125a34fef9: RetryError[<Future crawl.py:73
+           at 0x1107c3dd0 state=finished raised HTTPStatusError>]               
+           FAIL 6e9bf26f4935455596c808a6d12e973a: RetryError[<Future crawl.py:73
+           at 0x1107ffe50 state=finished raised HTTPStatusError>]               
+           FAIL 50864dd8a6234a698bea776121b7370a: RetryError[<Future crawl.py:73
+           at 0x1107fda50 state=finished raised HTTPStatusError>]               
+           FAIL a51cb8777b3543bfb29ff4955c6f279c: RetryError[<Future crawl.py:73
+           at 0x1107ff650 state=finished raised HTTPStatusError>]               
+           FAIL e7c6d3577f10417c80643adf5146b717: RetryError[<Future crawl.py:73
+           at 0x1107ffc50 state=finished raised HTTPStatusError>]               
+           FAIL 1a31b4a9ed894477af8af8bbb122c18a: RetryError[<Future crawl.py:73
+           at 0x11082cb50 state=finished raised HTTPStatusError>]               
+           FAIL 38417f58655b9244e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x1107ff850 state=finished raised HTTPStatusError>]               
+           FAIL d6101a2660e24cf0997a9c3ceec910e9: RetryError[<Future crawl.py:73
+           at 0x1107ff4d0 state=finished raised HTTPStatusError>]               
+           FAIL c39c43776d5d475e8fda9ce452a2dd01: RetryError[<Future crawl.py:73
+           at 0x1107ff2d0 state=finished raised HTTPStatusError>]               
+           FAIL 9869331484c145ebb1feae755e82f1a9: RetryError[<Future crawl.py:73
+           at 0x1107c38d0 state=finished raised HTTPStatusError>]               
+           FAIL 57a84eb53d9d400ba7c3a1353a75ba09: RetryError[<Future crawl.py:73
+           at 0x11082ea50 state=finished raised HTTPStatusError>]               
+           FAIL 588b2c5863352360e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x1107c2ad0 state=finished raised HTTPStatusError>]               
+           FAIL 358647a65cc645e794d7ef60b0149ec3: RetryError[<Future crawl.py:73
+           at 0x11082d9d0 state=finished raised HTTPStatusError>]               
+           FAIL 6dad0e718e434c24a5d811321ec53bc8: RetryError[<Future crawl.py:73
+           at 0x1107fe550 state=finished raised HTTPStatusError>]               
+           FAIL 7b217458acc62060e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x1107fc950 state=finished raised HTTPStatusError>]               
+           FAIL d7734a9e957d4a33b96ad4ad7f35caab: RetryError[<Future crawl.py:73
+           at 0x1107fe8d0 state=finished raised HTTPStatusError>]               
+           FAIL 5a7dfd64556542faa6ce3b4fc0337862: RetryError[<Future crawl.py:73
+           at 0x11082f7d0 state=finished raised HTTPStatusError>]               
+           FAIL b988d64174794a9592480f2c3efc5094: RetryError[<Future crawl.py:73
+           at 0x1107c1450 state=finished raised HTTPStatusError>]               
+           FAIL ad50f937e3734b17ace3aa07c0febaa2: RetryError[<Future crawl.py:73
+           at 0x11082e8d0 state=finished raised HTTPStatusError>]               
+           FAIL 8ec508c4844d4aa39cf47e9502fd0215: RetryError[<Future crawl.py:73
+           at 0x11082fcd0 state=finished raised HTTPStatusError>]               
+           FAIL 5b1b16afa92d4458b87d3e63ab6b03a1: RetryError[<Future crawl.py:73
+           at 0x11078f750 state=finished raised HTTPStatusError>]               
+           FAIL 2e306f362334449f89ceb0e7db71b78d: RetryError[<Future crawl.py:73
+           at 0x11078ee50 state=finished raised HTTPStatusError>]               
+           FAIL 79ebf2c79e514699adb326f83199397b: RetryError[<Future crawl.py:73
+           at 0x1108721d0 state=finished raised HTTPStatusError>]               
+           FAIL 7a237f586d809344e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x1108720d0 state=finished raised HTTPStatusError>]               
+           FAIL 2ea37bcde8ba462981031295774647af: RetryError[<Future crawl.py:73
+           at 0x11082f6d0 state=finished raised HTTPStatusError>]               
+           FAIL a28f742ae79543a7b6736e2d9d62d3c0: RetryError[<Future crawl.py:73
+           at 0x110872cd0 state=finished raised HTTPStatusError>]               
+           FAIL cc77395d15d24b50b8d64ddf0695865d: RetryError[<Future crawl.py:73
+           at 0x1107fc450 state=finished raised HTTPStatusError>]               
+           FAIL cbd96ebf086b482586c3c1893e6c0d15: RetryError[<Future crawl.py:73
+           at 0x110872ad0 state=finished raised HTTPStatusError>]               
+           FAIL 304d201b3a254e349e6ff86fc83ffda9: RetryError[<Future crawl.py:73
+           at 0x1108736d0 state=finished raised HTTPStatusError>]               
+           FAIL 4cc30443141c4c388e3ad4c563f70fd2: RetryError[<Future crawl.py:73
+           at 0x1107ffd50 state=finished raised HTTPStatusError>]               
+           FAIL d4b5c182dd6a4fa4824e64716c7efdef: RetryError[<Future crawl.py:73
+           at 0x110873c50 state=finished raised HTTPStatusError>]               
+           FAIL 2fe9a4a85d824a77b0110a7e9397bb55: RetryError[<Future crawl.py:73
+           at 0x110873ad0 state=finished raised HTTPStatusError>]               
+           FAIL bd8487a7fdc94e16a7646eca0a758c96: RetryError[<Future crawl.py:73
+           at 0x11082fb50 state=finished raised HTTPStatusError>]               
+           FAIL 4802d3f344e5433da21945c265966a9d: RetryError[<Future crawl.py:73
+           at 0x110873150 state=finished raised HTTPStatusError>]               
+           FAIL c13e7f58655b9244e10000000a4450e5: RetryError[<Future crawl.py:73
+           at 0x110871c50 state=finished raised HTTPStatusError>]               
+           FAIL c47251d2bbb642b9b81f63e4fd1b6028: RetryError[<Future crawl.py:73
+           at 0x110873cd0 state=finished raised HTTPStatusError>]               
+           FAIL 08710458d8553460e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x110872850 state=finished raised HTTPStatusError>]               
+           FAIL 49bff4b439731b93e10000000a42189b: RetryError[<Future crawl.py:73
+           at 0x1108a68d0 state=finished raised HTTPStatusError>]               
+           FAIL f4710458d8553460e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x1107ffb50 state=finished raised HTTPStatusError>]               
+           FAIL 0858fd47cbee41d5bfde1ed8f25b32ce: RetryError[<Future crawl.py:73
+           at 0x1108a7450 state=finished raised HTTPStatusError>]               
+           FAIL 18a74029b4d7404ca2209dac74ae8b8e: RetryError[<Future crawl.py:73
+           at 0x110873d50 state=finished raised HTTPStatusError>]               
+           FAIL bd720458d8553460e10000000a44147b: RetryError[<Future crawl.py:73
+           at 0x11082fe50 state=finished raised HTTPStatusError>]               
+           FAIL 5e3308eb2c9a419789aa9d0a7dc42bc3: RetryError[<Future crawl.py:73
+           at 0x1108a45d0 state=finished raised HTTPStatusError>]               
+           FAIL cb2d040cdebc41318da60d933f09b2e6: RetryError[<Future crawl.py:73
+           at 0x1108a7f50 state=finished raised HTTPStatusError>]               
+           FAIL a2495f394bce470cb2834656c929323d: RetryError[<Future crawl.py:73
+           at 0x110873dd0 state=finished raised HTTPStatusError>]               
+           FAIL 49bff48439731b93e10000000a42189b: RetryError[<Future crawl.py:73
+           at 0x1107c0b50 state=finished raised HTTPStatusError>]               
+           FAIL 47dbde91fe8a40ffa777323011ba0936: RetryError[<Future crawl.py:73
+           at 0x1108a61d0 state=finished raised HTTPStatusError>]               
+           FAIL af5312e21a174491a05d5dcdd686fa26: RetryError[<Future crawl.py:73
+           at 0x1108e4150 state=finished raised HTTPStatusError>]               
+           FAIL 27923097f65e42d290727b11ec2517dc: RetryError[<Future crawl.py:73
+           at 0x1108a78d0 state=finished raised HTTPStatusError>]               
+           FAIL c66cabab0b3a4483961f1e509ab09153: RetryError[<Future crawl.py:73
+           at 0x1108a6550 state=finished raised HTTPStatusError>]               
+           FAIL 06a16b9421ed4f38912670e79218cd92: RetryError[<Future crawl.py:73
+           at 0x1108a6650 state=finished raised HTTPStatusError>]               
+           FAIL 54c86801cd7e443ca2f9c5a7198b0ec4: RetryError[<Future crawl.py:73
+           at 0x1108e6f50 state=finished raised HTTPStatusError>]               
+           FAIL fa2cdd49411044bdbc3c6b07c833ff27: RetryError[<Future crawl.py:73
+           at 0x1108a6bd0 state=finished raised HTTPStatusError>]               
+           FAIL bd3b8ac5c11446b3a10e4b7247b9c798: RetryError[<Future crawl.py:73
+           at 0x1108a4550 state=finished raised HTTPStatusError>]               
+           FAIL 3b92a9f4c04b4acfa724d78432a72588: RetryError[<Future crawl.py:73
+           at 0x1108a7c50 state=finished raised HTTPStatusError>]               
+           FAIL ed31c9aa938f4dacb526951f0365711b: RetryError[<Future crawl.py:73
+           at 0x110871150 state=finished raised HTTPStatusError>]               
+           FAIL df7e04119f2744028f1dce27d3bac142: RetryError[<Future crawl.py:73
+           at 0x1108730d0 state=finished raised HTTPStatusError>]               
+           FAIL f11f45c9f2f247d7bb74396b5d2523c3: RetryError[<Future crawl.py:73
+           at 0x1108e6cd0 state=finished raised HTTPStatusError>]               
+           FAIL 49c0a04ee0970e80e10000000a42189b: RetryError[<Future crawl.py:73
+           at 0x1108e7c50 state=finished raised HTTPStatusError>]               
+           FAIL 69cede06c87c4947b1cbadd344001cde: RetryError[<Future crawl.py:73
+           at 0x1108e7f50 state=finished raised HTTPStatusError>]               
+[22:56:34] FAIL 6fd79fefb597432980a91f883b3ee179: RetryError[<Future crawl.py:73
+           at 0x1108e7dd0 state=finished raised HTTPStatusError>]               
+           FAIL 428c2971096b4072b3cac2567e404dfd: RetryError[<Future crawl.py:73
+           at 0x110920150 state=finished raised HTTPStatusError>]               
+           FAIL 0aa0fd32f043461593ac8fc0a92a1f20: RetryError[<Future crawl.py:73
+           at 0x1108e6250 state=finished raised HTTPStatusError>]               
+           FAIL 04a29b88dfd74378952fc4f3dd11c078: RetryError[<Future crawl.py:73
+           at 0x1108e75d0 state=finished raised HTTPStatusError>]               
+           FAIL 5a0389bf51bc495589fe62560b3e3d9d: RetryError[<Future crawl.py:73
+           at 0x110922050 state=finished raised HTTPStatusError>]               
+           FAIL 2bc49d89bd3d4862aebb7ae99cb5a604: RetryError[<Future crawl.py:73
+           at 0x1108e6e50 state=finished raised HTTPStatusError>]               
+           FAIL 3c3190812f694475a3fa6268bcbde64a: RetryError[<Future crawl.py:73
+           at 0x1108e7750 state=finished raised HTTPStatusError>]               
+           FAIL 04769b506660b656e10000000a445394: RetryError[<Future crawl.py:73
+           at 0x110920450 state=finished raised HTTPStatusError>]               
+           FAIL f47961d151c342c0baba766f853e6161: RetryError[<Future crawl.py:73
+           at 0x110922d50 state=finished raised HTTPStatusError>]               
+           FAIL bdcaebecf8e6484093a74f7cab55efd1: RetryError[<Future crawl.py:73
+           at 0x110921450 state=finished raised HTTPStatusError>]               
+           FAIL 470cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110921fd0 state=finished raised HTTPStatusError>]               
+           FAIL c4327e66178e43e3920fe3dc98f3e2ce: RetryError[<Future crawl.py:73
+           at 0x110923d50 state=finished raised HTTPStatusError>]               
+           FAIL b3401750a6bb4569e10000000a44176f: RetryError[<Future crawl.py:73
+           at 0x1108a7b50 state=finished raised HTTPStatusError>]               
+           FAIL 98182a50276fbd10e10000000a423f68: RetryError[<Future crawl.py:73
+           at 0x1108e66d0 state=finished raised HTTPStatusError>]               
+           FAIL 4cec0dcdd51d4c94bb98093f31b53bad: RetryError[<Future crawl.py:73
+           at 0x1109230d0 state=finished raised HTTPStatusError>]               
+           FAIL 010cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1109550d0 state=finished raised HTTPStatusError>]               
+           FAIL 040cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110923ad0 state=finished raised HTTPStatusError>]               
+           FAIL 070cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110955ad0 state=finished raised HTTPStatusError>]               
+           FAIL 100cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1108717d0 state=finished raised HTTPStatusError>]               
+           FAIL e00bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110923c50 state=finished raised HTTPStatusError>]               
+           FAIL 0a0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110923950 state=finished raised HTTPStatusError>]               
+           FAIL 0d0cda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110956fd0 state=finished raised HTTPStatusError>]               
+           FAIL e30bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110957750 state=finished raised HTTPStatusError>]               
+           FAIL da0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1109552d0 state=finished raised HTTPStatusError>]               
+           FAIL e90bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110922550 state=finished raised HTTPStatusError>]               
+           FAIL fe0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1109562d0 state=finished raised HTTPStatusError>]               
+           FAIL d70bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110957cd0 state=finished raised HTTPStatusError>]               
+           FAIL dd0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1109544d0 state=finished raised HTTPStatusError>]               
+           FAIL fb0bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110955fd0 state=finished raised HTTPStatusError>]               
+           FAIL e60bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x1109540d0 state=finished raised HTTPStatusError>]               
+           FAIL f80bda531198434de10000000a174cb4: RetryError[<Future crawl.py:73
+           at 0x110956ed0 state=finished raised HTTPStatusError>]               
+           FAIL 5b0edd7752874141a12fb58fa9c5d658: RetryError[<Future crawl.py:73
+           at 0x110956bd0 state=finished raised HTTPStatusError>]               
+Topics ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1589/1589 • 0:01:59 • 0:00:00
+           Done. JSON saved under                                   crawl.py:102
+           data/raw/848f8ce21bcd4f67bce77494799e2257/topics                     

@@ -1,0 +1,17 @@
+{
+  "loio": "7cfbc5536a51204be10000000a174cb4",
+  "title": "Revenue Forecast",
+  "file_path": "7cfbc5536a51204be10000000a174cb4.html",
+  "page_id": 2555104041,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Revenue Analysis",
+    "Revenue Forecast"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Revenue Forecast</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio7cfbc5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Revenue Forecast </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> This report enables you to make a prognosis of future expenses and revenues within a particular selection period. Revenues can be displayed as aggregated values using the profit/loss type.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2>\n<p class=\"p\"> This report is a query. The query is based on InfoSet <a class=\"xref\" href=\"dc6ac7533a661d4be10000000a174cb4.html\">/SAPQUERY/CFM_REV_FCAST</a> , which in turn is based on logical database <a class=\"xref\" href=\"abb1c753b1081d4be10000000a174cb4.html\">FTI_TR_PL_CF</a> .\n</p>\n<p class=\"p\"> The technical name of this query is CFM_FOR_01.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2>\n<p class=\"p\"><a class=\"xref\" href=\"aeb1c753b1081d4be10000000a174cb4.html\">Customizing for the Information System in the Transaction Manager</a>\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<div class=\"sectiondiv\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Selection</span>\n</p>\n<p class=\"p\"><span class=\"ph\">Product Groups</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"ddfac5536a51204be10000000a174cb4.html\">Selections</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"adfac5536a51204be10000000a174cb4.html\">Control Parameters</a>\n</p>\n</div>\n<div class=\"sectiondiv\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Output</span>\n</p>\n<p class=\"p\"> The list is displayed using the <span class=\"ph uicontrol\">SAP List Viewer</span> .\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span><a class=\"xref\" href=\"4dd40b7ac2234be2e10000000a42189c.html\" title=\"\">SAP List Viewer for SAP GUI (Classic)</a>\n</p>\n</div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,18 @@
+{
+  "loio": "23fec5536a51204be10000000a174cb4",
+  "title": "Fictitious Transactions",
+  "file_path": "23fec5536a51204be10000000a174cb4.html",
+  "page_id": 2555102114,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Market Risk Analyzer",
+    "Asset/Liability Management",
+    "Simulation and Planning",
+    "ALM Simulation",
+    "Fictitious Transactions"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fictitious Transactions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio23fec5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Fictitious Transactions </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> Based on the evaluations in gap analysis and ALM simulation, you can create <span class=\"ph emphasis emphasis\">fictitious transactions</span> for each portfolio hierarchy node to control risks and results. These can be saved later. By creating a fictitious transaction, you can, for example, check the effect of a particular hedge on risk before you actually conclude this transaction.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<p class=\"p\"> The following transaction categories are currently available for creating fictitious transactions:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Forward exchange transaction\n</p></li><li class=\"li\"><p class=\"p\"> Fixed-term deposit\n</p></li><li class=\"li\"><p class=\"p\"> Swap\n</p></li><li class=\"li\"><p class=\"p\"> Swaption\n</p></li><li class=\"li\"><p class=\"p\"> Currency option (standard)\n</p></li><li class=\"li\"><p class=\"p\"> Currency barrier option (simple barrier option)\n</p></li><li class=\"li\"><p class=\"p\"> Cap\n</p></li><li class=\"li\"><p class=\"p\"> Floor\n</p></li></ul>\n<p class=\"p\"> The effects that fictitious transactions have on the results of gap analysis and ALM simulation are subsequently shown in all evaluations.\n</p>\n<p class=\"p\"> If the options available in the <span class=\"ph uicontrol\">Fictitious transactions</span> function in ALM simulation do not meet all your requirements, you can also create <span class=\"ph\">fictitious generic transactions</span> .\n</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

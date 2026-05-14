@@ -1,0 +1,13 @@
+{
+  "loio": "301f3455991c48d5a63cbd25712c60cb",
+  "title": "FX Exposure Management",
+  "file_path": "301f3455991c48d5a63cbd25712c60cb.html",
+  "page_id": 2555105020,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "FX Exposure Management"
+  ],
+  "depth": 1,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>FX Exposure Management</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio301f3455991c48d5a63cbd25712c60cb\"><h1 class=\"title topictitle1\">FX Exposure Management</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\" id=\"loio301f3455991c48d5a63cbd25712c60cb__short_description_FX_EXP_MGMT\">FX Exposure Management offers an easy way of entering FX exposures with the <a class=\"xref\" href=\"fb0786b5051544ed9c0fe425af1b9830.html\">Manage FX Exposures</a> app or using the <a class=\"xref\" href=\"c3e11b2bf49f4baa8ca18650c418df4c.html\" title=\"\">Foreign Exchange Exposure</a>\n(<span class=\"ph sap-technical-name sap-technical-name\">API_FXEM_FXEXPOSURE</span>) API. The status\nconcept and available functions for FX exposures that are relevant within the\n<span class=\"ph uicontrol\">Manage FX Exposures</span> app are also relevant for processing FX\nexposures using the API.</p>\n<p class=\"p\">The Foreign Exchange Exposure Management (FX Exposure Management) is integrated in the\nHedge Management and Accounting of Net Open Exposures (FX Risk) process. You can select\nthe FX exposures as exposure items for a hedging area. To do so, you must set up a\nfilter in the hedging area master data for the data source <span class=\"ph uicontrol\">Foreign Exchange\nExposure Management</span>. </p>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"fb0786b5051544ed9c0fe425af1b9830.html\">Manage FX Exposures</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

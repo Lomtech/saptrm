@@ -1,0 +1,18 @@
+{
+  "loio": "f91ada531198434de10000000a174cb4",
+  "title": "Securities Lending",
+  "file_path": "f91ada531198434de10000000a174cb4.html",
+  "page_id": 2555103556,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "Derivatives",
+    "Securities Lending"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Securities Lending</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiof91ada531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Securities Lending </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> In securities lending transactions, the owner of the securities lends the stocks or bonds, which are returned after a specified period. The lender receives a payment for this.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2>\n<p class=\"p\"> The system prices the class positions in securities accounts for the securities lending transactions. To flag the securities as securities that have been lent, you save the securities in the lending securities account in <span class=\"ph uicontrol\">Transaction Manager</span> in <span class=\"ph uicontrol\">SAP Treasury and Risk Management</span> .\n</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

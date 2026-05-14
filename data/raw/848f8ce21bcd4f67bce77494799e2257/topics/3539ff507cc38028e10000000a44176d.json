@@ -1,0 +1,19 @@
+{
+  "loio": "3539ff507cc38028e10000000a44176d",
+  "title": "Calculate Interest Rates from the Yield Curve Generated",
+  "file_path": "3539ff507cc38028e10000000a44176d.html",
+  "page_id": 2555105063,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Yield Curve Framework",
+    "Yield Curves",
+    "Creation of Yield Curves",
+    "Calculate Interest Rates from the Yield Curve Generated"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Calculate Interest Rates from the Yield Curve Generated</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio3539ff507cc38028e10000000a44176d\"><h1 class=\"title topictitle1\">Calculate Interest Rates from the Yield Curve Generated</h1><div class=\"body conbody\">\n<p class=\"p\">Once the yield curve has been created, it is used to calculate the interest rates on the basis of the interest conditions that are set in the yield curve. The interest rate <span class=\"ph sap-technical-name sap-technical-name\">R</span> is noted at par level if the condition represented by the following graphic applies for R:\n</p>\n<div class=\"fig fignone\" id=\"id-12563-loio3539ff507cc38028e10000000a44176d--fig-53-13-1\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loioda960f5043dad147e10000000a44176f_LowRes.png\"></div></div></div>\n<p class=\"p\">The quotients q<sub class=\"ph sub\">i</sub> from the difference in days and days in the year as well as the payment dates i are achieved from the conditions of the interest rate. To calculate R, the system activates the equation towards R, as portrayed in the following graphic:\n</p>\n<div class=\"fig fignone\" id=\"id-24127-loio3539ff507cc38028e10000000a44176d--fig-57-9-1\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loiodc960f5043dad147e10000000a44176f_LowRes.png\"></div></div></div>\n<p class=\"p\">Either the system has already calculated the discount factors d<sub class=\"ph sub\">i</sub> during the creation of the yield curve, or they are achieved by means of interpolation with the continuous compounding zero rates.\n</p>\n<p class=\"p\">The prerequisite for this is that the last and not the first interest period is shortened if the term is not a whole-number multiple of the payment frequency.\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Calculation of Zero Interest Rates with a Term Exceeding a Year</span>\n</p>\n<p class=\"p\">If a zero interest rate with a term exceeding a year needs to be calculated, the system uses a different equation to the method portrayed above. Instead, it uses the equation depicted below:\n</p>\n<div class=\"fig fignone\" id=\"id-26177-loio3539ff507cc38028e10000000a44176d--fig-65-1-1\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loiode960f5043dad147e10000000a44176f_LowRes.png\"></div></div></div>\n<p class=\"p\">This means that, for zero interest rates with a term exceeding a year, the system assumes a compounding frequency of one year.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

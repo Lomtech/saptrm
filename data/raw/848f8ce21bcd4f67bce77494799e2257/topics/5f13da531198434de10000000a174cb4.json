@@ -1,0 +1,16 @@
+{
+  "loio": "5f13da531198434de10000000a174cb4",
+  "title": "Treatment of Shifts in the Risk Hierarchy",
+  "file_path": "5f13da531198434de10000000a174cb4.html",
+  "page_id": 2555101452,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Risk Hierarchy",
+    "Treatment of Shifts in the Risk Hierarchy"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Treatment of Shifts in the Risk Hierarchy</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5f13da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Treatment of Shifts in the Risk Hierarchy</h1><div class=\"body\">\n<p class=\"p\"> If grid points of a yield curve are to be omitted as risk factors, those adjacent grid points included in the risk hierarchy share proportionally the risk of those grid points that were omitted. This is achieved by extrapolating the market data changes (shifts) in the gridpoints that remain in the risk hierarchy linear to the adjacent risk factors. Grid points that lie between these risk factors but which are not contained in the risk hierarchy are taken into account proportionally by the shift on one risk factor.\n</p>\n<p class=\"p\"><img class=\"inline\" src=\"loiocad4df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p>\n<p class=\"p\">Outside the first defined grid point and the last defined grid point shifts are extrapolated with a partial derivation of zero.\n</p>\n<p class=\"p\"><img class=\"inline\" src=\"loioccd4df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

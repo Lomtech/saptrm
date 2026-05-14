@@ -1,0 +1,18 @@
+{
+  "loio": "530dda531198434de10000000a174cb4",
+  "title": "Periodic Reporting",
+  "file_path": "530dda531198434de10000000a174cb4.html",
+  "page_id": 2555104801,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Position",
+    "Position Trend",
+    "Periodic Reporting"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Periodic Reporting</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio530dda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Periodic Reporting </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> This report supplies you with an overview of position changes within a certain period for selected positions.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<div class=\"sectiondiv\"><p class=\"p\"><span class=\"ph emphasis emphasis\">Selection</span>\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"b6fac5536a51204be10000000a174cb4.html\">Product groups</a>\n</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph\">General selections</span>\n</p></li></ul>\n</div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

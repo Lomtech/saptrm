@@ -1,0 +1,16 @@
+{
+  "loio": "cc369a51021a9302e10000000a44538d",
+  "title": "Free Text Search",
+  "file_path": "cc369a51021a9302e10000000a44538d.html",
+  "page_id": 2555101588,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "Free Text Search"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Free Text Search</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiocc369a51021a9302e10000000a44538d\"><h1 class=\"title topictitle1\">Free Text Search</h1><div class=\"body conbody\"> <div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2><p class=\"p\">When you enter a text as a <span class=\"ph uicontrol\">search term</span>, the system looks for the term in the <span class=\"ph uicontrol\">short descriptions</span>, the <span class=\"ph uicontrol\">long descriptions</span>, and the names of the issuers of the classes created in the system. For the search, any similar texts are also returned as hits to allow for inverted characters, the use/absence of accents, and so on.\n</p> </section></div> <div class=\"section\"><section class=\"section\" type=\"Integration\"><h2 class=\"section_title\">Integration</h2><p class=\"p\">This free text search is integrated with the securities search help in the <span class=\"ph uicontrol\">Transaction Manager</span> and can be used in various functions, such as the following:\n</p> <ul class=\"ul\"><li class=\"li\"><p class=\"p\">Class (transaction <span class=\"ph sap-technical-name sap-technical-name\">FWZZ</span>)\n</p></li><li class=\"li\"><p class=\"p\">Create Financial Transaction (transaction <span class=\"ph sap-technical-name sap-technical-name\">FTR_CREATE</span>)\n</p></li></ul> </section></div> <div class=\"section\"><section class=\"section\" type=\"More Information\"><h2 class=\"section_title\">More Information</h2><p class=\"p\"><a class=\"xref\" href=\"1f29ef5777df11d2959800a0c929b3c3.html\" title=\"\">Append Search Helps</a>\n</p> </section></div> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

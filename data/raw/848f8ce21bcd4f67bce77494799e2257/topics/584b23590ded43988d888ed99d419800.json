@@ -1,0 +1,15 @@
+{
+  "loio": "584b23590ded43988d888ed99d419800",
+  "title": "Enter Factor Values",
+  "file_path": "584b23590ded43988d888ed99d419800.html",
+  "page_id": 2555102293,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Market Data Management",
+    "Manual Market Data Entry",
+    "Enter Factor Values"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Enter Factor Values</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Enter factor values for a combination of security ID, factor type, and effective from date.\"><meta name=\"description\" content=\"Enter factor values for a combination of security ID, factor type, and effective from date.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio584b23590ded43988d888ed99d419800\"><h1 class=\"title topictitle1\">Enter Factor Values</h1><div class=\"body conbody\"><p class=\"shortdesc\">Enter factor values for a combination of security ID, factor type, and effective from\ndate.</p>\n<div class=\"section\" id=\"loio584b23590ded43988d888ed99d419800__section_nhm_fjs_zdb\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n\n<p class=\"p\">You enter factor values for securities which have factor based dividend conditions,\nfor example, money market funds.</p>\n<p class=\"p\">The factors are communicated for the specific financial instruments and are needed to\ncalculate the amounts of dividends. In detail, the published factor for money market\nfunds determines for a period (normally one day) the accrued dividend or daily\ndividend of a money market fund. The accrued dividend (which is not paid) / daily\ndividend for a period (normally one day) is calculated by units * dividend\nfactor.</p>\n</section></div>\n<div class=\"section\" id=\"loio584b23590ded43988d888ed99d419800__section_p3t_vjs_zdb\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2>\n\n<div class=\"p\">\n<ol class=\"ol\" id=\"loio584b23590ded43988d888ed99d419800__ol_zc2_xjs_zdb\">\n<li class=\"li\"><p class=\"p\">To enter a new factor value, choose <span class=\"ph uicontrol\">Edit</span> and\n<span class=\"ph uicontrol\">New Entries</span>.</p></li>\n<li class=\"li\"><p class=\"p\">Enter a security ID number, a factor type and effective from date for the\nfactor value.</p></li>\n<li class=\"li\"><p class=\"p\">Enter a value.</p></li>\n<li class=\"li\"><p class=\"p\">Save your entries.</p></li>\n</ol>\n</div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

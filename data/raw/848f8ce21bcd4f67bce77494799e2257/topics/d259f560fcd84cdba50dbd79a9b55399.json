@@ -1,0 +1,16 @@
+{
+  "loio": "d259f560fcd84cdba50dbd79a9b55399",
+  "title": "Rounding",
+  "file_path": "d259f560fcd84cdba50dbd79a9b55399.html",
+  "page_id": 2555103772,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Hedge Management of FX Risks",
+    "Hedge Management of Balance Sheet FX Risk",
+    "Generate Balance Sheet Exposure Hedge Requests",
+    "Rounding"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Rounding</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Enter the rounding unit.\"><meta name=\"description\" content=\"Enter the rounding unit.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiod259f560fcd84cdba50dbd79a9b55399\"><h1 class=\"title topictitle1\">Rounding</h1><div class=\"body conbody\"><p class=\"shortdesc\">Enter the rounding unit.</p>\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n\n<p class=\"p\" id=\"loiod259f560fcd84cdba50dbd79a9b55399__runit_1\">Define the unit with which the calculated hedge request amount is rounded. </p>\n<div class=\"p\" id=\"loiod259f560fcd84cdba50dbd79a9b55399__runit\"><span class=\"ph emphasis emphasis\">Example</span><ul class=\"ul\" id=\"loiod259f560fcd84cdba50dbd79a9b55399__ul_d1c_xz3_vkb\">\n<li class=\"li\"><p class=\"p\">You enter in this field the value 1.000 </p></li>\n<li class=\"li\"><p class=\"p\">The calculated hedge request amount is 22.365 USD. </p></li>\n</ul>Due to this rounding rule, the hedge request amount is rounded to 22.000 USD. </div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,17 @@
+{
+  "loio": "d7fac5536a51204be10000000a174cb4",
+  "title": "Issue Position",
+  "file_path": "d7fac5536a51204be10000000a174cb4.html",
+  "page_id": 2555101956,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Position",
+    "Issue Position"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Issue Position</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiod7fac5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\"> Issue Position</h1><div class=\"body\">\n<div class=\"section\" id=\"loiod7fac5536a51204be10000000a174cb4__section_xqg_qrq_kbc\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n\n<p class=\"p\"> You use the <span class=\"ph uicontrol\">Issue Position</span> report (transaction\n<span class=\"ph sap-technical-name sap-technical-name\">TIS50</span>) to display key figures (for\nexample, the nominal value, book value, and net present value) of an issued\nsecurities position including redemptions on a key date. The report shows you the\ncurrent position in the relevant security.</p>\n<p class=\"p\"> You have the option of the activities <span class=\"ph uicontrol\">Issue</span> and\n<span class=\"ph uicontrol\">Redemption</span> for the product categories\n<span class=\"ph uicontrol\">Bond</span> (040) and <span class=\"ph uicontrol\">Bond with Installment\nRepayment</span> (042).</p>\n<p class=\"p\"> You can post condition-based flows (interest and repayments) to customer accounts or\nwith a payment request. This involves defining payment details in the securities\naccount. You can change these details when manually posting interest and\nrepayments.</p>\n</section></div>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also</span>: <a class=\"xref\" href=\"0eacc7531dc61d4be10000000a174cb4.html\" title=\"This process covers master data management, the placement and redemption of bonds issued, as well as paying and posting in Financial Accounting. In addition, various functions for managing the securities account positions and for period-end closing are available. Treasury Reporting provides you with a broad range of apps for analyzing your debts and investments in bonds.\">Issuing Bonds</a></p>\n<p class=\"p\">The following transactions are also available for issued securities:</p>\n<p class=\"p\"><a class=\"xref\" href=\"a430c753b1081d4be10000000a174cb4.html\">Issue Volumes</a></p>\n<p class=\"p\"><a class=\"xref\" href=\"a730c753b1081d4be10000000a174cb4.html\">Issue Charges</a></p>\n<p class=\"p\"><a class=\"xref\" href=\"aa30c753b1081d4be10000000a174cb4.html\">Issue Hedge</a></p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

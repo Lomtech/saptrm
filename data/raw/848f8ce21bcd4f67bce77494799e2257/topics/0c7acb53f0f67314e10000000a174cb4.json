@@ -1,0 +1,18 @@
+{
+  "loio": "0c7acb53f0f67314e10000000a174cb4",
+  "title": "Additional Classifications for Statutory Reporting",
+  "file_path": "0c7acb53f0f67314e10000000a174cb4.html",
+  "page_id": 2555103735,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Information System",
+    "Reports",
+    "Regulatory Reporting",
+    "Germany",
+    "Additional Classifications for Statutory Reporting"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Additional Classifications for Statutory Reporting</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio0c7acb53f0f67314e10000000a174cb4\"><h1 class=\"title topictitle1\">Additional Classifications for Statutory Reporting </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Purpose</span></p>\n<p class=\"p\"> Additional classifications for statutory reporting (SR) are SR-specific indicators that are assigned to a capital investment based on a key date. The indicators are needed for correct generation of annexes and statements.</p>\n<p class=\"p\"> These indicators are stored in tables TISSR_ASSET_R30 (for securities area) and TISSR_ASSET_R30B (for loans area).</p>\n<p class=\"p\"> In contrast to <a class=\"xref\" href=\"187acb53f0f67314e10000000a174cb4.html\">SR master data</a>, additional classifications cannot be assigned directly in the asset, but must be assigned directly in statutory reporting.</p>\n<p class=\"p\"> You can edit additional classifications using the applications <span class=\"ph uicontrol\">Assign Additional Classification (Securities)</span> and <span class=\"ph uicontrol\">Assign Additional Classification (No Securities)</span>.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

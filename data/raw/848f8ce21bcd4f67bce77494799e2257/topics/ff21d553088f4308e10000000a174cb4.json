@@ -1,0 +1,16 @@
+{
+  "loio": "ff21d553088f4308e10000000a174cb4",
+  "title": "Import Market Data",
+  "file_path": "ff21d553088f4308e10000000a174cb4.html",
+  "page_id": 2555102162,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Market Data Management",
+    "File Interfaces",
+    "Rates and Prices",
+    "Import Market Data"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Import Market Data</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioff21d553088f4308e10000000a174cb4\"><h1 class=\"title topictitle1\">Import Market Data</h1><div class=\"body\">\n<p class=\"p\">Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Tools</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Market Data File</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Rates and Prices</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Import</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>.</p>\n<p class=\"p\">The screen entitled <span class=\"ph uicontrol\">File Interface: Import Market Data</span> appears.</p>\n<p class=\"p\">Under the heading <span class=\"ph uicontrol\">File</span> in the <span class=\"ph uicontrol\">Name</span> field, enter\nthe directory path and the file name of the market data file you want to import.</p>\n<p class=\"p\">If you check the box marked <span class=\"ph uicontrol\">Test run</span> under the heading\n<span class=\"ph uicontrol\">Other</span>, the system will only run a simulation of the market data\nimport.</p>\n<p class=\"p\">Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Program</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Execute</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>. The system now imports the market data.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

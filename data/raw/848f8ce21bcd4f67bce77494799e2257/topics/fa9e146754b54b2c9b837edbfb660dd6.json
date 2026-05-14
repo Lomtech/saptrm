@@ -1,0 +1,17 @@
+{
+  "loio": "fa9e146754b54b2c9b837edbfb660dd6",
+  "title": "NPV Calculation of Bank Accounts",
+  "file_path": "fa9e146754b54b2c9b837edbfb660dd6.html",
+  "page_id": 2555102432,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "NPV Calculation of Bank Accounts"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>NPV Calculation of Bank Accounts</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiofa9e146754b54b2c9b837edbfb660dd6\"><h1 class=\"title topictitle1\">NPV Calculation of Bank Accounts</h1><div class=\"body conbody\">\n<p class=\"p\">The NPV of a bank account is the balance of a bank account at the key date or the latest available balance before the key date. </p>\n<div class=\"p\">Depending of your settings for bank account balances in the evaluation type on the\n<span class=\"ph uicontrol\">Evaluation Control 2</span> tab, the bank account balance is determined in the following ways:<ul class=\"ul\" id=\"loiofa9e146754b54b2c9b837edbfb660dd6__ul_x5s_llx_dwb\">\n<li class=\"li\"><p class=\"p\">Data source for bank account balance determination is <span class=\"ph uicontrol\">One Exposure</span>.</p></li>\n<li class=\"li\"><p class=\"p\">Data source for bank account balance determination are <span class=\"ph uicontrol\">Bank Account Balances</span> imported, manually entered,\nor uploaded from spreadsheet into Cash Management.</p><p class=\"p\">In this case, the latest available closing balance (of the chosen <span class=\"ph uicontrol\">Cash Balance Type</span>) for a date equal to or earlier\nthan the key date is the NPV of the bank account. Therefore, the bank account balance is either the <span class=\"ph uicontrol\">Ledger\nBalance</span>, <span class=\"ph uicontrol\">Value Date Balance</span>, or the <span class=\"ph uicontrol\">Available Balance</span>.</p><p class=\"p\">For more information, about bank account balances, see also <a class=\"xref\" href=\"c0efe436b251410e845329449db6e73e.html\" title=\"\">Manage Bank Account Balances</a>.</p></li>\n</ul></div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"4149eeb39c10469698b19355e41dab60.html\" title=\"Create evaluation types and change settings for existing evaluation types that are required for the calculation of the net present values of financial transactions/treasury positions.\">Define and Set Up Evaluation Types</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

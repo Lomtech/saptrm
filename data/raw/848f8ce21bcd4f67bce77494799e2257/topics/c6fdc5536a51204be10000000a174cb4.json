@@ -1,0 +1,18 @@
+{
+  "loio": "c6fdc5536a51204be10000000a174cb4",
+  "title": "Using Different Maturity Bands",
+  "file_path": "c6fdc5536a51204be10000000a174cb4.html",
+  "page_id": 2555102373,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Market Risk Analyzer",
+    "Asset/Liability Management",
+    "Simulation and Planning",
+    "ALM Simulation",
+    "Using Different Maturity Bands"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Using Different Maturity Bands</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioc6fdc5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Using Different Maturity Bands </h1><div class=\"body\">\n<p class=\"p\"> In ALM simulation, if you select a maturity band that is different from the one entered in the planning variant, then the system adds any date values from the maturity band in the planning variant that are not in the maturity band you selected for ALM simulation. The message log and the detailed log (general information) refer you to this.\n</p>\n<p class=\"p\"><img class=\"inline\" src=\"loio4822705364e7771ee10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p>\n<p class=\"p\"> If you want to view the evaluations using the original date values of the maturity band used in gap analysis/ALM simulation, you need to save the simulated transactions and then run ALM simulation again using the relevant maturity band and the simulated transactions you saved.\n</p>\n<div class=\"p\"><div class=\"fig fignone\" id=\"id-10986-loioc6fdc5536a51204be10000000a174cb4--fig-56-0-0\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loio176fc7531dc61d4be10000000a174cb4_LowRes.png\"></div></div></div>\n</div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

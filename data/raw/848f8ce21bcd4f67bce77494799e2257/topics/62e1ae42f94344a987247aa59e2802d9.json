@@ -1,0 +1,15 @@
+{
+  "loio": "62e1ae42f94344a987247aa59e2802d9",
+  "title": "Fund and Grant",
+  "file_path": "62e1ae42f94344a987247aa59e2802d9.html",
+  "page_id": 2555104850,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Integration Scenarios",
+    "Integration with SAP Public Sector Management (PSM)",
+    "Fund and Grant"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fund and Grant</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio62e1ae42f94344a987247aa59e2802d9\"><h1 class=\"title topictitle1\">Fund and Grant</h1><div class=\"body conbody\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n<p class=\"p\">To map investment pool participants and investment pools, the system uses the account assignment object <span class=\"ph uicontrol\">Fund</span> or a combination of a <span class=\"ph uicontrol\">Fund</span> and <span class=\"ph uicontrol\">Grant</span>.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"More Information\"><h2 class=\"section_title\">More Information</h2>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"79b2cc27b7844c759e5b3af00530f514.html\">Entering Account Assignment Objects</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"7a22ec792b794b44ae34811c8e4d47c2.html\">Account Assignment Transfer</a></p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"85de30e6081b4d9ab1fc99583fe85610.html\">Example: Fund Transfer for a Fixed-Term Deposit</a>\n</p></li><li class=\"li\"><p class=\"p\">For information on the subcomponents in <span class=\"ph uicontrol\">Public Sector Management,</span> see <a class=\"xref\" href=\"528cc85357281d4be10000000a174cb4.html\" title=\"\">Funds Management</a> and <a class=\"xref\" href=\"cf838c53765cec23e10000000a174cb4.html\" title=\"\">Grants Management</a>.\n</p></li></ul>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

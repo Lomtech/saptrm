@@ -1,0 +1,16 @@
+{
+  "loio": "d5435347e4c2424f973bd4dd779edda9",
+  "title": "SPPI",
+  "file_path": "d5435347e4c2424f973bd4dd779edda9.html",
+  "page_id": 2555102012,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Master Data",
+    "Manage Securities Classes",
+    "SPPI"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>SPPI</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"SPPI classification is only available for interest-bearing financial instruments such as bonds.\"><meta name=\"description\" content=\"SPPI classification is only available for interest-bearing financial instruments such as bonds.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiod5435347e4c2424f973bd4dd779edda9\"><h1 class=\"title topictitle1\">SPPI</h1><div class=\"body conbody\"><p class=\"shortdesc\">SPPI classification is only available for interest-bearing financial instruments such as bonds.</p>\n<p class=\"p\">The SPPI (solely payments of principal and interest) is relevant for IFRS 9. The field expresses whether the financial transaction passed\nan externally executed SPPI test or not.</p>\n<ol class=\"ol\" id=\"loiod5435347e4c2424f973bd4dd779edda9__ol_u2k_vyk_fhb\">\n<li class=\"li\"><p class=\"p\">Choose the <span class=\"ph uicontrol\">Valid-From Date</span>.</p></li>\n<li class=\"li\"><p class=\"p\">Enter the <span class=\"ph uicontrol\">Passed</span> or <span class=\"ph uicontrol\">Failed</span> value in the <span class=\"ph uicontrol\">SPPI Criterion</span>\nfield.</p></li>\n</ol>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

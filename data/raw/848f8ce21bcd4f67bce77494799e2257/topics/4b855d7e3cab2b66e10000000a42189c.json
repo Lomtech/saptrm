@@ -1,0 +1,14 @@
+{
+  "loio": "4b855d7e3cab2b66e10000000a42189c",
+  "title": "Country/Region-Specific Functions",
+  "file_path": "4b855d7e3cab2b66e10000000a42189c.html",
+  "page_id": 2555102092,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Country/Region-Specific Functions"
+  ],
+  "depth": 2,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Country/Region-Specific Functions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio4b855d7e3cab2b66e10000000a42189c\"><h1 class=\"title topictitle1\">Country/Region-Specific Functions</h1><div class=\"body conbody\"> <div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2> <p class=\"p\">The <span class=\"ph uicontrol\">Transaction Manager</span> (FIN-FSCM-TRM-TM) component covers specific\nfunctions that are used only in a particular country/region and cover needs arising\nfrom local legislation or business practices.</p> <p class=\"p\">They include localized versions of generic functions or functions not otherwise covered by the generic functions.</p> </section></div> <div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2> <ul class=\"ul\">\n<li class=\"li\"><p class=\"p\">Brazil</p></li>\n<li class=\"li\"><p class=\"p\">France</p></li>\n<li class=\"li\"><p class=\"p\">Hungary</p></li>\n<li class=\"li\"><p class=\"p\">India</p></li>\n<li class=\"li\"><p class=\"p\">Japan</p></li>\n<li class=\"li\"><p class=\"p\">South Korea</p></li>\n<li class=\"li\"><p class=\"p\">Turkey</p></li>\n<li class=\"li\"><p class=\"p\">United States</p></li>\n</ul> </section></div> </div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/b2d44c1091094b5a810c2a879ee95522/a372c2531bb9b44ce10000000a174cb4.html?version=2025.000\" target=\"_blank\" rel=\"noopener\" alt=\"https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/b2d44c1091094b5a810c2a879ee95522/a372c2531bb9b44ce10000000a174cb4.html?version=2025.000\" title=\"https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/b2d44c1091094b5a810c2a879ee95522/a372c2531bb9b44ce10000000a174cb4.html?version=2025.000\">Local Versions</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

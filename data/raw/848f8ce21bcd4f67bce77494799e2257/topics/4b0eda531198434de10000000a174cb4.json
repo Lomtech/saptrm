@@ -1,0 +1,15 @@
+{
+  "loio": "4b0eda531198434de10000000a174cb4",
+  "title": "Rates and Prices",
+  "file_path": "4b0eda531198434de10000000a174cb4.html",
+  "page_id": 2555103657,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Market Data Management",
+    "File Interfaces",
+    "Rates and Prices"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Rates and Prices</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio4b0eda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Rates and Prices </h1><div class=\"body\">\n<p class=\"p\"> The <span class=\"ph uicontrol\">Import market data</span> function allows you to import the market data you need to the system.\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> Make sure you have the correct market data file format.\n</p></aside>\n<p class=\"p\"> To call up a selection list in which you can specify the market data you require, you use the <span class=\"ph uicontrol\">Generate requirements list</span> function. You can save the list in file format.\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"ff21d553088f4308e10000000a174cb4.html\">Importing market data</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"261e32532adce547e10000000a441470.html\">Generate requirements list</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

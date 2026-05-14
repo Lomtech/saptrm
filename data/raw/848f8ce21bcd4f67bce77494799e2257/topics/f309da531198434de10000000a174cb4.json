@@ -1,0 +1,18 @@
+{
+  "loio": "f309da531198434de10000000a174cb4",
+  "title": "STC Product",
+  "file_path": "f309da531198434de10000000a174cb4.html",
+  "page_id": 2555104189,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Credit Risk Analyzer",
+    "Limit Management",
+    "Updating Limit Utilizations",
+    "Single Transaction Check",
+    "STC Product"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>STC Product</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiof309da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">STC Product</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Definition</span>\n</p>\n<p class=\"p\"> The STC product is the central control element for the single transaction check transaction (STC transaction). The following functions of the STC transaction are affected by the Customizing settings you make for the STC product.\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Authorization check\n</p></li><li class=\"li\"><p class=\"p\">Control internal / external key assignment\n</p></li><li class=\"li\"><p class=\"p\">Inclusion of the issuer risk\n</p></li><li class=\"li\"><p class=\"p\">Defaulting of the limit product group\n</p></li></ul>\n<p class=\"p\">In addition, the following control elements are stored with the\n</p>\n<p class=\"p\">STC product:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Cash / forward indicator\n</p></li><li class=\"li\"><p class=\"p\">Credit risk rule\n</p></li></ul>\n<p class=\"p\">The credit risk rule stored with the STC product is overridden by that stored with the financial object for those transactions for which end of day processing has already been performed.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

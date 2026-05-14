@@ -1,0 +1,18 @@
+{
+  "loio": "ab1bda531198434de10000000a174cb4",
+  "title": "Investment Shares (Listed)",
+  "file_path": "ab1bda531198434de10000000a174cb4.html",
+  "page_id": 2555101321,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Risk Management",
+    "Basics",
+    "Price Calculator for Financial Instruments",
+    "Price Calculator",
+    "Securities",
+    "Investment Shares (Listed)"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Investment Shares (Listed)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioab1bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Investment Shares (Listed)</h1><div class=\"body\">\n<p class=\"p\"> Investment shares can so far only be valued if they are entered as stock. They are then valued similarly to spot stock transactions (on the exchange) or forward stock transactions (on the exchange).\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}
