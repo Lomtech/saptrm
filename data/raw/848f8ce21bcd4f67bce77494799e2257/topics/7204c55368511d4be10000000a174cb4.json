@@ -1,0 +1,18 @@
+{
+  "loio": "7204c55368511d4be10000000a174cb4",
+  "title": "Running the Payment and Payment Medium Programs",
+  "file_path": "7204c55368511d4be10000000a174cb4.html",
+  "page_id": 2555102016,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Running the Payment and Payment Medium Programs"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Running the Payment and Payment Medium Programs</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio7204c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Running the Payment and Payment Medium Programs</h1><div class=\"body\">\n<p class=\"p\"> Once you have edited and accepted the proposal, you can plan the payment run. Several programs are used in creating the payments: </p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">The payment program creates the payment documents and prepares the data for printing the forms or creating the tape or disk.</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Various payment medium programs use the data prepared by the payment program to create forms or files for the data media.</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Basic Procedure</span>\n</p>\n<p class=\"p\"> You can choose from the following options when carrying out the payments: </p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">You can schedule just the payment program first, and then once the run is completed successfully, you can schedule the payment medium program.</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Or you can schedule the payment program and the payment medium program at the same time.</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Or you can execute the payment program first, and then once the run is completed successfully, you can execute the printout online.</p></li></ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

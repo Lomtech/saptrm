@@ -1,0 +1,17 @@
+{
+  "loio": "af0cda531198434de10000000a174cb4",
+  "title": "Realized Gains/Losses",
+  "file_path": "af0cda531198434de10000000a174cb4.html",
+  "page_id": 2555101730,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Derived Business Transactions",
+    "Assign Update Types for Derived Business Transactions",
+    "Realized Gains/Losses"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Realized Gains/Losses</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioaf0cda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Realized Gains/Losses </h1><div class=\"body\">\n<p class=\"p\">Price/rate gains or losses result from position outflows that are not transfer postings. These may include the following: </p>\n<ul class=\"ul\">\n<li class=\"li\"><p class=\"p\">Sales or redemptions </p></li>\n<li class=\"li\"><p class=\"p\">Exercising forward exchange transactions or OTC options </p></li>\n<li class=\"li\"><p class=\"p\">Expiration of OTC options </p></li>\n</ul>\n<div class=\"section\"><section class=\"section\" type=\"Securities, Foreign Exchange\"><h2 class=\"section_title\">Securities, Foreign Exchange</h2>\n\n<p class=\"p\">Gains or losses on the security and foreign exchange produce the same price/rate gain or loss, regardless of the sequence in which they are\ncalculated. The system derives the sequence from the valuation procedure determined in the position management procedure. If you have not\nspecified a valuation procedure, the system first calculates the gains/losses in security price and then in the exchange rate. </p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Foreign Exchange Transactions\"><h2 class=\"section_title\">Foreign Exchange Transactions</h2>\n\n<p class=\"p\"> You make your settings for foreign exchange transactions in the valuation procedure for both standard transactions and cross transactions.\nIn the case of cross transactions, the system displays the gain or loss associated with the purchase currency and sale currency separately. In\nthe case of standard transactions, however, the gain and loss are not separated. </p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

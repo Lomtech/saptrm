@@ -1,0 +1,17 @@
+{
+  "loio": "9a4db21ae8534e618b2968059675c62b",
+  "title": "Valuation",
+  "file_path": "9a4db21ae8534e618b2968059675c62b.html",
+  "page_id": 2555101665,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Derivatives",
+    "Forward Loan Purchases",
+    "Valuation"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Valuation</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio9a4db21ae8534e618b2968059675c62b\"><h1 class=\"title topictitle1\">Valuation</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2><p class=\"p\">Once created, a forward loan purchase (FLP) is a derivative whose value must be calculated at key dates during its lifetime. The resulting value, called the net present value (NPV), accurately reflects the value of the FLP in your company's accounts.</p>\n<p class=\"p\">Such valuation can also take place when the FLP matures — that is, reaches its defined end date — at which point the loan contract can be disbursed as part of Loans Management processing.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Procedure\"><h2 class=\"section_title\">Procedure</h2><p class=\"p\">The procedure followed is the same as for any other loan in Loans Management. See the relevant <a class=\"xref\" href=\"a902c753b1081d4be10000000a174cb4.html\" title=\"\">documentation</a> for details.</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

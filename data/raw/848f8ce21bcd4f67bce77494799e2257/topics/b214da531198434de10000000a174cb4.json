@@ -1,0 +1,17 @@
+{
+  "loio": "b214da531198434de10000000a174cb4",
+  "title": "Fix FX Rates",
+  "file_path": "b214da531198434de10000000a174cb4.html",
+  "page_id": 2555101826,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Financial Transaction Management",
+    "Apps for Processing Financial Transactions",
+    "Rate Fixing",
+    "Fix FX Rates"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fix FX Rates</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiob214da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Fix FX Rates</h1><div class=\"body\">\n<p class=\"p\">You must fix rates for derivatives and foreign exchange transactions that you have\ncreated.</p>\n<p class=\"p\">The manual fixing app enables you to correct certain transactions or add additional data\nmanually.</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Open the <span class=\"ph uicontrol\">Fix FX Rates</span> app on the SAP Fiori lauchpad or\nchoose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Back Office</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Rate Fixing</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Manual Fixing</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span> (transaction\n<span class=\"ph sap-technical-name sap-technical-name\">TXV5</span>) in\nthe back-end system.</p></li><li class=\"li\"><p class=\"p\">On the screen that follows, enter the company code and the transaction you want to process.\n</p></li><li class=\"li\"><p class=\"p\">The data screen for spot/forward transactions appears.\n</p></li><li class=\"li\"><p class=\"p\">You can now make any changes or add new entries in the active fields. For example, you set the exchange rate manually here.\n</p></li><li class=\"li\"><p class=\"p\">The spot/forward transaction is now saved as a contract.\n</p></li></ol>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

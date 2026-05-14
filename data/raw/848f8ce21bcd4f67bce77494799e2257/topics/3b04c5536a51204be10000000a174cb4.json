@@ -1,0 +1,18 @@
+{
+  "loio": "3b04c5536a51204be10000000a174cb4",
+  "title": "Selection for the Payment Run",
+  "file_path": "3b04c5536a51204be10000000a174cb4.html",
+  "page_id": 2555102596,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Selection for the Payment Run"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Selection for the Payment Run</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3b04c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Selection for the Payment Run</h1><div class=\"body\">\n<p class=\"p\"> The following describes the criteria used by the payment program to select payment requests to be settled for the forthcoming payment run.\n</p>\n<div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2>\n<p class=\"p\"> All necessary Customizing settings have already been made.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Procedure\"><h2 class=\"section_title\">Procedure</h2>\n<p class=\"p\"> The payment program processes the payment requests in three steps:\n</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">It determines the payment requests to be settled and creates a proposal list.\n</p></li><li class=\"li\"><p class=\"p\">You can process the proposal list online. Amongst other things, you can change payment methods or banks, block items or cancel payment blocks.\n</p></li><li class=\"li\"><p class=\"p\">The payment program makes the payments based on the proposal list. Only the open payment requests contained in the proposal list are taken into consideration. The payment program posts documents, sets up the data for the form printout and for creating the data media, the payment advice note and the payment summary.\n</p></li><li class=\"li\"><p class=\"p\">It prints the forms and creates the data media with the payment medium programs.\n</p></li></ol>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

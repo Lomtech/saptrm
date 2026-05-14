@@ -1,0 +1,17 @@
+{
+  "loio": "719eaf2da89e4927a9037a288363b1fb",
+  "title": "Other Flows",
+  "file_path": "719eaf2da89e4927a9037a288363b1fb.html",
+  "page_id": 2555105306,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Financial Transaction Management",
+    "Apps for Processing Financial Transactions",
+    "Create IR Derivatives",
+    "Other Flows"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Other Flows</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"copy719eaf2da89e4927a9037a288363b1fb\"><h1 class=\"title topictitle1\">Other Flows</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\">The concept of flow types allows you to define other flows - such as charges or commissions\n(absolute or proportional) - for the individual product types. These other flows are created\nwith each transaction.</p>\n<p class=\"p\">The flow types that are assigned are displayed in the other flows area as a default. You also still enter the payment amount, currency with the direction and the payment date.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Procedure\"><h2 class=\"section_title\">Procedure</h2>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\"> Use the input help for the <span class=\"ph uicontrol\">Flow Type</span> field to choose the flow type that you require (such as commission or charges).</p></li><li class=\"li\"><p class=\"p\">Enter the direction of the payments by indicating whether it is an incoming payment (+) or an outgoing payment (-).</p></li><li class=\"li\"><p class=\"p\">Enter the payment amount, the payment date and the currency in which the flow is to be paid.</p></li><li class=\"li\"><p class=\"p\">You can change the entries for the other flows provided that the flows have not yet reached the <span class=\"ph uicontrol\">Flagged for Posting</span> status.</p></li><li class=\"li\"><p class=\"p\">To delete one of the other flows, select the flow you want to delete and choose “Delete”.</p></li><li class=\"li\"><p class=\"p\">You can display the details for a flow and change the entries if required.</p></li></ol>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

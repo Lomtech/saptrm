@@ -1,0 +1,16 @@
+{
+  "loio": "5c04c5536a51204be10000000a174cb4",
+  "title": "Payment Program for Payment Requests (FI-BL)",
+  "file_path": "5c04c5536a51204be10000000a174cb4.html",
+  "page_id": 2555104085,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Payment Program for Payment Requests (FI-BL)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5c04c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Payment Program for Payment Requests (FI-BL) </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Purpose\"><h2 class=\"section_title\">Purpose</h2>\n<p class=\"p\"> The payment program for payment requests is an additional automatic payment option in the SAP system. You can use this payment program to make payments to customers and vendors, or between G/L accounts. Unlike the standard payment program, the payments are not based on open items (FI documents) but on payment requests.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<p class=\"p\"> The functions of the payment program include:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Payment processing\n</p><p class=\"p\"> Allows you to control the selection of the payment requests, posts and clears the corresponding documents in the system, and generates the payment media\n</p></li><li class=\"li\"><p class=\"p\"> Payments in third currencies\n</p></li><li class=\"li\"><p class=\"p\"> Update of payment data in Cash Management\n</p></li></ul>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

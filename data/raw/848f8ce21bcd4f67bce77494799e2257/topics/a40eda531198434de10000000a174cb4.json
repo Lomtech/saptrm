@@ -1,0 +1,16 @@
+{
+  "loio": "a40eda531198434de10000000a174cb4",
+  "title": "Premium/Discount",
+  "file_path": "a40eda531198434de10000000a174cb4.html",
+  "page_id": 2555104243,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Premium/Discount"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Premium/Discount</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioa40eda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Premium/Discount </h1><div class=\"body\">\n<p class=\"p\"> The premium is the difference between the acquisition value and the repayment amount if the acquisition value is greater than the repayment amount.\n</p>\n<p class=\"p\"> The discount is the difference between the acquisition value and the repayment amount if the acquisition value is less than the repayment amount.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

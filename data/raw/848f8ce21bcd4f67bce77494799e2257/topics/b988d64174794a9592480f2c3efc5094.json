@@ -1,0 +1,17 @@
+{
+  "loio": "b988d64174794a9592480f2c3efc5094",
+  "title": "Prospective Effectiveness Test",
+  "file_path": "b988d64174794a9592480f2c3efc5094.html",
+  "page_id": 2555101391,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposure Items",
+    "Release Hedging Business Transactions",
+    "Prospective Effectiveness Test"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Prospective Effectiveness Test</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiob988d64174794a9592480f2c3efc5094\"><h1 class=\"title topictitle1\">Prospective Effectiveness Test</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">If you want to make sure that a hedging relationship is only designated in cases where effectiveness is proven, you need to enable\neffectiveness testing for your hedging profiles. In this case, a prospective effectiveness test is integrated in the designation process\nand automatically performed during the release of designation. </p>\n<p class=\"p\">You can either choose to use an effectivenes test method based on linear regression with MDS or you can use the critcal term match method. </p>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"8ec508c4844d4aa39cf47e9502fd0215.html\">Prospective Effectiveness Test Using Linear Regression</a></div><div><a class=\"link\" href=\"5b1b16afa92d4458b87d3e63ab6b03a1.html\">Prospective Effectiveness Test Using Critical Term Match Method</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

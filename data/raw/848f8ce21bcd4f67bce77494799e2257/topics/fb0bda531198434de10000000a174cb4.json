@@ -1,0 +1,17 @@
+{
+  "loio": "fb0bda531198434de10000000a174cb4",
+  "title": "Cash Flow Hedge (CFH) to Hedge Interest Rate Risk",
+  "file_path": "fb0bda531198434de10000000a174cb4.html",
+  "page_id": 2555102160,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Cash Flow Hedge (CFH)",
+    "Cash Flow Hedge (CFH) to Hedge Interest Rate Risk"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Cash Flow Hedge (CFH) to Hedge Interest Rate Risk</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiofb0bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Cash Flow Hedge (CFH) to Hedge Interest Rate Risk </h1><div class=\"body\">\n<p class=\"p\"> In the case of a planned transaction, interest rate trends may result in the payment amount being greater than expected. You can hedge this risk with a <span class=\"ph uicontrol\">cash flow hedge</span> . The payment represents the exposure.\n</p>\n<p class=\"p\"> To map a hedging relationship, the following product types are provided for the hedging instrument:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> Interest rate swap\n</p></li><li class=\"li\"><p class=\"p\"> Cap/floor\n</p></li><li class=\"li\"><p class=\"p\"> Cap/floor collar\n</p></li><li class=\"li\"><p class=\"p\"> FRA (Forward Rate Agreement)\n</p></li><li class=\"li\"><p class=\"p\"> Cross currency interest rate swap\n</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"e60bda531198434de10000000a174cb4.html\">CFH: Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"f80bda531198434de10000000a174cb4.html\">CFH: Cap/Floor Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"ec0bda531198434de10000000a174cb4.html\">CFH: Cap/Floor Collar Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"ef0bda531198434de10000000a174cb4.html\">CFH: FRA Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"f20bda531198434de10000000a174cb4.html\">CFH: Cross Currency Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"f50bda531198434de10000000a174cb4.html\">CFH: Cross Currency Interest Rate Swap and Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"e30bda531198434de10000000a174cb4.html\">Cash Flow Hedge (CFH) to Hedge Foreign Currency Risk</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

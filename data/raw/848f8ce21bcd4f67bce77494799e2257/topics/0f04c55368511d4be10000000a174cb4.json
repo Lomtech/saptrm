@@ -1,0 +1,20 @@
+{
+  "loio": "0f04c55368511d4be10000000a174cb4",
+  "title": "Bank Details in the Customer/Supplier Master Record",
+  "file_path": "0f04c55368511d4be10000000a174cb4.html",
+  "page_id": 2555103309,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Bank Selection",
+    "Bank Details in the Customer/Supplier Master Record"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Bank Details in the Customer/Supplier Master Record</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio0f04c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Bank Details in the Customer/Supplier Master Record</h1><div class=\"body\">\n<div class=\"section\" id=\"loio0f04c55368511d4be10000000a174cb4__section_lgd_wfw_kbc\">Use</div>\n<p class=\"p\">In the master record of the customer/supplier, you can make as many bank detail entries as\nyou want. If the payment transactions should always be carried out by a\n<span class=\"ph emphasis emphasis\">customer/supplier's bank</span>, only specify this bank.</p>\n<p class=\"p\">If you only want to allow one <span class=\"ph emphasis emphasis\">house bank</span> to carry out payment\ntransactions with a customer/supplier, enter this bank in the master record of the\ncustomer/supplier. The correct field for this is in the company code-specific area of the\nmaster record.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

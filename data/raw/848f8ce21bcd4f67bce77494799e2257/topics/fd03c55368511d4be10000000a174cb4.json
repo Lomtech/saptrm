@@ -1,0 +1,20 @@
+{
+  "loio": "fd03c55368511d4be10000000a174cb4",
+  "title": "Notes on Clearing Dates",
+  "file_path": "fd03c55368511d4be10000000a174cb4.html",
+  "page_id": 2555101318,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Selecting Open Payment Requests",
+    "Notes on Clearing Dates"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Notes on Clearing Dates</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiofd03c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Notes on Clearing Dates</h1><div class=\"body\">\n<p class=\"p\"> On the whole, the payment date is used as the clearing date. There exist, however, the following exceptions. </p>\n<p class=\"p\">Items whose posting date comes after the posting date of the payment run will be paid, provided they are already due.</p>\n<p class=\"p\">The clearing date for such payments is not the payment date, but rather the latest posting date possible. Thus any danger of the clearing date coming before the posting date is prevented in the context of paid items. Errors are avoided in this way.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

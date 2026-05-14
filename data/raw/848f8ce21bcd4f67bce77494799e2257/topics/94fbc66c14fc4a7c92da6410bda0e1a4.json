@@ -1,0 +1,16 @@
+{
+  "loio": "94fbc66c14fc4a7c92da6410bda0e1a4",
+  "title": "Cost Center",
+  "file_path": "94fbc66c14fc4a7c92da6410bda0e1a4.html",
+  "page_id": 2555102386,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Cost Center"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Cost Center</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio94fbc66c14fc4a7c92da6410bda0e1a4\"><h1 class=\"title topictitle1\">Cost Center</h1><div class=\"body conbody\">\n<p class=\"p\">An organizational unit within a controlling area that represents a defined location of\ncost incurrence.</p>\n<p class=\"p\">The definition can be based on:</p>\n<ul class=\"ul\" id=\"loio94fbc66c14fc4a7c92da6410bda0e1a4__ul_rht_w24_btb\">\n<li class=\"li\"><p class=\"p\">Functional requirements</p></li>\n<li class=\"li\"><p class=\"p\">Allocation criteria</p></li>\n<li class=\"li\"><p class=\"p\">Physical location</p></li>\n<li class=\"li\"><p class=\"p\">Responsibility for costs</p></li>\n</ul>\n<div class=\"section\" id=\"loio94fbc66c14fc4a7c92da6410bda0e1a4__section_d5z_btf_mqb\"><section class=\"section\" type=\"Use as Differentiation Term for Treasury Positions\"><h2 class=\"section_title\">Use as Differentiation Term for Treasury Positions</h2>\n\n<p class=\"p\">You can use this field as differentiation term for your treasury positions. For more\ninformation, see also <a class=\"xref\" href=\"180dda531198434de10000000a174cb4.html\">Differentiation Terms</a>.</p>\n<p class=\"p\">The cost center is only relevant for postings to P&amp;L accounts. This value isn’t\ntransferred in the case of postings to balance sheet accounts. You can use this\nfield as differentiation term for your treasury positions. For more information, see\nalso </p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

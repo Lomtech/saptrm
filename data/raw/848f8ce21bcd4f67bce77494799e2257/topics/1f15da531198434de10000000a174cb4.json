@@ -1,0 +1,18 @@
+{
+  "loio": "1f15da531198434de10000000a174cb4",
+  "title": "Cross-Currency Interest Rate Swaps",
+  "file_path": "1f15da531198434de10000000a174cb4.html",
+  "page_id": 2555102027,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Derivatives",
+    "Interest Rate Derivatives",
+    "Swaps",
+    "Cross-Currency Interest Rate Swaps"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Cross-Currency Interest Rate Swaps</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1f15da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Cross-Currency Interest Rate Swaps</h1><div class=\"body\">\n<p class=\"p\" id=\"loio1f15da531198434de10000000a174cb4__CCIRS_DEFINITION\">A currency swap is an exchange of payment flows comprising interest payments and capital payments in\n<span class=\"ph uicontrol\">different</span> currencies at an agreed exchange rate. You can use currency swaps to hedge possible currency risks. They also\nallow you cheaper access to the respective foreign currency markets.</p>\n<p class=\"p\">In a currency swap, you exchange fixed and variable interest rates in any combination against each other. Possible combinations are: </p>\n<ul class=\"ul\" id=\"loio1f15da531198434de10000000a174cb4__ul_epj_yt1_c1b\">\n<li class=\"li\"><p class=\"p\">Payer </p><p class=\"p\">Outgoing interest payments are fixed - incoming interest payments are variable</p></li>\n<li class=\"li\"><p class=\"p\">Receiver </p><p class=\"p\">Incoming interest payments are fixed - outgoing interest payments are variable</p></li>\n<li class=\"li\"><p class=\"p\">Basis </p><p class=\"p\">Variable against variable interest payments</p></li>\n<li class=\"li\"><p class=\"p\">Fix to fix</p><p class=\"p\">Fixed against fixed interest payments</p></li>\n</ul>\n<p class=\"p\">Although it is not absolutely necessary to swap the nominal amounts at the start of the transaction, this provides a basis for calculating the\nrespective interest amounts. The original amount can be swapped back again upon maturity at the original exchange rate. The necessary periodic\nadjustments of the reference interest rate are made either manually or automatically via a separate entry.</p>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"2658c7533a661d4be10000000a174cb4.html\">Swaps</a></div><div><a class=\"link\" href=\"b316da531198434de10000000a174cb4.html\" title=\"Create Swaps, Caps and Floors, and Forward Rate Agreements.\">Create IR Derivatives</a></div><div><a class=\"link\" href=\"f814da531198434de10000000a174cb4.html\">Process IR Derivatives - Collective Processing</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

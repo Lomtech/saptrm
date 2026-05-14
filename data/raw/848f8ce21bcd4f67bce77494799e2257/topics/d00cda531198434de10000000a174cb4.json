@@ -1,0 +1,16 @@
+{
+  "loio": "d00cda531198434de10000000a174cb4",
+  "title": "Position Change Category",
+  "file_path": "d00cda531198434de10000000a174cb4.html",
+  "page_id": 2555105365,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Position Change Category"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Position Change Category</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiod00cda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Position Change Category</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n\n<p class=\"p\"> The position change category tells you which <a class=\"xref\" href=\"3f27275305552c3ee10000000a423f68.html\">position components</a> are changed by an update type and how they are changed.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Examples of Position Change Categories\"><h2 class=\"section_title\">Examples of Position Change Categories</h2>\n\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">1000 No position change</span>\n</p></li><li class=\"li\"><p class=\"p\">1002 Incoming payment\n</p></li><li class=\"li\"><p class=\"p\">1020 Outgoing payment\n</p></li><li class=\"li\"><p class=\"p\">1010 Post negative purchase value\n</p></li><li class=\"li\"><p class=\"p\">1011 Post purchase value\n</p></li><li class=\"li\"><p class=\"p\">1012 Post variation margin\n</p></li><li class=\"li\"><p class=\"p\">1013 Clear variation margin\n</p></li><li class=\"li\"><p class=\"p\">1014 Post costs to cost component (assign the update type for capitalized costs if the capitalized costs are to be held separately (exclusive))\n</p></li><li class=\"li\"><p class=\"p\">1015 Post costs to purchase value component (assign the update type for capitalized costs if the capitalized costs are to be held inclusively)\n</p></li><li class=\"li\"><p class=\"p\">...\n</p></li></ul>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

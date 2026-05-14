@@ -1,0 +1,14 @@
+{
+  "loio": "ef50e11850884b5a83ef25b0ee992e83",
+  "title": "Hedge Accounting",
+  "file_path": "ef50e11850884b5a83ef25b0ee992e83.html",
+  "page_id": 2555104058,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting"
+  ],
+  "depth": 2,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Hedge Accounting</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Different hedge accounting solutions are available. Besides automated Hedge Accounting for Exposure Items (which is integrated with Hedge Management of Net Open Exposures), Hedge Accounting for Exposures and Hedge Accounting for Positions are also available.\"><meta name=\"description\" content=\"Different hedge accounting solutions are available. Besides automated Hedge Accounting for Exposure Items (which is integrated with Hedge Management of Net Open Exposures), Hedge Accounting for Exposures and Hedge Accounting for Positions are also available.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioef50e11850884b5a83ef25b0ee992e83\"><h1 class=\"title topictitle1\">Hedge Accounting</h1><div class=\"body conbody\"><p class=\"shortdesc\">Different hedge accounting solutions are available. Besides automated <span class=\"ph uicontrol\">Hedge Accounting for Exposure Items</span> (which\nis integrated with <span class=\"ph uicontrol\">Hedge Management of Net Open Exposures</span>), <span class=\"ph uicontrol\">Hedge Accounting for Exposures</span> and\n<span class=\"ph uicontrol\">Hedge Accounting for Positions</span> are also available.</p>\n<p class=\"p\"></p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,17 @@
+{
+  "loio": "bc16da531198434de10000000a174cb4",
+  "title": "Average Rate Option",
+  "file_path": "bc16da531198434de10000000a174cb4.html",
+  "page_id": 2555101586,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Derivatives",
+    "OTC Options",
+    "Average Rate Option"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Average Rate Option</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiobc16da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Average Rate Option </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> Average rate options (AROs) contain the same structure data as <span class=\"ph\">standard currency options</span> (or plain vanilla options). The only difference is that an <span class=\"ph emphasis emphasis\">average rate</span> is used at expiry instead of the market rate for comparison with the strike price.\n</p>\n<p class=\"p\"> The average rate used is taken from an <span class=\"ph emphasis emphasis\">average rate table</span> and displayed in the transaction.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2>\n<p class=\"p\"> For each transaction, one or more tables with dates and rates are maintained for the average rate option. An average rate is calculated based on these rates. All rates in the tables belong to exactly one currency pair. However, they may have different rate types.\n</p>\n<p class=\"p\"> You can use the <a class=\"xref\" href=\"cb14da531198434de10000000a174cb4.html\">Fix Average Rates</a> report to determine exchange rates for calculating average rates or the <a class=\"xref\" href=\"1814da531198434de10000000a174cb4.html\">Reset Average Rate Fixing</a> to delete these rates.\n</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

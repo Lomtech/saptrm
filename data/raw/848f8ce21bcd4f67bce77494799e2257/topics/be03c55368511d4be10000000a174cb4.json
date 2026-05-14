@@ -1,0 +1,18 @@
+{
+  "loio": "be03c55368511d4be10000000a174cb4",
+  "title": "House Banks",
+  "file_path": "be03c55368511d4be10000000a174cb4.html",
+  "page_id": 2555102757,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "House Banks"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>House Banks</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiobe03c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">House Banks</h1><div class=\"body\">\n<p class=\"p\">The banks with which your company (company code) maintains a bank account are referred to as house banks. </p>\n<p class=\"p\">You define these banks in the system under a house bank key (bank ID). You store the accounts that you maintain at these banks under an account ID. For each bank account, you create a G/L account in the SAP system.</p>\n<p class=\"p\">Bank master data is stored centrally in the SAP system. This includes address data and other\ncontrol data, such as the SWIFT code. You require bank master data for your house banks and\nfor your customer or supplier's banks. By specifying the country/region and a\ncountry/region-specific key, such as the bank number or the SWIFT code, you establish the\nconnection between your house banks and the bank master data. The bank details are required\nfor printing the payment forms.</p>\n<p class=\"p\">You can find out how to create bank master data in <a class=\"xref\" href=\"3560d353c6244308e10000000a174cb4.html\" title=\"\">Bank Master Data</a>.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

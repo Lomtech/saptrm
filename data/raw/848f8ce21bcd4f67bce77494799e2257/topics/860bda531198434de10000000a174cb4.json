@@ -1,0 +1,18 @@
+{
+  "loio": "860bda531198434de10000000a174cb4",
+  "title": "Amortization in the Case of a Changing Nominal Interest Rate",
+  "file_path": "860bda531198434de10000000a174cb4.html",
+  "page_id": 2555102417,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Period-End Closing",
+    "Valuation",
+    "Amortization",
+    "Amortization in the Case of a Changing Nominal Interest Rate"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Amortization in the Case of a Changing Nominal Interest Rate</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio860bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Amortization in the Case of a Changing Nominal Interest Rate </h1><div class=\"body\">\n<p class=\"p\">\n</p>\n<p class=\"p\">If interest is taken into account during amortization and the nominal interest rate is variable, the amortized acquisition value may temporarily exceed the final repayment amount, even if it is issued below par.\n</p>\n<p class=\"p\">\n</p>\n<p class=\"p\">If the issue is above par, the amortized acquisition value may temporarily be less than the repayment amount.\n</p>\n<p class=\"p\">\n</p>\n<p class=\"p\">The effect is shown in the following example.\n</p>\n<p class=\"p\">A bond is purchased on 01/01/01 with a variable interest rate of 99%.\n</p>\n<p class=\"p\">The following interest payments are made:\n</p>\n<p class=\"p\">01/01/02:\n3.0 %\n</p>\n<p class=\"p\">01/01/03:\n4.0 %\n</p>\n<p class=\"p\">01/01/04:\n5.0 %\n</p>\n<p class=\"p\">Repayment occurs on 01/01/04 at 100%.\n</p>\n<p class=\"p\">The internal rate of return is 4.334%. This is determined by discounting the future interest payments and repayments, based on the net present value and the interest: <img class=\"inline\" src=\"loiof631df53b1c8444de10000000a174cb4_LowRes.png\" alt=\"\" title=\"\">\n</p>\n<p class=\"p\">\n</p>\n<p class=\"p\">The calculation of the individual amortized acquisition values produces the following graphical trend:\n</p>\n<div class=\"p\"><div class=\"fig fignone\" id=\"id-53658-loio860bda531198434de10000000a174cb4--fig-68-3-0\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loiof831df53b1c8444de10000000a174cb4_LowRes.png\"></div></div></div>\n</div>\n<p class=\"p\">\n</p>\n<p class=\"p\">In the selected period, the amortized acquisition value of the bond exceeds the repayment rate of 100%.\n</p>\n<p class=\"p\">\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

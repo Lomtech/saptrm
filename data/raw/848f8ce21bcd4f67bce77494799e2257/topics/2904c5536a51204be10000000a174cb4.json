@@ -1,0 +1,19 @@
+{
+  "loio": "2904c5536a51204be10000000a174cb4",
+  "title": "Notes on the Payment Method",
+  "file_path": "2904c5536a51204be10000000a174cb4.html",
+  "page_id": 2555103876,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Notes on the Payment Method"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Notes on the Payment Method</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2904c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Notes on the Payment Method</h1><div class=\"body\">\n<p class=\"p\">You can specify payment methods in the master record or in the payment request.</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Payment transactions with suppliers and customers:</span>\n</p>\n<p class=\"p\">In the master record, you can either</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Enter a single payment method if you have fixed a certain payment method with a business partner,\nfor example, or</p></li><li class=\"li\"><p class=\"p\">Enter several payment methods from which the payment program then selects one in the payment run\naccording to your specifications.</p></li></ul>\n<p class=\"p\">If you specify payment methods in open items, this overrides those from the master record.</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Payment transactions between bank accounts:</span></p>\n<p class=\"p\">In this case, the possible payment methods must always be specified in the payment request.</p>\n<p class=\"p\">The payment method you wish to use must always be specified in the master record of the\nbusiness partner or in the open item.</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

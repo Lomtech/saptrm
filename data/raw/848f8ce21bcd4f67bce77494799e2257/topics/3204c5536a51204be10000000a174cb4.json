@@ -1,0 +1,20 @@
+{
+  "loio": "3204c5536a51204be10000000a174cb4",
+  "title": "Check Available Amounts",
+  "file_path": "3204c5536a51204be10000000a174cb4.html",
+  "page_id": 2555101729,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Bank Selection",
+    "Check Available Amounts"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Check Available Amounts</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3204c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Check Available Amounts </h1><div class=\"body\">\n<p class=\"p\"> The payment program checks whether the selected bank accounts have sufficient funds for payment.\n</p>\n<p class=\"p\"> For your accounts at the house banks, you can specify available amounts separately for incoming payments and outgoing payments.\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\"> For outgoing payments, you specify the size of the amount that can be paid.\n</p></li><li class=\"li\"><p class=\"p\"> For incoming payments, you specify the amount up to which such payments can be made to a bank account.\n</p></li></ul>\n<p class=\"p\"> If the specified limit is exceeded, the payment program selects another bank. The specifications you make concerning available amounts determine which bank account should pay. You should ensure that these amounts are up to date before every payment run.\n</p>\n<p class=\"p\"> The payment program does not carry out amount splitting. If the amount on a bank account is not sufficient for a payment, the payment program selects another bank account. If it finds no bank account from which it can post the entire amount for a payment, it does not carry out the payment.\n</p>\n<p class=\"p\"> The payment program does not use the specified value dates. Enter the value 999 after agreement with Financial Accounting.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

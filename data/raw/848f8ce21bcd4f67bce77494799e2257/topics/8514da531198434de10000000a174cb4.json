@@ -1,0 +1,18 @@
+{
+  "loio": "8514da531198434de10000000a174cb4",
+  "title": "Call and Put - Explanation",
+  "file_path": "8514da531198434de10000000a174cb4.html",
+  "page_id": 2555104989,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Derivatives",
+    "OTC Options",
+    "FX Option",
+    "Call and Put - Explanation"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Call and Put - Explanation</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio8514da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Call and Put - Explanation</h1><div class=\"body\"> <p class=\"p\"><span class=\"ph emphasis emphasis\">Definition</span>\n</p> <p class=\"p\">When you purchase a currency option, you have the right but not the obligation to do the following:\n</p> <ul class=\"ul\"><li class=\"li\"><p class=\"p\">Purchase a currency (call)\n</p></li><li class=\"li\"><p class=\"p\">Sell a currency (put)\n</p></li><li class=\"li\"><p class=\"p\">At a price fixed in advance\n</p></li><li class=\"li\"><p class=\"p\">At a time fixed in advance (European option) or within a period of time fixed in advance (American option)\n</p></li><li class=\"li\"><p class=\"p\">Against payment of a fixed premium option to the supplier </p></li></ul> <p class=\"p\">The supplier is obliged to purchase/sell on the exercise date. </p> <div class=\"fig fignone\" id=\"id-621-loio8514da531198434de10000000a174cb4--fig-66-0-1\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loio5c182355af83f651e10000000a423f68_LowRes.png\"></div></div></div> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

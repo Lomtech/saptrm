@@ -1,0 +1,16 @@
+{
+  "loio": "1208da531198434de10000000a174cb4",
+  "title": "Account Assignment Reference",
+  "file_path": "1208da531198434de10000000a174cb4.html",
+  "page_id": 2555101906,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Account Assignment Reference"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Account Assignment Reference</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1208da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Account Assignment Reference </h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definition\"><h2 class=\"section_title\">Definition</h2>\n\n<p class=\"p\">Account assignment references are required for each <a class=\"xref\" href=\"9d5dc753b1081d4be10000000a174cb4.html\">Treasury Position</a>. </p>\n<p class=\"p\">You use the account assignment reference to determine the G/L account in which the position\nis to be managed. </p>\n<p class=\"p\">You make the assignments of the G/L accounts in FI dependent on the account assignment\nreference for the relevant account symbols (position and interest revenue) for posting the\npositions, dividend payments, interest payments, accruals and deferrals, incoming payments,\nand repayments in the general ledger. </p>\n<p class=\"p\">You create the account assignment references independent of the valuation areas. You can\nhave the account assignment references assigned to positions based on the valuation area\nand/or you control the account determination based on valuation area and account assignment\nreference. </p>\n</section></div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"fc0ada531198434de10000000a174cb4.html\">Account Assignment References</a></div><div><a class=\"link\" href=\"8f0eda531198434de10000000a174cb4.html\">Assign Account Assignment Reference</a></div><div><a class=\"link\" href=\"8e0dda531198434de10000000a174cb4.html\">Transfer Account Assignment Reference</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

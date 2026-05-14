@@ -1,0 +1,18 @@
+{
+  "loio": "ce19da531198434de10000000a174cb4",
+  "title": "Selecting a Posting Activity",
+  "file_path": "ce19da531198434de10000000a174cb4.html",
+  "page_id": 2555103706,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Securities Account Management",
+    "Payments",
+    "Manual Debit Position (Incoming Payments)",
+    "Using Manual Debit Positions",
+    "Selecting a Posting Activity"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Selecting a Posting Activity</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioce19da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Selecting a Posting Activity</h1><div class=\"body\">\n<p class=\"p\"> Proceed as follows:\n</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">The screen <span class=\"ph uicontrol\">Cash Flow in Position Currency</span> displays all the flows you can process using the incoming payments function in the form of a cash flow.\n</p></li><li class=\"li\"><p class=\"p\">To edit and post a flow, you can choose between the following alternatives:\n</p></li></ol>\n<p class=\"p\">Double-click on a flow.\n</p>\n<p class=\"p\">Position the cursor on a flow and click on the <span class=\"ph uicontrol\">Choose</span> function.\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">If the cash flow contains several flows of the same flow type, and these flows have been derived from a condition, you must post the flows in chronological order, from the oldest to the most recent.\n</p><p class=\"p\">If you fail to do this, the system will delete any planned flows dated earlier than the flow to be posted which have the same flow type.\n</p></aside>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Once you have selected a flow, the system displays all the flows which belong to the same posting activity. You can then edit and subsequently post them.\n</p></li><li class=\"li\"><p class=\"p\">The following section describes <a class=\"xref\" href=\"d119da531198434de10000000a174cb4.html\">Editing and Posting an Activity</a> .\n</p></li></ol>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

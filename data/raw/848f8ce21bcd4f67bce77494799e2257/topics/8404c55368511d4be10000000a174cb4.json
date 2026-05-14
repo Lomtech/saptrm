@@ -1,0 +1,19 @@
+{
+  "loio": "8404c55368511d4be10000000a174cb4",
+  "title": "Recognizing and Eliminating Form Printing Errors",
+  "file_path": "8404c55368511d4be10000000a174cb4.html",
+  "page_id": 2555103396,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Running the Payment and Payment Medium Programs",
+    "Recognizing and Eliminating Form Printing Errors"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Recognizing and Eliminating Form Printing Errors</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio8404c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Recognizing and Eliminating Form Printing Errors</h1><div class=\"body\">\n<p class=\"p\"> Various errors can occur while printing forms, for example </p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Termination of Processing</p></li></ul>\n<p class=\"p\">The cause for program termination (i.e., the production run had not been carried out yet, the form does not exist or is not active) will be reported in the error message and in its accompanying help text.</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Internal SAPScript error</p></li></ul>\n<p class=\"p\">Check the structure of the form. It has to be in compliance with the parameters listed in the program documentation. For example, it is not possible to generate a transfer via the check printing program, since transfers and checks have a completely different form structure.</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Error Log</span>\n</p>\n<p class=\"p\"> If errors which do not cause the payment program to terminate abnormally occur as the task is being generated, they will be listed in the error log. If such an error log is indeed generated, it must be reviewed. You then need to decide whether the error rendered the payment medium or payment advice notes invalid, and whether they need to be newly created after you have eliminated the condition that caused the error. </p>\n<p class=\"p\">In background processing, the error log will be output twice, once in the job run log and once in the print job file. You can find useful information regarding these errors in the error message help texts which are output with the run log.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

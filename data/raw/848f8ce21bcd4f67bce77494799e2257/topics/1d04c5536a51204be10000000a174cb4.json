@@ -1,0 +1,20 @@
+{
+  "loio": "1d04c5536a51204be10000000a174cb4",
+  "title": "Grouping Keys for Payment Requests",
+  "file_path": "1d04c5536a51204be10000000a174cb4.html",
+  "page_id": 2555101728,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Grouping of Payment Requests",
+    "Grouping Keys for Payment Requests"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Grouping Keys for Payment Requests</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1d04c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Grouping Keys for Payment Requests</h1><div class=\"body\">\n<p class=\"p\"> You can use grouping keys to group together payment requests that should be paid together.\n</p>\n<p class=\"p\">To do so, you must specify a grouping term for the payment request. Those payment requests with the same contents are grouped together for payment.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

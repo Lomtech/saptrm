@@ -1,0 +1,16 @@
+{
+  "loio": "010cda531198434de10000000a174cb4",
+  "title": "Fair Value Hedge (FVH)",
+  "file_path": "010cda531198434de10000000a174cb4.html",
+  "page_id": 2555101183,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Fair Value Hedge (FVH)"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fair Value Hedge (FVH)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio010cda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Fair Value Hedge (FVH) </h1><div class=\"body\">\n<p class=\"p\"> You can use a fair value hedge to hedge the exposure to recognized assets or liabilities and unrecognized firm commitments against changes in fair value. Changes in fair value are usually due to exchange rate risks or interest rate risks, and influence the net earnings of a company.\n</p>\n<p class=\"p\"> If the fair value hedge is effective, the changes in value of both the hedging instrument and the underlying transaction that result from the hedged risk need to be included in the profit and loss statement as affecting net income.\n</p>\n<p class=\"p\"> The fair value hedge adjusts the book value of the underlying transaction. This adjustment is only permitted if hedge management is in use. This procedure applies to financial instruments that are valued at amortized cost ( <span class=\"ph uicontrol\">held to maturity</span> , <span class=\"ph uicontrol\">loans and receivables</span> ) as well as to financial instruments designated as <span class=\"ph uicontrol\">available for sale</span> .\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> If you use a fair value hedge to hedge an unrecognized firm commitment as an underlying transaction, the change in fair value is shown as an asset or a commitment in the balance sheet. At the same time, an offsetting posting is made via the profit and loss statement. If the firm commitment is actually used as an asset or liability, the acquisition costs are adjusted by the cumulated changes in value.\n</p></aside>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"040cda531198434de10000000a174cb4.html\">Fair Value Hedge (FVH) to Hedge Foreign Currency Risk</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"070cda531198434de10000000a174cb4.html\">Fair Value Hedge (FVH) to Hedge Interest Rate Risk</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

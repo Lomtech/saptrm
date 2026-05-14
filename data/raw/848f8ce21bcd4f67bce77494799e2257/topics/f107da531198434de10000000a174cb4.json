@@ -1,0 +1,17 @@
+{
+  "loio": "f107da531198434de10000000a174cb4",
+  "title": "Calculating and Updating the Effective Interest Rate",
+  "file_path": "f107da531198434de10000000a174cb4.html",
+  "page_id": 2555101462,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Money Market Transactions",
+    "Utilities",
+    "Calculating and Updating the Effective Interest Rate"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Calculating and Updating the Effective Interest Rate</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiof107da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Calculating and Updating the Effective Interest Rate</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Features\"><h2 class=\"section_title\">Features</h2>\n<p class=\"p\"> You use this function when you process transactions in the Money Market area to calculate the internal interest flows and update these to the database. You can use the effective interest for evaluations as past of reporting.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2>\n<p class=\"p\"> To use this function, you have to define an effective interest method when you define the relevant product type in Customizing.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\"> Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Money Market </span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\"> Tools </span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\"> Calculate and Update Effective Interest.</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>\n</p></li><li class=\"li\"><p class=\"p\">You can generate a list of financial transactions with an unknown effective interest or using specific transaction numbers.\n</p></li><li class=\"li\"><p class=\"p\">You can also choose whether to carry out a test run or an update run.\n</p></li><li class=\"li\"><p class=\"p\">Choose <span class=\"ph uicontrol\">Execute.</span>\n</p></li><li class=\"li\"><p class=\"p\">The system generates a calculation log.\n</p></li></ol>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

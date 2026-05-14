@@ -1,0 +1,18 @@
+{
+  "loio": "8143a6c104f446289ed5000d4b881b40",
+  "title": "FX Hedge Management",
+  "file_path": "8143a6c104f446289ed5000d4b881b40.html",
+  "page_id": 2555104709,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Financial Transaction Management",
+    "Apps for Processing Financial Transactions",
+    "Create Financial Transaction",
+    "Tabs",
+    "FX Hedge Management"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>FX Hedge Management</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"Assign the reference-based exposure item which should be hedged by the financial transaction.\"><meta name=\"description\" content=\"Assign the reference-based exposure item which should be hedged by the financial transaction.\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio8143a6c104f446289ed5000d4b881b40\"><h1 class=\"title topictitle1\">FX Hedge Management</h1><div class=\"body conbody\"><p class=\"shortdesc\">Assign the reference-based exposure item which should be hedged by the financial transaction.</p>\n<p class=\"p\">If you create a hedging instrument for an exposure item by reference, you must enter the exposure item ID. In case, you do not know the\nexposure item ID, you can use the search help available for the <span class=\"ph uicontrol\">Exposure Item ID</span> field.</p>\n<p class=\"p\">After you have assigned the exposure item, you see the following information for the exposure item:</p>\n<ul class=\"ul\" id=\"loio8143a6c104f446289ed5000d4b881b40__ul_vlr_32b_vfb\">\n<li class=\"li\"><p class=\"p\">Exposure Item Description</p></li>\n<li class=\"li\"><p class=\"p\">Assigned Amount</p></li>\n<li class=\"li\"><p class=\"p\">Risk Currency</p></li>\n<li class=\"li\"><p class=\"p\">Due Date of the Exposure Item</p></li>\n</ul>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"b81b7f6e9f51434c81e86de117fd47bb.html\" title=\"Search exposure item ID of the exposure item hedged by the financial transaction.\">Elementary Search Help for Exposure Item ID by String</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,18 @@
+{
+  "loio": "786f9d9c4ba74559adf42e62d1584166",
+  "title": "Accrued Interest",
+  "file_path": "786f9d9c4ba74559adf42e62d1584166.html",
+  "page_id": 2555101957,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Securities",
+    "Security Transaction",
+    "Editing a Security Transaction",
+    "Accrued Interest"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Accrued Interest</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio786f9d9c4ba74559adf42e62d1584166\"><h1 class=\"title topictitle1\">Accrued Interest</h1><div class=\"body conbody\">\n<div class=\"section\"><section class=\"section\" type=\"Example of Accrued Interest Calculation\"><h2 class=\"section_title\">Example of Accrued Interest Calculation</h2>\n\n<p class=\"p\">A bond usually has interest coupons with which the bond issuer pays interest at predetermined dates to the current bond holder. See the graphic below for an example. After the start of the interest period, the bond is sold on a given trade date from the former bond holder X to the new bond\nholder Y. At the end of the interest period, the full interest coupon P is paid to the new bond holder Y. However, the new bond holder Y has to pay the former bond holder X the interest amount A as\n<span class=\"ph emphasis emphasis\">accrued interest</span>. The interest amount A corresponds to the time t1 between the start\nof the interest period and the trade date. The accrued interest payment forms part of the purchase/sale transaction.</p>\n<p class=\"p\">The formula for calculating accrued interest (A) is the\n<span class=\"ph emphasis emphasis\">time percentage of the full interest coupon</span> (P). This is expressed as follows:</p>\n<p class=\"p\">A = P x t1 / (t1+ t2)</p>\n<div class=\"fig fignone\" id=\"id-52229-loio786f9d9c4ba74559adf42e62d1584166--fig-57-0-34\"><div class=\"figbody\"><div class=\"block wide\"><img class=\"break\" src=\"loio3c21f432948145139b2ac15bf711691f_LowRes.png\"></div></div><span class=\"figcap\">Calculation of Accrued Interest</span></div>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

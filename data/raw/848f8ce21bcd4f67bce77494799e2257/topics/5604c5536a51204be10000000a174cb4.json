@@ -1,0 +1,19 @@
+{
+  "loio": "5604c5536a51204be10000000a174cb4",
+  "title": "Reloading Archived Data",
+  "file_path": "5604c5536a51204be10000000a174cb4.html",
+  "page_id": 2555102703,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Archiving Object - Payment Request",
+    "Reloading Archived Data"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Reloading Archived Data</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5604c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Reloading Archived Data</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Prerequisites\"><h2 class=\"section_title\">Prerequisites</h2>\n<p class=\"p\">You can only archive payment requests that have been cleared.</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Procedure\"><h2 class=\"section_title\">Procedure</h2>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Treasury and Risk Management</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Transaction Manager</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Utilities</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Archiving</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Payment Requests</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>.</p><p class=\"p\">Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Goto</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Reload</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>. The <span class=\"ph uicontrol\">Archive Administration: Reload Archive\nSessions</span> screen appears.</p></li><li class=\"li\"><p class=\"p\">You can enter a selection of key numbers to restrict the data reloaded.</p><p class=\"p\">The payment request does not carry a special indicator after the reload. It is stored in the\noriginal form, as it was before the archiving run.</p></li></ol>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

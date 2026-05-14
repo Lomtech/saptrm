@@ -1,0 +1,20 @@
+{
+  "loio": "3504c5536a51204be10000000a174cb4",
+  "title": "Value Dates",
+  "file_path": "3504c5536a51204be10000000a174cb4.html",
+  "page_id": 2555100926,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Bank Selection",
+    "Value Dates"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Value Dates</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3504c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Value Dates</h1><div class=\"body\">\n<p class=\"p\"> The value date must be specified in the payment request for the house bank or the bank of the\nbusiness partner.</p>\n<p class=\"p\">If the value date for the bank of the business partner is specified, the value date for the\nhouse bank can be calculated by the payment program for payment requests.</p>\n<p class=\"p\">Under <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Value Date</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Term HBank/Pbank</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>, you enter a time interval (in working days) for the term between the house\nbank and partner bank.</p>\n<p class=\"p\">You enter a calendar ID under <span class=\"ph uicontrol\">Factory Calendar</span> for each payment currency\nand bank country/region.</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">The following procedure is followed when determining the value date:</span>\n</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">The value date for the recipient bank is read in the payment request.</p></li><li class=\"li\"><p class=\"p\">It is checked whether a <span class=\"ph uicontrol\">Term HBank/Pbank</span> has been entered.</p></li><li class=\"li\"><p class=\"p\">The valid calendar for the recipient bank is searched for. For this, it is checked whether a\ncalendar for the currency and country/region of the recipient bank has been defined. If\nthis search is not successful, it is checked whether a special calendar has been defined\nfor the currency and the country/region. Otherwise, the calendar valid for the currency is\nchosen.</p></li><li class=\"li\"><p class=\"p\">The value date for the house bank is calculated with these entries.</p></li><li class=\"li\"><p class=\"p\">Finally, the calendar valid for the house bank is determined and it is checked whether the value\ndate is valid. If necessary, the value date is calculated again (i.e. pushed further back\nin time).</p></li></ol>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

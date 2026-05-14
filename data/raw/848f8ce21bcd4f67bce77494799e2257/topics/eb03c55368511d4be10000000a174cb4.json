@@ -1,0 +1,20 @@
+{
+  "loio": "eb03c55368511d4be10000000a174cb4",
+  "title": "Adapting a Form",
+  "file_path": "eb03c55368511d4be10000000a174cb4.html",
+  "page_id": 2555101744,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Forms",
+    "Modifying the Forms",
+    "Adapting a Form"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Adapting a Form</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioeb03c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Adapting a Form</h1><div class=\"body\">\n<p class=\"p\">If you cannot use the standard forms in the SAP system, you must create your own forms. You can\ndo this by copying the standard forms and modifying them where necessary.</p>\n<p class=\"p\">Carry out the following steps from the initial SAP menu:</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Tools</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Word Processing</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Layout Sets</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>.</p></li><li class=\"li\"><p class=\"p\">You reach the initial screen for word processing.</p></li><li class=\"li\"><p class=\"p\">Specify the name of your form and select <span class=\"ph uicontrol\">Create/Change</span>.</p></li><li class=\"li\"><p class=\"p\">Your forms should begin with the letter \"Z\". This is a protected name format that is not used by\nSAP.</p></li><li class=\"li\"><p class=\"p\">A dialog box appears. Here you enter a customer development class or specify that you will be using a local private object.</p></li><li class=\"li\"><p class=\"p\">You reach the display of the general definitions for the form.</p></li></ol>\n<p class=\"p\">From here, you can transfer specifications and text elements from another form (e.g. the SAP standard form) into your form.</p>\n<p class=\"p\">To do so, choose <span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Layout Set</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Copy From</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>. Via the entry <span class=\"ph uicontrol\">Goto</span> you can select the required\nspecifications for your form.</p>\n<p class=\"p\">Further information about how to adapt a form can be found in the documentation for SAPScript word processing.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

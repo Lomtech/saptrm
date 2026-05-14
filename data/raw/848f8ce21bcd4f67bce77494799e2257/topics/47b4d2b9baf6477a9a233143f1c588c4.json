@@ -1,0 +1,16 @@
+{
+  "loio": "47b4d2b9baf6477a9a233143f1c588c4",
+  "title": "Business Transactions",
+  "file_path": "47b4d2b9baf6477a9a233143f1c588c4.html",
+  "page_id": 2555101855,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Withholding Tax",
+    "Business Transactions"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Business Transactions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio47b4d2b9baf6477a9a233143f1c588c4\"><h1 class=\"title topictitle1\">Business Transactions</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span></p>\n<p class=\"p\">You record transactions following the <a class=\"xref\" href=\"97908c53cc93ed23e10000000a174cb4.html\">standard procedure</a>.</p>\n<p class=\"p\">In addition, when you save this transaction, the system automatically calculates\nwithholding tax.</p>\n<p class=\"p\">During <span class=\"ph\">settlement</span>, the system recalculates withholding tax.</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

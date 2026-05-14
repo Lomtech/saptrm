@@ -1,0 +1,21 @@
+{
+  "loio": "2104c55368511d4be10000000a174cb4",
+  "title": "Bank Accounts and Bank Subaccounts: Example",
+  "file_path": "2104c55368511d4be10000000a174cb4.html",
+  "page_id": 2555104122,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Specifications for Posting Payments",
+    "Bank Accounts and Bank Subaccounts",
+    "Bank Accounts and Bank Subaccounts: Example"
+  ],
+  "depth": 9,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Bank Accounts and Bank Subaccounts: Example</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2104c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Bank Accounts and Bank Subaccounts: Example</h1><div class=\"body\">\n<p class=\"p\">You settled a payable amounting to 5,000 USD by check. The payment was posted to the subaccount\nfor outgoing checks and to the supplier account (see the figure below). The payable on the\nsupplier account was cleared with this procedure.</p>\n<div class=\"p\"><div class=\"fig fignone\" id=\"id-29486-loio2104c55368511d4be10000000a174cb4--fig-52-3-1\"><div class=\"figbody\"><img class=\"inline\" src=\"loiobdf9d553088f4308e10000000a174cb4_LowRes.png\" alt=\"\" title=\"\"></div></div>\n</div>\n<p class=\"p\">After the check amount is actually debited from your bank account, you post it to the corresponding G/L bank account and select the corresponding check on the outgoing checks account (see the figure above).</p>\n<p class=\"p\">During clearing, the system posts the amount to the bank subaccount \"Outgoing Checks\" and\nclears the posted item on this account.</p>\n<p class=\"p\">The check is now marked as cashed. Your G/L bank account only contains those amounts which have actually been debited from your bank account.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

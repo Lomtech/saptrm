@@ -1,0 +1,17 @@
+{
+  "loio": "040cda531198434de10000000a174cb4",
+  "title": "Fair Value Hedge ( FVH ) to Hedge Foreign Currency Risk",
+  "file_path": "040cda531198434de10000000a174cb4.html",
+  "page_id": 2555103627,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Fair Value Hedge (FVH)",
+    "Fair Value Hedge ( FVH ) to Hedge Foreign Currency Risk"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fair Value Hedge ( FVH ) to Hedge Foreign Currency Risk</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio040cda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Fair Value Hedge ( FVH ) to Hedge Foreign Currency Risk </h1><div class=\"body\">\n<p class=\"p\"> The <span class=\"ph uicontrol\">International Accounting Standards</span> ( <span class=\"ph uicontrol\">IAS</span> ) <span class=\"ph uicontrol\">21</span> and the <span class=\"ph uicontrol\">Financial Accounting Standards Board</span> ( <span class=\"ph uicontrol\">FASB</span> ) – <span class=\"ph uicontrol\">Statement No. 52</span> stipulate that changes in value of monetary assets or liabilities (such as interest rate instruments in foreign currency) that result from fluctuations in the foreign currency need to be included in profit or loss.\n</p>\n<p class=\"p\"> This does not apply, however, to monetary transactions that are used as hedging instruments in a cash flow hedge or net investment hedge.\n</p>\n<p class=\"p\"> Hedge Accounting is used only for selected monetary assets and liabilities since the changes in value of the hedging instrument and the underlying transaction have usually already been recognized in profit and loss.\n</p>\n<p class=\"p\"> However, in the case of <span class=\"ph emphasis emphasis\">non</span> -monetary financial instruments classified as <span class=\"ph uicontrol\">Available for</span><span class=\"ph uicontrol\"> Sale</span><span class=\"ph uicontrol\"> ,</span><span class=\"ph uicontrol\">IAS 21</span> and <span class=\"ph uicontrol\">FASB Statement No. 115</span> state that changes in value need to be recognized in equity and not affect profit and loss. For this reason, a fair value hedge could be used for non-monetary assets and liabilities.\n</p>\n<aside class=\"note sap-example example\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Example</strong></div>\n<p class=\"p\"> You hedge the fair value of a foreign stock against the risk of fluctuations in foreign currency. The stock represents the exposure.\n</p></aside>\n<aside class=\"note\" aria-labelledby=\"n1t\"><div class=\"title\" id=\"n1t\"><strong>Note</strong></div>\n<p class=\"p\"> Since the system cannot load stocks as exposures, it is not currently possible to map fair values hedges to hedge exchange rate risks.\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

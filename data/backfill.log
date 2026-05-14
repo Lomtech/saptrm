@@ -1,0 +1,17 @@
+[23:58:48] Missing: 689 (of 1589 needed, 900 have)     backfill_playwright.py:40
+           Warming up via                              backfill_playwright.py:59
+           https://help.sap.com/docs/SAP_S4HANA_ON-PRE                          
+           MISE/848f8ce21bcd4f67bce77494799e2257/12283                          
+           b567733a021e10000000a44538d.html                                     
+[00:00:18] ERR b0c34a5695e2404de10000000a4450e5:       backfill_playwright.py:97
+           Page.evaluate: TypeError: Failed to fetch                            
+               at eval (eval at evaluate (:302:30),                             
+           <anonymous>:2:33)                                                    
+               at UtilityScript.evaluate                                        
+           (<anonymous>:309:18)                                                 
+               at UtilityScript.<anonymous>                                     
+           (<anonymous>:1:44)                                                   
+[00:15:53] 404 48a77e65b1a24ecf8afa2c6fc5b317f8       backfill_playwright.py:104
+[00:47:11] 404 5b0edd7752874141a12fb58fa9c5d658       backfill_playwright.py:104
+Backfill ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 689/689 • 0:46:20 • 0:00:00
+[00:47:15] Done: ok=686  fail=3                       backfill_playwright.py:134

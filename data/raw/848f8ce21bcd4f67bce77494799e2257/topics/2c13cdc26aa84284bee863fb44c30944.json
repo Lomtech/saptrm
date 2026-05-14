@@ -1,0 +1,15 @@
+{
+  "loio": "2c13cdc26aa84284bee863fb44c30944",
+  "title": "External Account Statement",
+  "file_path": "2c13cdc26aa84284bee863fb44c30944.html",
+  "page_id": 2555101694,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "External Accounts",
+    "External Account Statement"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>External Account Statement</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio2c13cdc26aa84284bee863fb44c30944\"><h1 class=\"title topictitle1\">External Account Statement</h1><div class=\"body conbody\"> <div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2><p class=\"p\">You can either enter an external account statement manually or upload it from an Excel file:\n</p> <ul class=\"ul\"><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"078a32ea754d4215930dd872b31e8897.html\">Processing External Account Statements</a>\n</p></li><li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"52e8f8dc2de8424a98f66f4c7ec31031.html\">Uploading External Account Statements</a>\n</p></li><li class=\"li\"><p class=\"p\">If you have activated <span class=\"ph uicontrol\">Margin Limit Management</span> in Customizing for <span class=\"ph uicontrol\">External\nAccounts</span> under <span class=\"ph uicontrol\">Central Counterparty Clearing</span> and selected the functions for margin\nbalances and margin limits in the master data of an external account, additional tabs are displayed for these. </p><p class=\"p\"><a class=\"xref\" href=\"d0b303710d174899b1db828f8cf37e42.html\">Margin Balances</a> and <a class=\"xref\" href=\"0e1ac3a4d15e440b92231eda8bad3c8c.html\">Margin Limits</a>\n</p></li><li class=\"li\"><p class=\"p\">After you have entered and checked the data of an account statement, you use the <a class=\"xref\" href=\"265c33c6b0c94a1380e373275e91a7ad.html\">release line items</a> function. </p></li></ul> </section></div> <div class=\"section\"><section class=\"section\" type=\"More Information\"><h2 class=\"section_title\">More Information</h2><p class=\"p\"><a class=\"xref\" href=\"d3085a46763c45c09664e61d07780d4a.html\">Margin Management</a>\n</p> </section></div> </div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

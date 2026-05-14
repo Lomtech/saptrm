@@ -1,0 +1,19 @@
+{
+  "loio": "6004c55368511d4be10000000a174cb4",
+  "title": "Evaluating the Exception List",
+  "file_path": "6004c55368511d4be10000000a174cb4.html",
+  "page_id": 2555101950,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Creating the Payment Proposal",
+    "Evaluating the Exception List"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Evaluating the Exception List</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio6004c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Evaluating the Exception List</h1><div class=\"body\">\n<p class=\"p\"> In addition to the proposal list, you can display or print out an exception list. The exception list displays blocked items and all open items which the payment program did not propose for payment. </p>\n<p class=\"p\">The exception list contains:</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Blocked items</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Special G/L transactions (depending on the configuration of your system)</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Items that could not be settled despite being due</p></li></ul>\n<p class=\"p\">The reason for the exception is represented by an error number. The list includes an error text for every error reason.</p>\n<p class=\"p\">To generate an exception list, choose\n<span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Edit</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Proposal</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Exception list</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">.</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>\n</p>\n<p class=\"p\">This brings up a window with the name of the program (RFZALI10). If you want to print the list, enter the appropriate variant name and chooseENTER.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

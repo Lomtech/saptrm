@@ -1,0 +1,20 @@
+{
+  "loio": "2304c5536a51204be10000000a174cb4",
+  "title": "Individual Payment",
+  "file_path": "2304c5536a51204be10000000a174cb4.html",
+  "page_id": 2555101173,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Grouping of Payment Requests",
+    "Individual Payment"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Individual Payment</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2304c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Individual Payment</h1><div class=\"body\">\n<p class=\"p\">Payment requests are paid individually if the following conditions are met:</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">The indicator for individual payment has been set in the payment request.</p></li><li class=\"li\"><p class=\"p\">If you always wish to settle payment requests individually for a business partner, you can\nspecify this in the company code-specific area of the master record. To do this, you mark\nthe individual payment field.</p></li><li class=\"li\"><p class=\"p\">If you wish to pay for an open item individually with a payment procedure, define this payment\nmethod for individual payment (see <a class=\"xref\" href=\"c703c55368511d4be10000000a174cb4.html\">Company Code-Specific Definitions for the Payment Method: Graphic</a>).\nThis payment method must be entered in the open item that is to be paid individually.</p></li></ul>\n<aside class=\"note sap-example example\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Example</strong></div>\n<p class=\"p\">You wish to pay individual items with a separate check. To do so, define a second payment\nmethod alongside the standard payment method via check. For this second payment method, you\nenter the same specifications and also the individual payment. You enter this payment method\nin the open item for which a separate check is to be issued.</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

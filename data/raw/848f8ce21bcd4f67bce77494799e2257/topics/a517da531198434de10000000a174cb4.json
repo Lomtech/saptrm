@@ -1,0 +1,15 @@
+{
+  "loio": "a517da531198434de10000000a174cb4",
+  "title": "Issue",
+  "file_path": "a517da531198434de10000000a174cb4.html",
+  "page_id": 2555102534,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Securities Account Management",
+    "Issue"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Issue</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioa517da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Issue </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span>\n</p>\n<p class=\"p\"> The following transactions are available to help you edit and manage issue transactions and issue positions of bonds.\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"a430c753b1081d4be10000000a174cb4.html\">Issue Volumes</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"a730c753b1081d4be10000000a174cb4.html\">Issue Charges</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"aa30c753b1081d4be10000000a174cb4.html\">Issue Hedge</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"d7fac5536a51204be10000000a174cb4.html\">Issue Position</a>\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"0eacc7531dc61d4be10000000a174cb4.html\" title=\"This process covers master data management, the placement and redemption of bonds issued, as well as paying and posting in Financial Accounting. In addition, various functions for managing the securities account positions and for period-end closing are available. Treasury Reporting provides you with a broad range of apps for analyzing your debts and investments in bonds.\">Bond Issue</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

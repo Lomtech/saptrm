@@ -1,0 +1,16 @@
+{
+  "loio": "e00bda531198434de10000000a174cb4",
+  "title": "Cash Flow Hedge (CFH)",
+  "file_path": "e00bda531198434de10000000a174cb4.html",
+  "page_id": 2555102490,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Cash Flow Hedge (CFH)"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Cash Flow Hedge (CFH)</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioe00bda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Cash Flow Hedge (CFH) </h1><div class=\"body\">\n<p class=\"p\"> Cash flow hedges are transactions that are used to hedge against the risk of variations in future cash flows (interest rate risks or foreign currency risks).\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Hedge Accounting</span>\n</p>\n<ul class=\"ul\"><li class=\"li\"><p> Hedge accounting for cash flow hedges is used mainly for hedging instruments.\n</p></li><li class=\"li\"><p> According to IAS 39, in the case of effective cash flow hedges, the effective portion of the change in value of the hedging instrument is recognized in equity. The amounts in equity are written off on a pro rata basis and posted to the profit and loss statement once the hedging relationship has been dissolved.\n</p></li><li class=\"li\"><p> The ineffective portions of the changes in value of hedging instruments are posted directly to the profit and loss statement.\n</p></li></ul>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"e30bda531198434de10000000a174cb4.html\">Cash Flow Hedge (CFH) to Hedge Foreign Currency Risk</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"fb0bda531198434de10000000a174cb4.html\">Cash Flow Hedge (CFH) to Hedge Interest Rate Risk</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

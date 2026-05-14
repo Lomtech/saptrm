@@ -1,0 +1,19 @@
+{
+  "loio": "1404c5536a51204be10000000a174cb4",
+  "title": "Company Code Specifications",
+  "file_path": "1404c5536a51204be10000000a174cb4.html",
+  "page_id": 2555101804,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Company Code Specifications"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Company Code Specifications</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1404c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Company Code Specifications</h1><div class=\"body\">\n<p class=\"p\">When configuring the payment program, you specify the company codes that are involved in\nautomatic payments and also which company code makes the payments (paying company code).</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">General company code specifications</span>\n</p>\n<p class=\"p\">For each company code using the payment program, some general information is required, i.e.\ninformation that is not specifically linked to a payment method.</p>\n<p class=\"p\">In some companies, one company code carries out the payment transactions centrally on behalf of\nseveral company codes. Consequently, you must specify the paying company code for each company\ncode. This specification is also required even if you do not make payments centrally; in this\ncase, the paying company code you enter is identical to the company code. When carrying\nforward bank accounts, you can also specify paying company codes that are different to the\ncompany code.</p>\n<p class=\"p\">For more information, see <a class=\"xref\" href=\"0004c55368511d4be10000000a174cb4.html\">Cross-Company Code Payments</a>.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">All settings apart from the sending and paying company codes are not relevant for the payment\nprogram for payment requests.</p></aside>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Specifications for the paying company code</span></p>\n<p class=\"p\">You specify how the paying company code makes the payment. For example, you specify minimum\namounts for incoming and outgoing payments. The payment program only makes a payment for the\ncompany code if the payment is within the amount limits set.</p>\n<p class=\"p\">You can specify further amount limits for each payment method (see <a class=\"xref\" href=\"c703c55368511d4be10000000a174cb4.html\">Company Code-Specific Definitions for the Payment Method: Graphic</a>&nbsp;(1)). The narrower range always applies.</p>\n<aside class=\"note\" aria-labelledby=\"n1t\"><div class=\"title\" id=\"n1t\"><strong>Note</strong></div>\n<p class=\"p\">The settings for bill of exchange payment are irrelevant for the payment program for payment\nrequests.</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

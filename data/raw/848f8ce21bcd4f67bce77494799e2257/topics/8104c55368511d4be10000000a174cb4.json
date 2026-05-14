@@ -1,0 +1,19 @@
+{
+  "loio": "8104c55368511d4be10000000a174cb4",
+  "title": "Starting the Payment Medium Programs Online",
+  "file_path": "8104c55368511d4be10000000a174cb4.html",
+  "page_id": 2555101461,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Running the Payment and Payment Medium Programs",
+    "Starting the Payment Medium Programs Online"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Starting the Payment Medium Programs Online</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio8104c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Starting the Payment Medium Programs Online</h1><div class=\"body\">\n<p class=\"p\"> In order to avoid unnecessarily burdening the system while it is up and running, you should only start payment medium programs online for </p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Small payment runs</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Additional generation of individual payment media</p></li></ul>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Cases in which an interactive processing is required, such as error searches.</p></li></ul>\n<p class=\"p\">To start online printing, proceed as follows:</p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Choose\n<span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">System</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Services</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Reporting</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">.</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>\n</p></li><li class=\"li\"><p class=\"p\">Enter the name of a payment medium program, for example\n<span class=\"ph emphasis emphasis\">RFFOD__S</span>\n, and execute the program, with variants if necessary. You must also enter at least the payment run date and the payment run ID.\n</p></li><li class=\"li\"><p class=\"p\">Execute the program.</p></li></ol>\n<p class=\"p\">On the next screen, you will find information on the generated payment media. You can go to the print administration or DME administration programs with a double-click on the output file.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

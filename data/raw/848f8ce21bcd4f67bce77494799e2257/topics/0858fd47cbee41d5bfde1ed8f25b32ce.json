@@ -1,0 +1,17 @@
+{
+  "loio": "0858fd47cbee41d5bfde1ed8f25b32ce",
+  "title": "Manage Hedging Relationships: Documentation",
+  "file_path": "0858fd47cbee41d5bfde1ed8f25b32ce.html",
+  "page_id": 2555105032,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposure Items",
+    "Manage Hedging Relationships",
+    "Manage Hedging Relationships: Documentation"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Manage Hedging Relationships: Documentation</title><meta charset=\"utf-8\"><meta name=\"abstract\" content=\"View the existing documentation for the hedging relationship\"><meta name=\"description\" content=\"View the existing documentation for the hedging relationship\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio0858fd47cbee41d5bfde1ed8f25b32ce\"><h1 class=\"title topictitle1\">Manage Hedging Relationships: Documentation</h1><div class=\"body conbody\"><p class=\"shortdesc\">View the existing documentation for the hedging relationship</p>\n<p class=\"p\">On the top of the tab page you get list of documentation files created for the hedging relationship.</p>\n<div class=\"p\">In the <span class=\"ph uicontrol\">Documentation Details</span> area you can see the following information for the selected documentation: <ul class=\"ul\" id=\"loio0858fd47cbee41d5bfde1ed8f25b32ce__ul_lbl_5yt_sfb\">\n<li class=\"li\"><p class=\"p\">Version Number</p></li>\n<li class=\"li\"><p class=\"p\">Documentation Status</p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Ref.to Bus.Trans.</span> and <span class=\"ph uicontrol\">Bus.Trans.Date</span>\n</p></li>\n<li class=\"li\"><p class=\"p\">PDF-Based Forms: Form Name</p></li>\n</ul></div>\n<p class=\"p\">In the <span class=\"ph uicontrol\">Originals</span> area you can mark the listed document and choose <span class=\"ph uicontrol\">Display Original</span> to view\nthe documentation.</p>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"428c2971096b4072b3cac2567e404dfd.html\">Documentation of a Hedging Relationship</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,16 @@
+{
+  "loio": "bdcaebecf8e6484093a74f7cab55efd1",
+  "title": "Dedesignation of a Hedging Relationship",
+  "file_path": "bdcaebecf8e6484093a74f7cab55efd1.html",
+  "page_id": 2555101670,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Positions (P-HA)",
+    "Dedesignation of a Hedging Relationship"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Dedesignation of a Hedging Relationship</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiobdcaebecf8e6484093a74f7cab55efd1\"><h1 class=\"title topictitle1\">Dedesignation of a Hedging Relationship</h1><div class=\"body conbody\">\n<p class=\"p\">A hedging relationship is ended with dedesignation.</p>\n<p class=\"p\">Possible reasons for the dedesignation of a hedging relationship:</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">The underlying transaction is sold or settled</p></li><li class=\"li\"><p class=\"p\">The hedging instrument is sold or exercised</p></li><li class=\"li\"><p class=\"p\">The effectiveness test is not passed</p></li><li class=\"li\"><p class=\"p\">Management decides to close the hedging relationship</p></li></ul>\n<p class=\"p\">Dedesignation is performed in two steps. When you execute the <span class=\"ph uicontrol\">Dedesignate</span> function for the first time, the hedging relationship receives the status <span class=\"ph uicontrol\">Dedesignation Planned</span>.</p>\n<p class=\"p\">With this status, you can only perform retrospective effectiveness tests. In the second step, the final dedesignation is performed using the function <span class=\"ph uicontrol\">Change Dedesignation</span>, which changes the status of the hedging relationship to <span class=\"ph uicontrol\">Dedesignated</span>.</p>\n<p class=\"p\">During the dedesignation phase, the system automatically performs the last valuation of the hedging relationship.</p>\n<p class=\"p\">For fair value hedges, you need to perform a classification for the designated subpositions at the time of the dedesignation.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

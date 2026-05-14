@@ -1,0 +1,17 @@
+{
+  "loio": "070cda531198434de10000000a174cb4",
+  "title": "Fair Value Hedge (FVH) to Hedge Interest Rate Risk",
+  "file_path": "070cda531198434de10000000a174cb4.html",
+  "page_id": 2555102484,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposures (E-HA)",
+    "Fair Value Hedge (FVH)",
+    "Fair Value Hedge (FVH) to Hedge Interest Rate Risk"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Fair Value Hedge (FVH) to Hedge Interest Rate Risk</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio070cda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Fair Value Hedge (FVH) to Hedge Interest Rate Risk </h1><div class=\"body\">\n<p class=\"p\"> When you hedge an underlying transaction with fixed interest payments using a hedging transaction with variable interest, the fixed interest payments represent the exposure.\n</p>\n<p class=\"p\"> A fair value hedge can be used to attempt to transform the fixed payment flows into variable ones. This applies to all funds transactions, such as fixed-term deposits, interest rate instruments, or loans.\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">See also:</span>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"100cda531198434de10000000a174cb4.html\">FVH: Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"0a0cda531198434de10000000a174cb4.html\">FVH: Cross-Currency Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n<p class=\"p\"><a class=\"xref\" href=\"0d0cda531198434de10000000a174cb4.html\">FVH: Interest Rate Swap and a Cross-Currency Interest Rate Swap Used as a Hedging Transaction</a>\n</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

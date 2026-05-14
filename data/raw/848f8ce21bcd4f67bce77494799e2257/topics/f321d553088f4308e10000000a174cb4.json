@@ -1,0 +1,16 @@
+{
+  "loio": "f321d553088f4308e10000000a174cb4",
+  "title": "Open Items",
+  "file_path": "f321d553088f4308e10000000a174cb4.html",
+  "page_id": 2555104703,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Open Items"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Open Items</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiof321d553088f4308e10000000a174cb4\"><h1 class=\"title topictitle1\">Open Items</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span>\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> For information on this topic, see the FI documentation (accounts receivable and accounts payable): Executing the Payment Program and Processing Open Items.\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

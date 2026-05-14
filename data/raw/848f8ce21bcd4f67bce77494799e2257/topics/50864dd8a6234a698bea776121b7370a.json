@@ -1,0 +1,17 @@
+{
+  "loio": "50864dd8a6234a698bea776121b7370a",
+  "title": "HA Rule 642",
+  "file_path": "50864dd8a6234a698bea776121b7370a.html",
+  "page_id": 2555101326,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposure Items",
+    "Overview Hedge Accounting Rules",
+    "HA Rule 642"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>HA Rule 642</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio50864dd8a6234a698bea776121b7370a\"><h1 class=\"title topictitle1\">HA Rule 642</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">The hedge accounting rule <span class=\"ph sap-technical-name sap-technical-name\">642</span>\n<span class=\"ph uicontrol\">Des. Comp.: Spot / Non-Des. Comp.: Fwd + Fwd Points Amort.</span> is used in the following hedging scenario:</p>\n<ul class=\"ul\" id=\"loio50864dd8a6234a698bea776121b7370a__ul_xwy_mtq_d2b\">\n<li class=\"li\"><p class=\"p\">942: CFH: FX-Risk with Spot, Fwd + Fwd Points Amort.</p></li>\n</ul>\n<p class=\"p\">With this hedge accounting rule, the following occurs:</p>\n<ul class=\"ul\" id=\"loio50864dd8a6234a698bea776121b7370a__ul_qg5_ntq_d2b\">\n<li class=\"li\"><p class=\"p\">A change in the amount of the actual value of the spot component (<span class=\"ph sap-technical-name sap-technical-name\">NPV_SPOT</span>) is posted to the hedging\nreserve. </p></li>\n<li class=\"li\"><p class=\"p\">A change in the amount of the actual value of the forward component (<span class=\"ph sap-technical-name sap-technical-name\">NPV_FORWARD</span>) and the amortization\namount of the element <span class=\"ph sap-technical-name sap-technical-name\">ELEM_FORWARD</span> are used to calculate the cost of hedging reserve.</p></li>\n</ul>\n<img class=\"inline\" id=\"loio50864dd8a6234a698bea776121b7370a__image_prs_5vq_d2b\" src=\"loio5695e15a24184287a82b6e4bc538c0f4_LowRes.png\">\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

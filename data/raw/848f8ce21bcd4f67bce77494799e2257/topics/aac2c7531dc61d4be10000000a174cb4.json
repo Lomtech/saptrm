@@ -1,0 +1,16 @@
+{
+  "loio": "aac2c7531dc61d4be10000000a174cb4",
+  "title": "Special Valuation Class",
+  "file_path": "aac2c7531dc61d4be10000000a174cb4.html",
+  "page_id": 2555101584,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Special Valuation Class"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Special Valuation Class</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioaac2c7531dc61d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Special Valuation Class </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Definition</span>\n</p>\n<p class=\"p\"> The special valuation classes are used to classify the financial investments in a specific valuation area by asset type.\n</p>\n<p class=\"p\"> Examples of valuation classes are current assets and fixed assets for a German HGB valuation area, or trading, available for sale (AfS), and held to maturity (HTM) for an IAS valuation area.\n</p>\n<p class=\"p\"> The (special) valuation class is a differentiation term in the parallel valuation areas. Each <a class=\"xref\" href=\"d30cda531198434de10000000a174cb4.html\">subledger position</a> is assigned to a (special) valuation class.\n</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"> This characteristic is only displayed for the parallel valuation areas.\n</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

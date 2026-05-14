@@ -1,0 +1,16 @@
+{
+  "loio": "a3bc07ceb9e34cb4ae5802c0bf8c97e5",
+  "title": "Securities Account Group",
+  "file_path": "a3bc07ceb9e34cb4ae5802c0bf8c97e5.html",
+  "page_id": 2555104899,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Securities Account Group"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Securities Account Group</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioa3bc07ceb9e34cb4ae5802c0bf8c97e5\"><h1 class=\"title topictitle1\">Securities Account Group</h1><div class=\"body conbody\">\n<p class=\"p\">You can assign securities accounts to securities account groups. </p>\n<p class=\"p\">The securities account group is relevant in the parallel valuation areas only if you've defined the securities account group as a differentiation\nterm for the respective valuation area. You can define securities account groups in the <span class=\"ph uicontrol\">Define Securities Account\nGroups</span> Customizing activity.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

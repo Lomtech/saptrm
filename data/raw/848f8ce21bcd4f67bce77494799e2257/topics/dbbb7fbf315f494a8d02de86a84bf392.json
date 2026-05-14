@@ -1,0 +1,18 @@
+{
+  "loio": "dbbb7fbf315f494a8d02de86a84bf392",
+  "title": "Price Index Adjustment",
+  "file_path": "dbbb7fbf315f494a8d02de86a84bf392.html",
+  "page_id": 2555103871,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Financial Transaction Management",
+    "Apps for Processing Financial Transactions",
+    "Create Financial Transaction",
+    "Tabs",
+    "Price Index Adjustment"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Price Index Adjustment</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiodbbb7fbf315f494a8d02de86a84bf392\"><h1 class=\"title topictitle1\">Price Index Adjustment</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">When you create financial transactions for product types related to price indexes, the\n<span class=\"ph uicontrol\">Price Index Adj.</span> tab is available.</p>\n<p class=\"p\">Here you obtain an overview of all the data relevant for price index adjustments.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\">You use the <span class=\"ph uicontrol\">Run Automatic Adjustments - Rates/Prices</span> app to\nexecute the price index adjustments at the fixing dates.</p></aside>\n<p class=\"p\">For interest rate transactions of product types related to price indexes, price index\nadjustments are made periodically throughout the term. This tab shows you the current\nvalues.</p>\n<div class=\"section\"><div class=\"sectiondiv subsection\">\n<h3 class=\"p subsectiontitle\">Price Index Adjustment: Overview</h3>\n<p class=\"p\">This tab contains the <span class=\"ph uicontrol\">Price Index Adjustments: Overview</span>\ntable, which is divided according to the fixing date, weekday, fixing reference\nID, status, and index value.</p>\n<div class=\"p\">The following statuses for an index adjustment are possible:<ul class=\"ul\" id=\"loiodbbb7fbf315f494a8d02de86a84bf392__ul_nkl_fxb_5rb\">\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Fixed</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Not Fixed</span></p></li>\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">In Processing</span></p></li>\n</ul></div>\n<p class=\"p\">By double-clicking the line that you require, you can edit the corresponding\n<span class=\"ph uicontrol\">Price Index Adjustment: Detail View</span> in the lower area\nof the screen.</p>\n</div></div>\n</div><div class=\"related-links\"> <div class=\"relinfo\"><div class=\"relinfotitle \">Related Information</div><div><a class=\"link\" href=\"d9c51b519f79fe74e10000000a423f68.html\">Process Automatic Adjustments - Rates/Prices</a></div><div><a class=\"link\" href=\"7b377fb935f340edb15923f6c88a0ea8.html\">Price Index Adjustment Condition</a></div></div></div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

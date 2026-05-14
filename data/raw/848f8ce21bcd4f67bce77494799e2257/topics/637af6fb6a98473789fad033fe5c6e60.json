@@ -1,0 +1,17 @@
+{
+  "loio": "637af6fb6a98473789fad033fe5c6e60",
+  "title": "Withholding Tax Calculation in Contracts",
+  "file_path": "637af6fb6a98473789fad033fe5c6e60.html",
+  "page_id": 2555104258,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Withholding Tax",
+    "Business Transactions",
+    "Withholding Tax Calculation in Contracts"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Withholding Tax Calculation in Contracts</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio637af6fb6a98473789fad033fe5c6e60\"><h1 class=\"title topictitle1\">Withholding Tax Calculation in Contracts </h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<div class=\"section\" id=\"loio637af6fb6a98473789fad033fe5c6e60__section_kgm_scp_p5b\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n\n<p class=\"p\">If you want to perform a withholding tax calculation and post it in Treasury and Risk\nManagement you post tax-relevant flows.</p>\n<p class=\"p\">The operator posts the tax-relevant flows involving the customer account for the\ncorresponding business partner.</p>\n</section></div>\n<div class=\"section\" id=\"loio637af6fb6a98473789fad033fe5c6e60__section_yws_tcp_p5b\"><section class=\"section\" type=\"Procedure\"><h2 class=\"section_title\">Procedure</h2>\n\n<p class=\"p\">In the contract you define the flow types for which withholding tax must be\ncalculated and posted.</p>\n<p class=\"p\">You assign a contract to a customer using the <span class=\"ph uicontrol\">Control Data</span>\nindicator on the <span class=\"ph uicontrol\">Payment details</span> tab page in the contract.\nOnly then the system calculates and posts the withholding tax. </p>\n<p class=\"p\">Maintain the fields “ <span class=\"ph uicontrol\"> Business Place</span> ” and “ <span class=\"ph uicontrol\">Section\nCode</span> ” in a contract. In TRM, both fields can be maintained in the\nbox “Position indicator” of a transaction. Run the transaction FTR_CREATE/FTR_EDIT\nand on the menu tab choose <strong class=\"ph b\">Environment → Position Indicator</strong>.</p>\n<p class=\"p\">The integration to Financial Accounting guarantees that the values of these fields\nare also transferred to FI and are then part of the FI accounting document.</p>\n<p class=\"p\">The mapping of registration data, reporting, payment and due dates are based on these\nfields.</p>\n</section></div>\n<div class=\"section\" id=\"loio637af6fb6a98473789fad033fe5c6e60__section_tdq_5cp_p5b\"><section class=\"section\" type=\"Result\"><h2 class=\"section_title\">Result</h2>\n\n<p class=\"p\">You have calculated the withholding tax and saved it in the database.</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

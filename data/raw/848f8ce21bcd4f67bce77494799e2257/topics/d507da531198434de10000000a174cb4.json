@@ -1,0 +1,18 @@
+{
+  "loio": "d507da531198434de10000000a174cb4",
+  "title": "Condition Details",
+  "file_path": "d507da531198434de10000000a174cb4.html",
+  "page_id": 2555101946,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Financial Transaction Management",
+    "Apps for Processing Financial Transactions",
+    "Create Financial Transaction",
+    "Tabs",
+    "Condition Details"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Condition Details</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiod507da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Condition Details</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n\n<p class=\"p\">To see the conditions details of a financial transaction, you can either use a pushbutton on the <span class=\"ph uicontrol\">Structure</span> tab\nor in the upper applications toolbar.</p>\n<ul class=\"ul\" id=\"loiod507da531198434de10000000a174cb4__ul_unz_jjj_ygb\">\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"9f07da531198434de10000000a174cb4.html\">Condition\nDetails: Interest (New FiMa)</a>\n</p><p class=\"p\">These condition details are available for product categories\n<span class=\"ph sap-technical-name sap-technical-name\">\n550</span>, <span class=\"ph sap-technical-name sap-technical-name\">580</span>, and\n<span class=\"ph sap-technical-name sap-technical-name\">620</span>, if you have activated the new FiMa by\nchoosing <span class=\"ph uicontrol\">Parallel Conditions</span> in the <span class=\"ph uicontrol\">Cash\nFlow Calculation</span> field for these product types in the\nCustomizing settings for the product types. This setting enables the use of\nenhanced financial mathematics functions (new FiMa), such as parallel\nconditions and additional interest calculation types such as the\n<span class=\"ph uicontrol\">Average Compound Interest Calculation</span>. It\ninfluences how conditions are managed and therefore how cash flow is\ncalculated.</p></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"20b3caf16a5649d1816af67b630303f8.html\">Condition Details: Interest</a></p><ul class=\"ul\" id=\"loiod507da531198434de10000000a174cb4__ul_k4f_wzh_1hb\">\n<li class=\"li\"><p class=\"p\">For other financial transactions with interest conditions like <span class=\"ph uicontrol\">Fixed Term Deposits</span> and\n<span class=\"ph uicontrol\">Deposit at Notice</span>.</p></li>\n<li class=\"li\"><p class=\"p\">If you haven't activated the new FiMa as explained above.</p></li>\n</ul></li>\n<li class=\"li\"><p class=\"p\"><a class=\"xref\" href=\"8115da531198434de10000000a174cb4.html\">Interest Payment</a></p></li>\n</ul>\n<p class=\"p\">See also: <a class=\"xref\" href=\"9015da531198434de10000000a174cb4.html\">Interest Rate Adjustment Data</a> tab</p>\n</section></div>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,17 @@
+{
+  "loio": "a51cb8777b3543bfb29ff4955c6f279c",
+  "title": "HA Rule 643",
+  "file_path": "a51cb8777b3543bfb29ff4955c6f279c.html",
+  "page_id": 2555101121,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Exposure Items",
+    "Overview Hedge Accounting Rules",
+    "HA Rule 643"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>HA Rule 643</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loioa51cb8777b3543bfb29ff4955c6f279c\"><h1 class=\"title topictitle1\">HA Rule 643</h1><div class=\"body conbody\"><p class=\"shortdesc\"></p>\n<p class=\"p\">The HA rule <span class=\"ph sap-technical-name sap-technical-name\">643</span>\n<span class=\"ph uicontrol\">Des. Comp.: Intr. / Non-Des. Comp.: Time + Premium Amort.</span> is used in the following hedging scenario:</p>\n<ul class=\"ul\" id=\"loioa51cb8777b3543bfb29ff4955c6f279c__ul_ccj_bwq_d2b\">\n<li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">943: CFH: FX-Risk with Intrinsic, Time + Premium Amort. </span></p></li>\n</ul>\n<p class=\"p\">With this hedge accounting rule, the following occurs:</p>\n<ul class=\"ul\" id=\"loioa51cb8777b3543bfb29ff4955c6f279c__ul_ujd_cwq_d2b\">\n<li class=\"li\"><p class=\"p\">A change in the amount of the actual value of the intrinsic component (<span class=\"ph sap-technical-name sap-technical-name\">NPV_INTR</span>) is posted to the\nhedging reserve. </p></li>\n<li class=\"li\"><p class=\"p\">A change in the amount of the actual value of the time component (<span class=\"ph sap-technical-name sap-technical-name\">NPV_TIME</span>) and the amortization\namount of the premium (component <span class=\"ph sap-technical-name sap-technical-name\">NPV</span> +\n<span class=\"ph sap-technical-name sap-technical-name\">NPV_OTHER</span>) are used to calculate the cost of hedging reserve.</p></li>\n</ul>\n<img class=\"inline\" id=\"loioa51cb8777b3543bfb29ff4955c6f279c__image_svm_qxq_d2b\" src=\"loio1c784b72f6ac4a49b809fee280feb3c9_LowRes.png\">\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

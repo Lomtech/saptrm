@@ -1,0 +1,19 @@
+{
+  "loio": "1704c5536a51204be10000000a174cb4",
+  "title": "Selecting Open Payment Requests",
+  "file_path": "1704c5536a51204be10000000a174cb4.html",
+  "page_id": 2555104065,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Selecting Open Payment Requests"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Selecting Open Payment Requests</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1704c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Selecting Open Payment Requests</h1><div class=\"body\">\n<p class=\"p\"> The payment program identifies the open payment requests and selects the items to be paid. It basically pays items as late as possible. You specify the exact time of payment when configuring the payment program.\n</p>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Criteria for selecting open items: Payment program</span>\n</p>\n<p class=\"p\"> The selection of open payment requests is determined by the following factors:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">The due date of the items is basically determined by the due date and the level of urgency indicator in the payment request\n</p></li><li class=\"li\"><p class=\"p\">For each payment run, you specify the date of the next payment run. The program uses this date to determine whether an item is to be included in the current or the next payment run.\n</p></li></ul>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

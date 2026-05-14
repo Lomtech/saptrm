@@ -1,0 +1,18 @@
+{
+  "loio": "0e04c5536a51204be10000000a174cb4",
+  "title": "Payment Method: Additional Specifications",
+  "file_path": "0e04c5536a51204be10000000a174cb4.html",
+  "page_id": 2555103885,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Payment Method: Additional Specifications"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Payment Method: Additional Specifications</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio0e04c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Payment Method: Additional Specifications</h1><div class=\"body\">\n<div class=\"section\"><section class=\"section\" type=\"Definiton\"><h2 class=\"section_title\">Definiton</h2>\n<p class=\"p\"> The payment program groups payments according to these specifications.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2>\n<p class=\"p\"> You can define additional specifications (Mailstop Codes) per company code.\n</p>\n<p class=\"p\">For each additional specification made, a separate payment will be carried out. In the payment medium programs, you can select and sort where needed according to an additional specification. Correspondence can also be sorted using this criterion.\n</p>\n<p class=\"p\">Payment method specifications can be entered in the payment request.\n</p>\n<aside class=\"note sap-example example\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Example</strong></div>\n<p class=\"p\">\n</p><p class=\"p\">You can use additional specifications for controlling the issuing of checks. The specification could divert checks to be sent to partner firms by interoffice mail, instead of through the postal system. Since there are different kinds of interoffice mail systems, you can designate an additional payment method specification to represent the exact system you would like to utilize. This will greatly simplify operations with multiple mail systems, since checks can be separated by additional payment method specification at the time of printing.\n</p></aside>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

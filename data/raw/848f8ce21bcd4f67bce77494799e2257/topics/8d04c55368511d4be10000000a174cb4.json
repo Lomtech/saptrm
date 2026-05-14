@@ -1,0 +1,19 @@
+{
+  "loio": "8d04c55368511d4be10000000a174cb4",
+  "title": "Outputting the DME File into the File System",
+  "file_path": "8d04c55368511d4be10000000a174cb4.html",
+  "page_id": 2555105060,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Data Medium Exchange and Data Medium Administration",
+    "Outputting the DME File into the File System"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Outputting the DME File into the File System</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio8d04c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Outputting the DME File into the File System</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span></p>\n<p class=\"p\"> If required, you can write the file into the file system. You can also copy the file to the PC from the file system of the application server using the download function of DME administration. </p>\n<p class=\"p\">The name of the file can either be created by the system or be defined by the user. If the file name is assigned by the system, it consists of the disk format, date and time of creation and also a consecutive number. This ensures the file names in the file system are always unique. The file name assigned by the system can be taken from the payment medium program log.</p>\n<p class=\"p\">If you want to assign the file name yourself, you can create a variant for data medium exchange (per house bank if required), within which you define a file name. Note that the system likewise adds a consecutive number to the file name so that the name is unique for each program run. From an organizational point of view, you should make sure that files that already exist are not overwritten.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"></p><p class=\"p\">If you cannot find the file using DME administration, this could be due to the following reason: The directory that was written to when the payment medium program was started (for example, in background processing), cannot be read online. You should therefore choose a directory that can be written to and read by different machines.</p></aside>\n<p class=\"p\">Due to the problems mentioned above and the effect this has on data security, it is advisable not to write data to the file system. It may be advisable, however, to use this method if the DME file is \"picked up\" from the file system by an external program to be passed on to the bank.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

@@ -1,0 +1,19 @@
+{
+  "loio": "5404c55368511d4be10000000a174cb4",
+  "title": "Planning a Payment Proposal",
+  "file_path": "5404c55368511d4be10000000a174cb4.html",
+  "page_id": 2555102211,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Creating the Payment Proposal",
+    "Planning a Payment Proposal"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Planning a Payment Proposal</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5404c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Planning a Payment Proposal</h1><div class=\"body\">\n<p class=\"p\"> In order to plan a payment proposal, proceed as follows: </p>\n<ol class=\"ol\"><li class=\"li\"><p class=\"p\">Choose\n<span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Edit</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Proposal</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Plan</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">.</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>\n</p></li><li class=\"li\"><p class=\"p\">Enter the start date and time.</p></li><li class=\"li\"><p class=\"p\">If the payment program is to immediately create the payment proposal, you must click in the field Start immediately.</p></li><li class=\"li\"><p class=\"p\">If you want to test the payment medium programs using the dunning proposal data, select the option\n<span class=\"ph uicontrol\">with print programs</span>\n. This is generally only useful in the testing and configuration stages.\n</p></li><li class=\"li\"><p class=\"p\">Choose ENTER . </p></li></ol>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"></p><p class=\"p\">As well as the payment medium programs you can also schedule the reports for generating the payment proposal list (RFZALI00) and the exception list (RFZALI10). The names of these reports have been entered beforehand using PRINT PROGRAMS . </p><p class=\"p\">The additional option\n<span class=\"ph uicontrol\">With lists</span>\nthen appears in a pop-up window.\n</p></aside>\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Status Display</span>\n</p>\n<p class=\"p\">The system tells you that the proposal is being processed. Each time you choose ENTER , the current status of the proposal run is displayed. Upon completion of the job, the message that the proposal run has been executed appears. </p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

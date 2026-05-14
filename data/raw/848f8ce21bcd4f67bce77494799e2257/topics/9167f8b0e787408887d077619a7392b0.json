@@ -1,0 +1,16 @@
+{
+  "loio": "9167f8b0e787408887d077619a7392b0",
+  "title": "Grant",
+  "file_path": "9167f8b0e787408887d077619a7392b0.html",
+  "page_id": 2555101853,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Grant"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Grant</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio9167f8b0e787408887d077619a7392b0\"><h1 class=\"title topictitle1\">Grant</h1><div class=\"body conbody\">\n<p class=\"p\">Legal instrument used to establish a funding relationship between a sponsor (grantor) and\ngrantee, in order to carry out a public purpose of support or stimulation in which the\nsponsor doesn't expect to be substantially involved.</p>\n<p class=\"p\">A grant may be for any purpose and cover all or only part of the costs of the project in\nquestion. You must enter a grant type for each grant you create in Grants Management\n(GM).</p>\n<div class=\"section\" id=\"loio9167f8b0e787408887d077619a7392b0__section_d5z_btf_mqb\"><section class=\"section\" type=\"Use as Differentiation Term for Treasury Positions\"><h2 class=\"section_title\">Use as Differentiation Term for Treasury Positions</h2>\n\n<p class=\"p\">You can use this field as differentiation term for your treasury positions. For more\ninformation, see also <a class=\"xref\" href=\"180dda531198434de10000000a174cb4.html\">Differentiation Terms</a>.</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

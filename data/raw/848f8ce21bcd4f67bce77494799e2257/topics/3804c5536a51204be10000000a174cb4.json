@@ -1,0 +1,17 @@
+{
+  "loio": "3804c5536a51204be10000000a174cb4",
+  "title": "Execution of the Payment Program",
+  "file_path": "3804c5536a51204be10000000a174cb4.html",
+  "page_id": 2555102654,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Execution of the Payment Program</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3804c5536a51204be10000000a174cb4\"><h1 class=\"title topictitle1\">Execution of the Payment Program</h1><div class=\"body\">\n<p class=\"p\"> The payment program is designed so that both outgoing and incoming payments can be processed.\nThese functions are supported for payment transactions with suppliers and customers and\nbetween bank accounts (G/L accounts).</p>\n<p class=\"p\">The payment program for payment requests uses the same components as the standard payment\nprogram (FI payment program) in Customizing, payment proposal processing and creation of\npayment media.</p>\n<p class=\"p\">All the common payment procedures are in the standard system or can be set up within\nCustomizing.</p>\n<p class=\"p\">All default values used in the payment program are required in the following.</p>\n<p class=\"p\">The payment program processes domestic and foreign payments for suppliers, customers and\nbetween bank accounts. It generates the payment program and provides the data for the payment\nmedium programs. These ABAP programs print a payment list, payment forms (for example, checks)\nor generate data media such as magnetic tape or disk. A further possibility is the\ndistribution of payment data to a cental system via ALE.</p>\n<p class=\"p\">The standard system contains payment media programs and forms for the most common payment\nprocedures. The system can also create payments on disk. It should be noted that payment forms\nand payment file formats are different from country/region to country/region and also\nsometimes from bank to bank. You will find details about payment forms and file formats of\nyour country/region in the country/region-specific report documentation. SAPscript tools are\nused to design new payment forms and adapt existing forms. You will find a description in the\nbasis documentation.</p>\n<p class=\"p\">The payment medium program stores data in SAP print management and data medium exchange data in\ndata medium exchange management. From there, the data is retrieved seperately per form/data\nmedium and output via printer or data medium after the relevant forms (or a disk) have been\ninserted.</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

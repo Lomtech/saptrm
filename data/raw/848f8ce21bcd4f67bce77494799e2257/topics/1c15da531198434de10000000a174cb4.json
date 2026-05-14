@@ -1,0 +1,18 @@
+{
+  "loio": "1c15da531198434de10000000a174cb4",
+  "title": "Interest Rate Swaps",
+  "file_path": "1c15da531198434de10000000a174cb4.html",
+  "page_id": 2555103651,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Overview of Financial Instruments",
+    "Derivatives",
+    "Interest Rate Derivatives",
+    "Swaps",
+    "Interest Rate Swaps"
+  ],
+  "depth": 6,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Interest Rate Swaps</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio1c15da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Interest Rate Swaps</h1><div class=\"body\">\n<p class=\"p\" id=\"loio1c15da531198434de10000000a174cb4__IRS_DEFINITION\">Interest rate swaps are transactions that exchange payment flows on\nthe basis of different interest rates in the <span class=\"ph emphasis emphasis\">same</span> currency. You\nagree on a certain term, usually over a year. An interest rate swap enables you to hedge\npossible interest rate risks. </p>\n<p class=\"p\">Possible combinations of interest rate swaps are: </p>\n<ul class=\"ul\" id=\"loio1c15da531198434de10000000a174cb4__ul_epj_yt1_c1b\">\n<li class=\"li\"><p class=\"p\">Payer </p><p class=\"p\">Outgoing interest payments are fixed - incoming interest payments are\nvariable</p></li>\n<li class=\"li\"><p class=\"p\">Receiver </p><p class=\"p\">Incoming interest payments are fixed - outgoing interest payments are\nvariable</p></li>\n<li class=\"li\"><p class=\"p\">Basis </p><p class=\"p\">Variable against variable interest payments</p></li>\n<li class=\"li\"><p class=\"p\">Fix to fix</p><p class=\"p\">Fixed against fixed interest payments</p></li>\n</ul>\n<p class=\"p\">You can display the two cash flows for an interest rate swap either together or\nseparately. This provides you with an overview of the incoming and outgoing payments.\nFor swaps with a variable interest rate calculation, manual or automatic interest rate\nadjustments are carried out over the course of the term and the cash flow is gradually\nfilled with the current values. </p>\n<aside class=\"note sap-example example\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Example</strong></div>\n<p class=\"p\"> A company finances an existing investment with a fixed interest loan at 6.5%. The\ncompany treasurer expects falling interest rates and, therefore, agrees an interest\nrate swap with a bank. From this interest rate swap, the company receives a fixed\ninterest yield of 7.25% and pays a variable rate of 6-M-EURIBOR. </p><p class=\"p\">The company, therefore, has the following interest rate costs: </p><ul class=\"ul\" id=\"loio1c15da531198434de10000000a174cb4__ul_cp3_st1_c1b\">\n<li class=\"li\"><p class=\"p\">Interest expenditure of 6.5% and 6-M-EURIBOR </p></li>\n<li class=\"li\"><p class=\"p\">Interest yield from SWAP of 7.25% </p></li>\n</ul><p class=\"p\">This results in interest expenditure of 6M-EURIBOR - 0.75% </p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

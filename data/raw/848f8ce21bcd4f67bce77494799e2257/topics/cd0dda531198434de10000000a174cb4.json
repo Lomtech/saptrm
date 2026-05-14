@@ -1,0 +1,16 @@
+{
+  "loio": "cd0dda531198434de10000000a174cb4",
+  "title": "General Valuation Class",
+  "file_path": "cd0dda531198434de10000000a174cb4.html",
+  "page_id": 2555102668,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "General Valuation Class"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>General Valuation Class</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loiocd0dda531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">General Valuation Class </h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Definition</span>\n</p>\n<p class=\"p\"> General valuation classes are used to classify transactions by asset type, and apply across all valuation areas.\n</p>\n<p class=\"p\"> By contrast, <a class=\"xref\" href=\"aac2c7531dc61d4be10000000a174cb4.html\">special valuation classes</a> are defined at valuation area level. The general valuation classes are assigned to the special valuation classes for the valuation areas. For each transaction, the system can therefore determine the special valuation classes for the different valuation areas on the basis of the general valuation class.\n</p>\n<p class=\"p\"> You assign the general valuation class to a position when you create the financial transaction.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

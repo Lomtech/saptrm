@@ -1,0 +1,16 @@
+{
+  "loio": "6551ef8f9a6f4b0dbfc8b28e036991d3",
+  "title": "Functional Area",
+  "file_path": "6551ef8f9a6f4b0dbfc8b28e036991d3.html",
+  "page_id": 2555103630,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Functional Area"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Functional Area</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio6551ef8f9a6f4b0dbfc8b28e036991d3\"><h1 class=\"title topictitle1\">Functional Area</h1><div class=\"body conbody\">\n<p class=\"p\">Structure criterion for an enterprise or government based on functional aspects </p>\n<div class=\"section\" id=\"loio6551ef8f9a6f4b0dbfc8b28e036991d3__section_d5z_btf_mqb\"><section class=\"section\" type=\"Use as Differentiation Term for Treasury Positions\"><h2 class=\"section_title\">Use as Differentiation Term for Treasury Positions</h2>\n\n<p class=\"p\">You can use this field as differentiation term for your treasury positions. For more\ninformation, see also <a class=\"xref\" href=\"180dda531198434de10000000a174cb4.html\">Differentiation Terms</a>.</p>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

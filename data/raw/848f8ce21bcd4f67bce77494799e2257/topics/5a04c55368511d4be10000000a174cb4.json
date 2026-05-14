@@ -1,0 +1,19 @@
+{
+  "loio": "5a04c55368511d4be10000000a174cb4",
+  "title": "Displaying the Payment Proposal",
+  "file_path": "5a04c55368511d4be10000000a174cb4.html",
+  "page_id": 2555104035,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Execution of the Payment Program",
+    "Creating the Payment Proposal",
+    "Displaying the Payment Proposal"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Displaying the Payment Proposal</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio5a04c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Displaying the Payment Proposal</h1><div class=\"body\">\n<p class=\"p\"> When you displaying the payment proposal, you can also gives you the capability to monitor its contents. Every payment is displayed, even if you divided processing between different accounting clerks. Following processing, you can view the payment proposal again to see which changes have been made, and by which clerks. </p>\n<p class=\"p\">To display the payment proposal, choose\n<span class=\"ph menucascade\"><img src=\"themes/sap-light/img/navstart.gif\" alt=\"Start of the navigation path\" title=\"Start of the navigation path\"><span class=\"ph uicontrol\">Edit</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Proposal</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\">Display.</span>&nbsp;<img src=\"themes/sap-light/img/navstep.gif\" alt=\"Next navigation step\" title=\"Next navigation step\">&nbsp;<span class=\"ph uicontrol\"> To obtain a general overview of the created payments, use the functions Sort and Search.</span><img src=\"themes/sap-light/img/navend.gif\" alt=\"End of the navigation path\" title=\"End of the navigation path\"></span>\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

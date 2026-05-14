@@ -1,0 +1,19 @@
+{
+  "loio": "e503c55368511d4be10000000a174cb4",
+  "title": "Modifying the Forms",
+  "file_path": "e503c55368511d4be10000000a174cb4.html",
+  "page_id": 2555104063,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Forms",
+    "Modifying the Forms"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Modifying the Forms</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loioe503c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Modifying the Forms</h1><div class=\"body\">\n<p class=\"p\">The standard system contains an appropriate country/region-specific form for every standard\npayment method. These forms can be copied and modified as necessary. The new form must then be\nallocated to the respective payment methods using the company code-dependent definitions (see\n<a class=\"xref\" href=\"e803c55368511d4be10000000a174cb4.html\">Form Printing Specifications</a>). You can change the standard\ntexts, the position of the windows or the highlighting of individual words and letters. If you\nneed other information from the payment run in your forms, you can insert the appropriate\nsymbols in your text elements. This allows you to use the field contents from the structures\n<span class=\"ph sap-technical-name sap-technical-name\">REGUH</span>,\n<span class=\"ph sap-technical-name sap-technical-name\">REGUP</span>, <span class=\"ph sap-technical-name sap-technical-name\">REGUD\nSPELL</span> and <span class=\"ph sap-technical-name sap-technical-name\">FASBE</span> for your form.\nYou can see which fields are contained in the above-mentioned structures using the ABAP\nDictionary.</p>\n</div><div class=\"related-links\"> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

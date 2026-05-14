@@ -1,0 +1,16 @@
+{
+  "loio": "4f0e5b9b49dd01b1e10000000a421bc1",
+  "title": "Position Management Category",
+  "file_path": "4f0e5b9b49dd01b1e10000000a421bc1.html",
+  "page_id": 2555104668,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Terms in Position Management and Treasury Accounting",
+    "Position Management Category"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Position Management Category</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio4f0e5b9b49dd01b1e10000000a421bc1\"><h1 class=\"title topictitle1\">Position Management Category</h1><div class=\"body conbody\"> <p class=\"p\">Positions belonging to different product categories place different demands on position management (valuation). Therefore, different position management categories have been defined, and these categories use different procedures for key date valuation.</p> <p class=\"p\">The system uses the following eight <span class=\"ph emphasis emphasis\">position management categories</span>:</p> <ol class=\"ol\"><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Securities/Loans/Money Market Transactions/Listed Options, Normal Style (Without Index-Linked Bonds)</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Index-Linked Bonds</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">OTC Derivatives (Profit-Related Postings)</span> (used for OTC options, interest rate swaps, FRAs, and caps/floors)</p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Listed Options (Future Style) and Futures</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Foreign Exchange Transactions</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Forwards/Repos</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">OTC Derivatives (Transfer Posting to Underlying)</span></p></li><li class=\"li\"><p class=\"p\"><span class=\"ph uicontrol\">Securities/Loans with Installment Repayment (Without Index-Linked Bonds)</span></p></li></ol> <p class=\"p\">A <a class=\"xref\" href=\"1417d7537c98424de10000000a174cb4.html\">position management procedure</a> relates to one position management category.</p> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

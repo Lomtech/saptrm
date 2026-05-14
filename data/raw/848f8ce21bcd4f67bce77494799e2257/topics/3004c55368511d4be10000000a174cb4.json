@@ -1,0 +1,19 @@
+{
+  "loio": "3004c55368511d4be10000000a174cb4",
+  "title": "Posting Exchange Rate Differences: Payment Program",
+  "file_path": "3004c55368511d4be10000000a174cb4.html",
+  "page_id": 2555103736,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Posting Exchange Rate Differences: Payment Program"
+  ],
+  "depth": 7,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Posting Exchange Rate Differences: Payment Program</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio3004c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Posting Exchange Rate Differences: Payment Program</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span></p>\n<p class=\"p\"> Unless you specify otherwise, the payment program posts the\n<span class=\"ph emphasis emphasis\">exchange rate differences</span>\narising from foreign currency items. It does this by determining the difference between the rate at the time of posting and that when the item is paid. In order to determine the local currency amount at the time of payment, the payment program uses the exchange rates defined in the system.\n</p>\n<p class=\"p\">If you do\n<span class=\"ph emphasis emphasis\">not</span>\nwant the\n<span class=\"ph emphasis emphasis\">exchange rate differences</span>\nto be posted, you should specify this for the paying company code. See\n<a class=\"xref\" href=\"cd03c55368511d4be10000000a174cb4.html\">Specifications for the Paying Company Code</a>\n. If you do so, the payment program calculates the equivalent payment amount in local currency on the basis of the local currency amounts in the paid items.\n</p>\n<p class=\"p\">If the items to be paid have been reevaluated in the course of balance sheet preparation work, the adjustment postings to the receivables and payables accounts are reversed when the item is paid. At the same time, in order to determine the payment amount in local currency, the system also reads the valuation difference noted in the item.</p>\n<aside class=\"note\" aria-labelledby=\"n0t\"><div class=\"title\" id=\"n0t\"><strong>Note</strong></div>\n<p class=\"p\"></p><p class=\"p\">If the payment program posts exchange rate differences, these actual exchange rate differences are noted in the cleared item. Such exchange rate differences are only temporary because the final difference can only be calculated when the bank statement is posted. It follows that you may have two exchange rate difference postings. If the payment program does not post any exchange rate differences, the cleared item does not then contain any information on realized differences. The exchange rate differences are not posted until the bank statement is posted. This method does not allow you to assign the differences to affiliated and non-affiliated companies for example. Further, it is not possible to retroactively assign the exchange rate variances to the business areas or cost centers which generated them.</p></aside>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

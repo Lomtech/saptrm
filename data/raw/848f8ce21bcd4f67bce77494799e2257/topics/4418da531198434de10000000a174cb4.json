@@ -1,0 +1,15 @@
+{
+  "loio": "4418da531198434de10000000a174cb4",
+  "title": "Securities Account Position List",
+  "file_path": "4418da531198434de10000000a174cb4.html",
+  "page_id": 2555102084,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Securities Account Management",
+    "Securities Account Position List"
+  ],
+  "depth": 3,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Securities Account Position List</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio4418da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Securities Account Position List</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span>\n</p>\n<p class=\"p\"> This list shows, for each company code and securities account, a list of all the class positions in the account on any given date.\n</p>\n<p class=\"p\">The list is displayed via the <span class=\"ph uicontrol\">SAP List Viewer</span> .\n</p>\n<p class=\"p\">You can display the following columns:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Short name - ID number\n</p></li><li class=\"li\"><p class=\"p\">ID number\n</p></li><li class=\"li\"><p class=\"p\">Nominal\n</p></li><li class=\"li\"><p class=\"p\">Nominal currency\n</p></li><li class=\"li\"><p class=\"p\">Units\n</p></li></ul>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

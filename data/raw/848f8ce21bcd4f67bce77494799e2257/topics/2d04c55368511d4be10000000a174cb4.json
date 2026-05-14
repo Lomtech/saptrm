@@ -1,0 +1,20 @@
+{
+  "loio": "2d04c55368511d4be10000000a174cb4",
+  "title": "Document Type for Payments",
+  "file_path": "2d04c55368511d4be10000000a174cb4.html",
+  "page_id": 2555102165,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Payment",
+    "Payment Program for Payment Requests (FI-BL)",
+    "Customizing of the Payment Program",
+    "Control of the Payment Program",
+    "Specifications for Posting Payments",
+    "Document Type for Payments"
+  ],
+  "depth": 8,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Document Type for Payments</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio2d04c55368511d4be10000000a174cb4\"><h1 class=\"title topictitle1\">Document Type for Payments</h1><div class=\"body\">\n<p class=\"p\"><span class=\"ph emphasis emphasis\">Use</span></p>\n<p class=\"p\"> You specify the document type which the payment program should use for posting the payments\nwhen making the country/region-specific specifications for the payment method. The document\ntype must be defined using internal number assignment.</p>\n<p class=\"p\">You can specify two document types for cross-company code payments. One document type is used for the document in the paying company code, the other for the clearing postings in the other company codes.</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

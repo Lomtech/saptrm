@@ -1,0 +1,16 @@
+{
+  "loio": "4cec0dcdd51d4c94bb98093f31b53bad",
+  "title": "Distributing Position Outflows to Subpositions",
+  "file_path": "4cec0dcdd51d4c94bb98093f31b53bad.html",
+  "page_id": 2555102249,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Positions (P-HA)",
+    "Distributing Position Outflows to Subpositions"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Distributing Position Outflows to Subpositions</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loio4cec0dcdd51d4c94bb98093f31b53bad\"><h1 class=\"title topictitle1\">Distributing Position Outflows to Subpositions</h1><div class=\"body conbody\">\n<p class=\"p\">When you sell a position or partial position that is part of a hedging position, you have to specify after the sale the subposition from which it originates.\n</p>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

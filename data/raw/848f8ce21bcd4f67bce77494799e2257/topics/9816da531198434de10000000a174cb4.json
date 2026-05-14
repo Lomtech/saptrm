@@ -1,0 +1,17 @@
+{
+  "loio": "9816da531198434de10000000a174cb4",
+  "title": "Open Transaction and Close Transaction",
+  "file_path": "9816da531198434de10000000a174cb4.html",
+  "page_id": 2555104941,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Accounting",
+    "Posting",
+    "Margin Management",
+    "Open Transaction and Close Transaction"
+  ],
+  "depth": 5,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Open Transaction and Close Transaction</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page topic  - topic-topic \" id=\"loio9816da531198434de10000000a174cb4\"><h1 class=\"title topictitle1\">Open Transaction and Close Transaction</h1><div class=\"body\"> <p class=\"p\">An open transaction is used to open a futures position or an options position on the market. The counter transaction used to clear or close the position is called a close transaction. This breaks any existing market commitments.\n</p> <p class=\"p\">Open and close transactions are expressed as <span class=\"ph uicontrol\">Purchases</span> or <span class=\"ph uicontrol\">Sales</span>. A position may be opened by both a purchase (long position) and a sale (short position).\n</p> <p class=\"p\">The following applies to clearing a position:\n</p> <div class=\"table-wrapper tablenoborder\"><table summary=\"\" class=\"table\" frame=\"border\" border=\"1\" rules=\"all\"><colgroup><col width=\"50%\"><col width=\"50%\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\">Open purchase\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\">Cleared by: Close sale\n</p></td></tr><tr class=\"row\"><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\">Open sale\n</p></td><td class=\"entry\" style=\"vertical-align:top;\"><p class=\"p\">Cleared by: Close purchase\n</p></td></tr></tbody></table></div> <p class=\"p\">You should enter initial margins, charges, commissions, and taxes as additional flows.\n</p> <p class=\"p\">The final gains/losses for forward exchange transactions are only determined when the item is cleared. You therefore have to correctly assign the close transactions to the open positions. The system checks whether the open positions available are sufficient. If the number of cleared units exceeds the open items, the system displays an error message.\n</p> </div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}

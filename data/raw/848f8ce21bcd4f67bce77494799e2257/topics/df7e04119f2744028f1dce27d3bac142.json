@@ -1,0 +1,16 @@
+{
+  "loio": "df7e04119f2744028f1dce27d3bac142",
+  "title": "Creating Notes on a Hedging Relationship",
+  "file_path": "df7e04119f2744028f1dce27d3bac142.html",
+  "page_id": 2555101959,
+  "github_link": "",
+  "toc_path": [
+    "Treasury and Risk Management",
+    "Transaction Manager",
+    "Hedge Accounting",
+    "Hedge Accounting for Positions (P-HA)",
+    "Creating Notes on a Hedging Relationship"
+  ],
+  "depth": 4,
+  "body_html": "<!DOCTYPE html\n  SYSTEM \"about:legacy-compat\">\n<html lang=\"en-us\" dir=\"ltr\"><head><title>Creating Notes on a Hedging Relationship</title><meta charset=\"utf-8\"><link rel=\"stylesheet\" type=\"text/css\" media=\"screen,projection\" href=\"/resource/css/style-v2.css\"><script type=\"text/javascript\" src=\"js/sap-strings.js\"></script></head><body class=\"en-us sap-light centered navigation-default enumeration-disabled\"><div id=\"d4h5-main-container\" class=\"container_12\" role=\"application\"><div id=\"d4h5-section-container\" class=\"grid_12\"><div id=\"d4h5-main-content\" class=\"grid_8 alpha omega\"><section><div class=\"page concept  - topic-topic concept-concept \" id=\"loiodf7e04119f2744028f1dce27d3bac142\"><h1 class=\"title topictitle1\">Creating Notes on a Hedging Relationship</h1><div class=\"body conbody\">\n<div class=\"section\"><section class=\"section\" type=\"Use\"><h2 class=\"section_title\">Use</h2><p class=\"p\">You can use this function for <span class=\"ph emphasis emphasis\">language-specific</span> notes to do the following:\n</p>\n<ul class=\"ul\"><li class=\"li\"><p class=\"p\">Create the notes for a hedging relationship and store them\n</p></li><li class=\"li\"><p class=\"p\">Display and change existing notes\n</p></li></ul>\n<p class=\"p\">The subscreen displays which notes exist. The notes are created with note type THX_HR TTXID.\n</p>\n<p class=\"p\">You can make a selection to edit individual texts/notes. All notes for a hedging relationship can be stored. The notes can be created in different languages.\n</p>\n</section></div>\n<div class=\"section\"><section class=\"section\" type=\"Activities\"><h2 class=\"section_title\">Activities</h2><ol class=\"ol\"><li class=\"li\"><p class=\"p\">To create or change a note in the change mode of the hedging relationship, choose <img class=\"inline\" src=\"loio3594716df53a4a93aa62429a3a080d5b_LowRes.png\" alt=\"Edit Notes\" title=\"Edit Notes\"> alongside the number of the hedging relationship.\n</p></li><li class=\"li\"><p class=\"p\">Create a short description for the note.\n</p></li><li class=\"li\"><p class=\"p\">By choosing the <span class=\"ph uicontrol\">Editor</span> pushbutton, you call up an entry screen. Create your note here and then choose <span class=\"ph uicontrol\">Back</span>.\n</p></li><li class=\"li\"><p class=\"p\">With the <span class=\"ph uicontrol\">Other Languages</span> pushbutton, you can also create the note in other languages.\n</p></li><li class=\"li\"><p class=\"p\">Save the hedging relationship once you have left the note function.\n</p></li></ol>\n</section></div>\n</div></div></section><div class=\"clear\"></div>\n</div></div></div></body></html>"
+}
